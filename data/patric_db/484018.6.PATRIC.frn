@@ -1,0 +1,470 @@
+>fig|484018.6.rna.1   tRNA-Met-CAT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcgggatagctcagctggttagagcgcatgattcataatcatgaggtccccggttcaat
+cccgggtcccgctacta
+>fig|484018.6.rna.2   tRNA-Met-CAT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcgggatagctcagctggttagagcgcatgattcataatcatgaggtccccggttcaat
+cccgggtcccgctacaa
+>fig|484018.6.rna.3|BACPLE_02288   tRNA-Lys-TTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gattcgctagctcagcaggtagagcacaacacttttaatgttggggtcctgggttcgagc
+cccaggcggatca
+>fig|484018.6.rna.4|BACPLE_02308   tRNA-Pro-GGG   [Bacteroides plebeius DSM 17135 | 484018.6]
+cggggtgtagctcagcccggttagagtacgcgtctggggggcgtgtggtcgctggttcga
+atccagtcaccccga
+>fig|484018.6.rna.5   tRNA-Met-CAT   [Bacteroides plebeius DSM 17135 | 484018.6]
+cgcggagtggagcagttggtagctcgttgggctcataacccaaaggtcgtctgttcgagt
+caggcctccgcaacta
+>fig|484018.6.rna.6   tRNA-Met-CAT   [Bacteroides plebeius DSM 17135 | 484018.6]
+cgcggagtggagcagttggtagctcgttgggctcataacccaaaggtcgtctgttcgagt
+caggcctccgcaacta
+>fig|484018.6.rna.7   tRNA-Undet-???   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttctatatagctcagtcggcagagcgcattgtataatgaggtcggcggttcgagtccgcc
+tatagaaacaa
+>fig|484018.6.rna.8|BACPLE_00688   tRNA-Val-TAC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgccca
+>fig|484018.6.rna.9|BACPLE_00689   tRNA-Val-TAC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgccca
+>fig|484018.6.rna.10   tRNA-Val-TAC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgcccacct
+>fig|484018.6.rna.11|BACPLE_00691   tRNA-Val-TAC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgccca
+>fig|484018.6.rna.12   tRNA-Arg-ACG   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggccgcgtagctcaactgaatagagtagctgactacggatcagccggttacaggtttgaa
+tcctgtcgcggtcacaa
+>fig|484018.6.rna.13|BACPLE_00809   tRNA-Arg-ACG   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggccacgtagctcaactgaatagagtagctgactacggatcagccggttacaggtttgaa
+tcctgtcgtggtca
+>fig|484018.6.rna.14   tRNA-Arg-ACG   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggccgcgtagctcaactgaatagagtagctgactacggatcagccggttacaggtttgaa
+tcctgtcgcggtcacca
+>fig|484018.6.rna.15   tRNA-Arg-ACG   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggccgcgtagctcaactgaatagagtagctgactacggatcagccggttacaggtttgaa
+tcctgtcgcggtcacct
+>fig|484018.6.rna.16   tRNA-Gly-CCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggcagtagctcagttggtagagcatcagcttcccaagctgagggtcacgggttcgagt
+cccgcttgccgctcct
+>fig|484018.6.rna.17   tRNA-Lys-CTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcactcttagctcagttggtagagcaactgactcttaatcagtgggtccagggttcgaat
+ccctgagggtgtacaa
+>fig|484018.6.rna.18   tRNA-Lys-CTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcactcttagctcagttggtagagcaactgactcttaatcagtgggtccagggttcgaat
+ccctgagggtgtaccg
+>fig|484018.6.rna.19|BACPLE_00010   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacacat
+gcaagtcgaggggcagcgggattgaagcttgcttcaattgccggcgaccggcgcacgggt
+gagtaacgcgtatccaaccttccgtacactcagggatagcctttcgaaagaaagattaat
+acctgatggtatgatgagattgcatgatagcatcattaaagatttatcggtgtacgatgg
+ggatgcgttccattaggtagtaggcggggtaacggcccacctagcctacgatggataggg
+gttctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggagg
+cagcagtgaggaatattggtcaatggacgagagtctgaaccagccaagtagcgtgaagga
+tgaaggtcctacggattgtaaacttcttttataagggaataaaacctcccacgtgtggga
+gcttgtatgtaccttatgaataagcatcggctaactccgtgccagcagccgcggtaatac
+ggaggatgcgagcgttatccggatttattggtttaaagggagcgcagacgggtcgttaag
+tcagctgtgaaagtttggggctcaaccttaaaattgcagttgatactgcgtccttgagtg
+cggttgagtgtgcgattcgtggtgtagcgtgaatgcttagaatatcacgaagaactccga
+tgcgaaggcagcacac
+>fig|484018.6.rna.20   tRNA-Leu-TAA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gctcgaatggtggaatcggtagacacgagggacttaaaatcccttggccattgcggctgt
+gcgggttcaagtcccgcttcgagtacga
+>fig|484018.6.rna.21|BACPLE_00084   tRNA-Gly-GCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|484018.6.rna.22   tRNA-Met-CAT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggacttgtagctcagttggttagagcaacagactcataatctggaggtcccaggttcaag
+ccctggctggtccacga
+>fig|484018.6.rna.23   tRNA-Gln-TTG   [Bacteroides plebeius DSM 17135 | 484018.6]
+tggactatggtgtaatggtagcacaacaggttttggttctgtttgtccaggttcgaatcc
+tggtagtccaacta
+>fig|484018.6.rna.24   tRNA-Asp-GTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggtgcgttagttcagttggttagaatacatgcctgtcacgcatggggtcacgggttcgag
+tcccgtacgcaccgcga
+>fig|484018.6.rna.25   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacacat
+gcaagtcgaggggcagcgggattgaagcttgcttcaattgccggcgaccggcgcacgggt
+gagtaacgcgtatccaaccttccgtacactcagggatagcctttcgaaagaaagattaat
+acctgatggtatgatgagattgcatgatagcatcattaaagatttatcggtgtacgatgg
+ggatgcgttccattaggtagtaggcggggtaacggcccacctagcctacgatggataggg
+gttctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggagg
+cagcagtgaggaatattggtcaatggacgagagtctgaaccagccaagtagcgtgaagga
+tgaaggtcctacggattgtaaacttcttttataagggaataaaacctcccacgtgtggga
+gcttgtatgtaccttatgaataagcatcggctaactccgtgccagcagccgcggtaatac
+ggaggatgcgagcgttatccggatttattgggtttaaagggagcgcagacgggtcgttaa
+gtcagctgtgaaagtttggggctcaaccttaaaattgcagttgatactggcgtccttgag
+tgcggttgaggtgtgcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaa
+ctccgattgcgaaggcagcacactaagccgtaactgacgttcatgctcgaaagtgtgggt
+atcaaacaggattagataccctggtagtccacacggtaaacgatggatactcgctgttgg
+cgatatacagtcagcggcttagcgaaagcgttaagtatcccacctggggagtacgccggc
+aacggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttat
+tcgatgatacgcgaggaaccttacccgggcttaattgcaaaggaatgatctgaaacagtc
+agtcttcggactttgtgaggtgctgcatgtgtcgtcagctcgtgccgtgagtgtcgctta
+agtgcaataacgagcgcatccctccgccgccagttacctaacaggtaa
+>fig|484018.6.rna.26   tRNA-Leu-CAA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcccagatggcggaatcggtagacgcgctggtctcaaacaccagtggagtaacatccatc
+ccggttcgaccccgggtctgggtacct
+>fig|484018.6.rna.27   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggggtacgggaaaccccctcgccgaaagactaaggtttcctgatcaacgctaatcggatc
+agggtaagtcgggtcctaaggttcagccgaacggcgagaccgatggcagaaacggttaat
+attccgttactacctttgagggtgacgtggggacgcagcagtgacaccgccgccggctga
+cggaatagccggttaaagagtgtagacgttgatttccgcaggcaaatccacggaaagagt
+cgaacttgacagtacaccaattccttcgggaagcagtgatagtgcgggtaagcagactgc
+cgagaaaatccgctaaacataacttcagaggtacccgtaccgcaaacggacacacgtagt
+cgggttgaatatactaaggcgcttgagtgaatcacggttaaggaactaggcaaactgacc
+ctgtaacttcgggataaagggtccctacccagaaatgggagggcgcagagaataggtcca
+ggcaactgtttaacaaaaacacagggctgtgctaatatgaaagtagacgtatacagcctg
+acacctgcccggtgctggaaggttaagaggagatgtcatcgcaagagaagcattgaattg
+aagccccagtaaacggcggccgtaactataacggtcctaaggtagcgaaattccttgtcg
+ggtaagttccgacctgcacgaatggtgtaatgatccggacgctgtctcaaccgtgagctc
+agtgaaattgtagtatcggtgaagatgccgattacccgcgatgggacgaaaagaccccgt
+gaacctttactatagcttagcattgaatttgggcacgcgatgtgtaggataggtcggagg
+ctttgaagcaggcacgccagtgtttgtggagccgctgttgaaatacgacccttcgtttgt
+ttgagttctaacttcaggttgaaggacattgcttggtgggtagtttgactggggtggtcg
+cctccaaaagcgtaacggaggcttctaaaggtgccctcaggacgatcggtaaccgtccgc
+agagtgtaatggcagaagggcgcttgactgggagacagacaagtcgagcaggtaggaaac
+tagagcatagtgatccggtgtttccgtatggaagggacatcgctcaaaggataaaaggta
+ctccggggataacaggctgatccctcccaagagctcatatcgacggagtggtttggcacc
+tcgatgtcggctcgtcacatcctggggctggagaaggtcccaagggttgggctgttcgcc
+cattaaagtggcacgcgagctgggttcagaacgtcgtgagacagttcggtctctatctat
+cgtgggcgtatgaaatttgcgtggctctgacactagtacgagaggaccgtgttggaccga
+cctctggtttaccggttgtgccgccaggcgcatcgccgggtatctaagtcgggatcggat
+aagcgctgaaagcatctaagtgcgaagccggccacaagattagatttctcagggtcgttg
+aagacgacaacgttgataggatgcaggtgtaaagctggagacagcaaagccgagcattac
+taattgcccgtca
+>fig|484018.6.rna.28      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc
+>fig|484018.6.rna.29|BACPLE_00432   tRNA-Leu-CAA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcccagatggcggaatcggtagacgcgctggtctcaaacaccagtggagtaacatccatc
+ccggttcgaccccgggtctgggta
+>fig|484018.6.rna.30|BACPLE_00444   tRNA-Glu-TTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcccgttcgtctatcggttaggacgcaagattttcattcttgaaaggggggttcgattc
+ccccacgggcta
+>fig|484018.6.rna.31   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+tcagatagcttagcattgaatttgggcacgcgatgtgtaggataggtcggaggctttgaa
+gcaggcacgccagtgtttgtggagccgctgttgaaatacgacccttcgtttgtttgagtt
+ctaacttcgggttgaaggacattgcttggtgggtagtttgactggggtggtcgcctccaa
+aagcgtaacggaggcttctaaaggtgccctcaggacgatcggtaaccgtccgcagagtgt
+aatggcagaagggcgcttgactgggagacagacaagtcgagcaggtaggaaactagagca
+tagtgatccggtgtttccgtatggaagggacatcgctcaaaggataaaaggtactccggg
+gataacaggctgatccctcccaagagctcatatcgacggagtggtttggcacctcgatgt
+cggctcgtcacatcctggggctggagaaggtcccaagggttgggctgttcgcccattaaa
+gtggcacgcgagctgggttcagaacgtcgtgagacagttcggtctctatctatcgtgggc
+gtatgaaatttgcgtggctctgacactagtacgagaggaccgtgttggaccgacctctgg
+tttaccggttgtgccgccaggcgcatcgccgggtatctaagtcgggatcggataagcgct
+gaaagcatctaagtgcgaagccggccacaagattagatttctcagggtcgttgaagacga
+caacgttgataggatgcaggtgtaaagctggagacagcaaagccgagcattactaattgc
+ccgtca
+>fig|484018.6.rna.32      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc
+>fig|484018.6.rna.33|BACPLE_00549   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacacat
+gcaagtcgaggggcagcgggattgaagcttgcttcaattgccggcgaccggcgcacgggt
+gagtaacgcgtatccaaccttccgtacactcagggatagcctttcgaaagaaagattaat
+acctgatggtatgatgagattgcatgatagcatcattaaagatttatcggtgtacgatgg
+ggatgcgttccattaggtagtaggcggggtaacggcccacctagcctacgatggataggg
+gttctgagaggaaaggtcccccacattggaactgagacacggtccaaactcctacgggag
+gcagcagtgaggatattgtcatggacgagagtctgaccagccagtagcgtgaggatgagg
+tcctacggattgtaacttcttttataagggaataaaacctcccac
+>fig|484018.6.rna.34   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+cagcccaaaccacacatgttacggcatgtgtggggttgtaggaccacggcgttgcaagaa
+atcttgtgagaagaacagcctggaaagactgaccacagacggtgacagtccggtattcga
+agcaagacgaagcatagtggtatcctgagtagcgcggaacacgaggaattctgcgtgaat
+ctgccgggaccatccggtaaggctaaatactcccgagagaccgatagcgaaccagtaccg
+tgagggaaaggtgaaaagcacttcgaacagaagagtgaaacagtacctgaaaccgtgcgc
+ctacaagcggtcggagcacgaaagtgtgacggcgtgccttttgcataatgaacctacgag
+ttaccgtatttggcaaggttaagggtcacgagacctgcagccgaagcgaaagcgagtctg
+aacagggcgtcaagtcagatgcggtagacgcgaaaccaagtgatctacccttggccagga
+tgaagtctgggtaacaccagatggaggtccgcaccaataagcgttgaaaagcttctggat
+gagctgagggtaggggtgaaaggctaatcaaacttggagatagctcgtactccccgaaat
+gcatttaggtgcagcctcgcgggttactgatgtgaggtagagcgactgattggatgcgag
+ggcttcaccgcctatcaagtcctgacaaactccgaatgcgcatcagttttaccgcgggag
+tgagggcatgggtgctaaggtccgtgcccgagaggagaagaatccggactatcagctaag
+gccccgaaatgacagctaagttaaactaacgaagtctgattgctaagacagctaggatgt
+tggcttggaagcagccattcatttaaagagtgcgtaacagctcactagtcgaggaatcgg
+gcgtggataataatcgggtatcaagttgtctgccgaagctatagaatcagcaatgattgg
+taggggagcattccattcagcgttgaaggcgtggcgtgagccattctggagcgtatggaa
+aagcaaatgtaggtataagtaacgataaagggggtgagaaaccccctcgccgaaagacta
+aggtttcctgatcaacgctaatcggatcagggtaagtcgggtcctaaggttcagccgaac
+ggcgagaccgatggcagaaacggttaatattccgttactacctttgagggtgacgtgggg
+acgcagcagtgacaccgccgccggctgacggaatagccggttaaagagtgtagacgtaga
+tttccgcaggcaaatccacggaaagagtcgaacttgacagtatggaacgtccttcgggac
+aatccaatagtgcgggtaagcagactgccgagaaaatccgctaaacataacttcagaggt
+acccgtaccgcaaacggacacacgtagtcgggttgaatatactaaggcgcttgagtgaat
+cacggttaaggaactaggcaaactgaccctgtaacttcgggataaagggtccctacccag
+aaatgggagggcgcagagaataggtccaggcaactgtttaacaaaaacacagggctgtgc
+taatatgaaagtagacgtatacagcctgacacctgcccggtgctggaaggttaagaggag
+atgtcatcgcaagagaagcattgaattgaagccccagtaaacggcggccgtaactataac
+ggtcctaaggtagcgaaattccttgtcgggtaagttccgacctgcacgaatggtgtaatg
+atccggacgctgtctcaaccgtgagctcagtgaaattgtagtatcggtgaagatgccgat
+tacccgcgatgggacgaaaagaccccgtgaacctttactatagcttagcattgaatttgg
+gcacgcgatgtgtaggataggtcggaggctttgaagcaggcacgccagtgtttgtggagc
+cgctgttgaaatacgacccttcgtttgtttgagttctaacttcgggttgaaggacattgc
+ttggtgggtagtttgactggggtggtcgcctccaaaagcgtaacggaggcttctaaaggt
+gccctcaggacgatcggtaaccgtccgcagagtgtaatggcataagggcgcttgactggg
+agacagacaagtcgagcaggtaggaaactagagcatagtgatccggtgtttccgtatgga
+agggacatcgctcaaaggataaaaggtactccggggataacaggctgatccctcccaaga
+gctcatatcgacggagtggtttggcacctcgatgtcggctcgtcacatcctggggctgga
+gaaggtcccaagggttgggctgttcgcccattaaagtggcacgcgagctgggttcagaac
+gtcgtgagacagttcggtctctatctatcgtgggcgtatgaaatttgcgtggctctgaca
+ctagtacgagaggaccgtgttggaccgacctctggtttaccggttgtgccgccaggcgca
+tcgccgggtatctaagtcgggatcggataagcgctgaaagcatctaagtgcgaagccggc
+cacaagattagatttctcagggtcgttgaagacgacaacgttgataggatgcaggtgtaa
+agctggagacagcaaagccgagcattactaattgcccgtca
+>fig|484018.6.rna.35      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc
+>fig|484018.6.rna.36   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gactggggtggtcgcctccaaagcgtaacgagctctaagtgcctcagacgatcgtatccg
+tcgcagagtgtaatggcataagggcgcttgactgggagacagacaagtcgagcaggtagg
+aaactagagcatagtgatccggtgtttccgtatggaagggacatcgctcaaaggataaaa
+ggtactccggggataacaggctgatccctcccaagagctcatatcgacggagtggtttgg
+cacctcgatgtcggctcgtcacatcctggggctggagaaggtcccaagggttgggctgtt
+cgcccattaaagtggcacgcgagctgggttcagaacgtcgtgagacagttcggtctctat
+ctatcgtgggcgtatgaaatttgcgtggctctgacactagtacgagaggaccgtgttgga
+ccgacctctggtttaccggttgtgccgccaggcgcatcgccgggtatctaagtcgggatc
+ggataagcgctgaaagcatctaagtgcgaagccggccacaagattagatttctcagggtc
+gttgaagacgacaacgttgataggatgcaggtgtaaagctggagacagcaaagccgagca
+ttactaattgcccgtca
+>fig|484018.6.rna.37      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc
+>fig|484018.6.rna.38   tRNA-Pro-TGG   [Bacteroides plebeius DSM 17135 | 484018.6]
+cggggtgtagcgcagtccggttagcgcacctgctttgggagcagggggtcgtgggttcga
+atcccgctaccccgacaa
+>fig|484018.6.rna.39|BACPLE_01465   tRNA-Pro-TGG   [Bacteroides plebeius DSM 17135 | 484018.6]
+cggggtgtagcgcagtccggttagcgcacctgctttgggagcagggggtcgtgggttcga
+atcccgctaccccga
+>fig|484018.6.rna.40|BACPLE_01538   tRNA-Phe-GAA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggtgccatagctcagttggtagagcaaaggactgaaaatccttgtgtccccggttcgatt
+cctggtggcacca
+>fig|484018.6.rna.41   tRNA-Arg-CCT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcccttgtagttcaacggatagaatagaagtttcctaaactttagattcgggttcgattc
+ccgacgagggtacaa
+>fig|484018.6.rna.42   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gagaaaatccgctaaacataacttcagaggtacccgtaccgcaaacggacacacgtagtc
+gggttgaatatactaaggcgcttgagtgaatcacggttaaggaactaggcaaactgaccc
+tgtaacttcgggataaagggtccctacccagaaatgggagggcgcagagaataggtccag
+gcaactgtttaacaaaaacacagggctgtgctaatatgaaagtagacgtatacagcctga
+cacctgcccggtgctggaaggttaagaggagatgtcatcgcaagagaagcattgaattga
+agccccagtaaacggcggccgtaactataacggtcctaaggtagcgaaattccttgtcgg
+gtaagttccgacctgcacgaatggtgtaatgatccggacgctgtctcaaccgtgagctca
+gtgaaattgtagtatcggtgaagatgccgattacccgcgatgggacgaaaagaccccgtg
+aacctttactatagcttagcattgaatttgggcacgcgatgtgtaggataggtcggaggc
+tttgaagcaggcacgccagtgtttgtggagccgctgttgaaatacgacccttcgtttgtt
+tgagttctaacttcgggttgaaggacattgcttggtgggtagtttgactggggtggtcgc
+ctccaaaagcgtaacggaggcttctaaaggtgccctcaggacgatcggtaaccgtccgca
+gagtgtaatggcataagggcgcttgactgggagacagacaagtcgagcaggtaggaaact
+agagcatagtgatccggtgtttccgtatggaagggacatcgctcaaaggataaaaggtac
+tccggggataacaggctgatccctcccaagagctcatatcgacggagtggtttggcacct
+cgatgtcggctcgtcacatcctggggctggagaaggtcccaagggttgggctgttcgccc
+attaaagtggcacgcgagctgggttcagaacgtcgtgagacagttcggtctctatctatc
+gtgggcgtatgaaatttgcgtggctctgacactagtacgagaggaccgtgttggaccgac
+ctctggtttaccggttgtgccgccaggcgcatcgccgggtatctaagtcgggatcggata
+agcgctgaaagcatctaagtgcgaagccggccacaagattagatttctcagggtcgttga
+agacgacaacgttgataggatgcaggtgtaaagctggagacagcaaagccgagcattact
+aattgcccgtca
+>fig|484018.6.rna.43      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc
+>fig|484018.6.rna.44|BACPLE_01618   tRNA-Lys-TTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gattcgctagctcagcaggtagagcacaacacttttaatgttggggtcctgggttcgagc
+cccaggcggatca
+>fig|484018.6.rna.45|BACPLE_01768   tRNA-Gly-TCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaagtagctcagttgatagagcattagccttccaagctgagggtcgcgggtttgagt
+cccgtcttccgct
+>fig|484018.6.rna.46   tRNA-Tyr-GTA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcaagtaccagagtggccaaatggggcagactgtaaatctgctggcttacgccttcgg
+tggttcgaatccatccttgcccaccg
+>fig|484018.6.rna.47|BACPLE_01770   tRNA-Gly-TCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaagtagctcagttgatagagcattagccttccaagctgagggtcgcgggtttgagc
+cccgtcttccgct
+>fig|484018.6.rna.48   tRNA-Tyr-GTA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcaaataccagagtggccaaatggggcagactgtaaatctgctggcttacgccttcgg
+tggttcgaatccatctttgcccacta
+>fig|484018.6.rna.49|BACPLE_01793   tRNA-His-GTG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gtgactatagttcagttggttagagcgtcagattgtggttctgaatgtcgtgggttcgag
+tcccactagtcacc
+>fig|484018.6.rna.50|BACPLE_01794   tRNA-His-GTG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gtgactatagttcagttggttagagcgtcagattgtggttctgaatgtcgtgggttcgag
+tcccactagtcacc
+>fig|484018.6.rna.51|BACPLE_01824   tRNA-Arg-CCG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcgcccgtagttcaatggatagaataaaggattccggttccttcgattggggttcgactc
+cccacgggcgta
+>fig|484018.6.rna.52|BACPLE_01860   tRNA-Ser-GCT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggaagtttgggtgagtggctgaaaccagcagtttgctaaactgccgtacgggtaaccgta
+ccgggggttcgaatcccccagcttccg
+>fig|484018.6.rna.53|BACPLE_01861   tRNA-Glu-CTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcgctttcgtctagtggcctaggacgcggccctctcacggctgaaacacgggttcgatt
+cccgtatgcgcta
+>fig|484018.6.rna.54|BACPLE_01862   tRNA-Ser-GCT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggaagtttgggtgagtggctgaaaccagcagtttgctaaactgccgtacgggtaaccgta
+ccgggggttcgaatcccccagcttccg
+>fig|484018.6.rna.55|BACPLE_02064   tRNA-Gly-GCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|484018.6.rna.56   tRNA-Leu-CAG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcccaggtggcggaatggtagacgcgcacgtttcaggtgcgtgtgtcgagaggcatgcag
+gttcgagtcctgttctgggcacca
+>fig|484018.6.rna.57   tRNA-Leu-GAG   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggaggaatggcggaattggtagacgcgccactttgagggggtggtgacagttatgtcgtg
+tgagttcgagtctcatttccttcaccg
+>fig|484018.6.rna.58   tRNA-Gly-GCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgctcca
+>fig|484018.6.rna.59   tRNA-Leu-CAG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcccaggtggcggaatggtagacgcgcacgtttcaggtgcgtgtgtcgagaggcatgcag
+gttcgagtcctgttctgggcacta
+>fig|484018.6.rna.60   tRNA-Gly-GCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgctcca
+>fig|484018.6.rna.61|BACPLE_02070   tRNA-Gly-GCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|484018.6.rna.62|BACPLE_02176   tRNA-Asp-GTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggtgcgttagttcagttggttagaatacatgcctgtcacgcatggggtcacgggttcgag
+tcccgtacgcaccg
+>fig|484018.6.rna.63|BACPLE_02252   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacacat
+gcaagtcgaggggcagcgggattgaagcttgcttcaattgccggcgaccggcgcacgggt
+gagtaacgcgtatccaaccttccgtacactcagggatagcctttcgaaagaaagattaat
+acctgatggtatgatgagattgcatgatagcatcattaaagatttatcggtgtacgatgg
+ggatgcgttccattaggtagtaggcggggtaacggcccacctagcctacgatggataggg
+gttctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggagg
+cagcagtgaggaatattggtcaatggacgagagtctgaaccagccaagtagcgtgaagga
+tgaaggtcctacggattgtaaacttcttttataagggaataaaacctcccacgtgtggga
+gcttgtatgtaccttatgaataagcatcggctaactccgtgccagcagccgcggtaatac
+ggaggatgcgagcgttatccggatttattgggtttaaagggagcgcagacgggtcgttaa
+gtcagctgtgaaagtttggggctcaaccttaaaattgcagttgatactggcgtccttgag
+tgcggttgaggtgtgcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaa
+ctccgattgcgaaggcagcacactaagccgtaactgacgttcatgctcgaaagtgtgggt
+atcaaacaggattagataccctggtagtccacacggtaaacgatggatactcgctgttgg
+cgatatacagtcagcggcttagcgaaagcgttaagtatcccacctggggagtacgccggc
+aacggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttaa
+ttcgatgatacgcgaggaaccttacccgggcttaaattgcaaaggaatgatctggaaaca
+ggtcagtcttcggacctttgtgaaggtgctgcatggttgtcgtcagctcgtgccgtgagg
+tgtcggcttaagtgccataacgagcgcaaccctcgccgccagttactaacaggtaatgct
+gaggactctggcgggactgccatcgtagatgtgaggaaggtggggatgacgtcaatcagc
+acggcccttacgtccggggctacacacgtgttacaatgggcggtacagagcagctactgc
+gacagatgcatccgaagccgcttctcagttcggactggagttctgcaacccgact
+>fig|484018.6.rna.64   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacacat
+gcaagtcgaggggcagcgggattgaagcttgcttcaattgccggcgaccggcgcacgggt
+gagtaacgcgtatccaaccttccgtacactcagggatagcctttcgaaagaaagattaat
+acctgatggtatgatgagattgcatgatagcatcattaaagatttatcggtgtacgatgg
+ggatgcgttccattaggtagtaggcggggtaacggcccacctagcctacgatggataggg
+gttctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggagg
+cagcagtgaggaatattggtcaatggacgagagtctgaaccagccaagtagcgtgaagga
+tgaaggtcctacggattgtaaacttcttttataagggaataaaacctcccacgtgtggga
+gcttgtatgtaccttatgaataagcatcggctaactccgtgccagcagccgcggtaatac
+ggaggatgcgagcgttatccggatttattgggtttaaagggagcgcagacgggtcgttaa
+gtcagctgtgaaagtttggggctcaaccttaaaattgcagttgatactggcgtccttgag
+tgcggttgaggtgtgcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaa
+ctccgattgcgaaggcagcacactaagccgtaactgacgttcatgctcgaaagtgtgggc
+tatcaaacaggattagatacctgtagtccacacagtaaacgatgatactcgctgtgcgaa
+tacagtcagcgcttaacgaagcgtttaagtatccagctggggagtacgccggcaacggtg
+aactcaaggaattga
+>fig|484018.6.rna.65   tRNA-Gln-CTG   [Bacteroides plebeius DSM 17135 | 484018.6]
+tgggctatggtgtaatggtaacacaacagattctggtcctgtttttcttggttcgagtcc
+gagtagcccaaaca
+>fig|484018.6.rna.66|BACPLE_02487   tRNA-Gln-CTG   [Bacteroides plebeius DSM 17135 | 484018.6]
+tgggctatggtgtaatggtaacacaacagattctggtcctgtttttcttggttcgagtcc
+gagtagcccaa
+>fig|484018.6.rna.67   tRNA-Ser-TGA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggagaggtggcagagtggtcgattgcggcggtcttgaaaaccgttgtaccgcgaggtacc
+cggggttcgaatccctgtctctccgcaa
+>fig|484018.6.rna.68   tRNA-Lys-CTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcactcttagctcagttggtagagcaactgactcttaatcagtgggtccagggttcgaat
+ccctgagggtgtacga
+>fig|484018.6.rna.69   tRNA-Cys-GCA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggttccttggatgagtggcttagtcagcggtctgcaaaaccgtgtacggcggttcgaatc
+cgccaggaacctcta
+>fig|484018.6.rna.70|BACPLE_02901   tRNA-Cys-GCA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggttccttggatgagtggcttagtcagcggtctgcaaaaccgtgtacggcggttcgaatc
+cgccaggaacct
+>fig|484018.6.rna.71|BACPLE_02947   tRNA-Glu-TTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcccgttcgtctatcggttaggacgcaagattttcattcttgaaaggggggttcgattc
+ccccacgggcta
+>fig|484018.6.rna.72   tRNA-Glu-TTC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggcccgttcgtctatcggttaggacgcaagattttcattcttgaaaggggggttcgattc
+ccccacgggctacga
+>fig|484018.6.rna.73|BACPLE_02957   tRNA-Ala-GGC   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggggcattagctcatctggctagagcgtttgactggcagtcaaaaggtggcaggttcgag
+tcctgtatgctcca
+>fig|484018.6.rna.74|BACPLE_02965   tRNA-Ser-TGA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggagaggtggcagagtggtcgattgcggcggtcttgaaaaccgttgtaccgcgaggtacc
+cggggttcgaatccctgtctctccg
+>fig|484018.6.rna.75|BACPLE_03027   tRNA-Thr-TGT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggct
+>fig|484018.6.rna.76   tRNA-Thr-TGT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggctcaa
+>fig|484018.6.rna.77|BACPLE_03173   tRNA-Leu-TAG   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcgcctgtggcgtaattggtagccgcgccagacttaggatctggtgtcgtgagacgtgta
+ggttcgagtcctatcaggcgca
+>fig|484018.6.rna.78   tRNA-Ser-GGA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggagaggtgctcgagtggttgaagaggcacgcctggaaagcgtgtatacgccaaaagcgt
+atcacgggttcgaatcccgttctctccgcga
+>fig|484018.6.rna.79   tRNA-Trp-CCA   [Bacteroides plebeius DSM 17135 | 484018.6]
+acgggaatagctcagttggtagagcatcggtctccaaaaccgagtgtcgggagttcgagc
+ctctcttcccgtgccg
+>fig|484018.6.rna.80|BACPLE_03390   tRNA-Ser-TGA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggagaggtggcagagtggtcgattgcggcggtcttgaaaaccgttgtactgcgaggtacc
+cggggttcgaatccctgtctctccg
+>fig|484018.6.rna.81|BACPLE_03416   tRNA-Arg-TCT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggttccgtagctcagctggatagagcaacgcccttctaaggcgtgggtcctgcgttcgaa
+tcgcagcggaatca
+>fig|484018.6.rna.82|BACPLE_03417   tRNA-Arg-TCT   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggttccgtagctcagctggatagagcaacgcccttctaaggcgtgggtcctgcgttcgaa
+tcgcagcggaatca
+>fig|484018.6.rna.83   tRNA-Thr-CGT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gccgaaataactcagttggtagagtaactcattcgtaatgagtaagtcgcgggttcgagt
+cccgctttcggctcct
+>fig|484018.6.rna.84   tRNA-Phe-GAA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ggtgccatagctcagttggtagagcaaaggactgaaaatccttgtgtccccggttcgatt
+cctggtggcaccacaa
+>fig|484018.6.rna.85|BACPLE_03629   tRNA-Pro-CGG   [Bacteroides plebeius DSM 17135 | 484018.6]
+cggaatgtagcgcagttggtagcgcactacgttcgggacgtaggggtcgggcgttcgagt
+cgcctcattccga
+>fig|484018.6.rna.86   tRNA-Thr-TGT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggctcaa
+>fig|484018.6.rna.87|BACPLE_03644   tRNA-Tyr-GTA   [Bacteroides plebeius DSM 17135 | 484018.6]
+gggcaaataccagagtggccaaatggggcagactgtaaatctgctggcttacgccttcgg
+tggttcgaatccatctttgccca
+>fig|484018.6.rna.88|BACPLE_03645   tRNA-Gly-TCC   [Bacteroides plebeius DSM 17135 | 484018.6]
+gcggaagtagctcagttgatagagcattagccttccaagctgagggtcgcgggtttgagt
+cccgtcttccgct
+>fig|484018.6.rna.89|BACPLE_03646   tRNA-Thr-GGT   [Bacteroides plebeius DSM 17135 | 484018.6]
+gctgttatagctcagcggtagagcacttccttggtaaggaagaggtcccgggttcaagtc
+ccggtaacagct
+>fig|484018.6.rna.90   tRNA-Trp-CCA   [Bacteroides plebeius DSM 17135 | 484018.6]
+acgggaatagctcagttggtagagcatcggtctccaaaaccgagtgtcgggagttcgagc
+ctctcttcccgtgcta
+>fig|484018.6.rna.91|BACPLE_03659   tRNA-Asn-GTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+tcttcagtagctcagtcggttagagcatctgactgttaatcagagggtcgttggttcaag
+tccaacctgaagag
+>fig|484018.6.rna.92|BACPLE_03660   tRNA-Asn-GTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+tcttcagtagctcagtcggttagagcatctgactgttaatcagagggtcgttggttcaag
+tccaacctgaagag
+>fig|484018.6.rna.93|BACPLE_03661   tRNA-Asn-GTT   [Bacteroides plebeius DSM 17135 | 484018.6]
+tcttcagtagctcagtcggttagagcatctgactgttaatcagagggtcgttggttcaag
+tccaacctgaagag
+>fig|484018.6.rna.94   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides plebeius DSM 17135 | 484018.6]
+ttgaaggacattgcttggtgggtagttgactggggtggtcgcctccaaaagcgtaacgga
+ggctctaaaggtgccctcagacgatcggtaaccgtccgcagagtgtaatggcataagggc
+gcttgactgggagacagacaagtcgagcaggtaggaaactagagcatagtgatccggtgt
+ttccgtatggaagggacatcgctcaaaggataaaaggtactccggggataacaggctgat
+ccctcccaagagctcatatcgacggagtggtttggcacctcgatgtcggctcgtcacatc
+ctggggctggagaaggtcccaagggttgggctgttcgcccattaaagtggcacgcgagct
+gggttcagaacgtcgtgagacagttcggtctctatctatcgtgggcgtatgaaatttgcg
+tggctctgacactagtacgagaggaccgtgttggaccgacctctggtttaccggttgtgc
+cgccaggcgcatcgccgggtatctaagtcgggatcggataagcgctgaaagcatctaagt
+gcgaagccggccacaagattagatttctcagggtcgttgaagacgacaacgttgatagga
+tgcaggtgtaaagctggagacagcaaagccgagcattactaattgcccgtca
+>fig|484018.6.rna.95      [Bacteroides plebeius DSM 17135 | 484018.6]
+tcaggtgactattgcacgaaggttccacctcttcccattccgaacagagaagttaagctt
+cgtcacgccgatggtactgcgcaagtgggagagtaggtagtcgccgtc

@@ -1,0 +1,1050 @@
+genome_id	genome_name	patric_id	refseq_locus_tag	alt_locus_tag	gene	product	ec_number	ec_description	pathway_id	pathway_name
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.28	Odosp_0029	VBIOdoSpl147623_0028		alpha-galactosidase (EC 3.2.1.22)	3.2.1.22	Alpha-galactosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.28	Odosp_0029	VBIOdoSpl147623_0028		alpha-galactosidase (EC 3.2.1.22)	3.2.1.22	Alpha-galactosidase	00561	Glycerolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.28	Odosp_0029	VBIOdoSpl147623_0028		alpha-galactosidase (EC 3.2.1.22)	3.2.1.22	Alpha-galactosidase	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.28	Odosp_0029	VBIOdoSpl147623_0028		alpha-galactosidase (EC 3.2.1.22)	3.2.1.22	Alpha-galactosidase	00603	Glycosphingolipid biosynthesis - globo series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.30	Odosp_0031	VBIOdoSpl147623_0030			2.7.1.6	Galactokinase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.30	Odosp_0031	VBIOdoSpl147623_0030			2.7.1.6	Galactokinase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.31	Odosp_0032	VBIOdoSpl147623_0031			5.1.3.3	Aldose 1-epimerase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.33	Odosp_0034	VBIOdoSpl147623_0033			5.1.3.4	L-ribulose-5-phosphate 4-epimerase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.33	Odosp_0034	VBIOdoSpl147623_0033			5.1.3.4	L-ribulose-5-phosphate 4-epimerase	00053	Ascorbate and aldarate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.34	Odosp_0035	VBIOdoSpl147623_0034			5.3.1.4	L-arabinose isomerase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.35	Odosp_0036	VBIOdoSpl147623_0035			2.7.1.16	Ribulokinase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.46	Odosp_0046	VBIOdoSpl147623_0046			1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.47	Odosp_0048	VBIOdoSpl147623_0047			1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.114	Odosp_0119	VBIOdoSpl147623_0114			4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (inverting)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.116	Odosp_0121	VBIOdoSpl147623_0116		N-acylneuraminate cytidylyltransferase (EC 2.7.7.43)	2.7.7.43	N-acylneuraminate cytidylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.117	Odosp_0122	VBIOdoSpl147623_0117		N-acylneuraminate cytidylyltransferase (EC 2.7.7.43)	2.7.7.43	N-acylneuraminate cytidylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.120	Odosp_0125	VBIOdoSpl147623_0120			2.5.1.56	N-acetylneuraminate synthase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.128	Odosp_0133	VBIOdoSpl147623_0128			5.1.3.12	UDP-glucuronate 5'-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.129	Odosp_0134	VBIOdoSpl147623_0129			1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.129	Odosp_0134	VBIOdoSpl147623_0129			1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.129	Odosp_0134	VBIOdoSpl147623_0129			1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.129	Odosp_0134	VBIOdoSpl147623_0129			1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.134	Odosp_0139	VBIOdoSpl147623_0134			6.1.1.2	Tryptophan--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.139	Odosp_0144	VBIOdoSpl147623_0139			3.2.2.16	Methylthioadenosine nucleosidase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.139	Odosp_0144	VBIOdoSpl147623_0139			3.2.2.9	Adenosylhomocysteine nucleosidase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.140	Odosp_0145	VBIOdoSpl147623_0140			4.4.1.21	S-ribosylhomocysteine lyase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.144	Odosp_0149	VBIOdoSpl147623_0144			2.1.1.163	Demethylmenaquinone methyltransferase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.145	Odosp_0150	VBIOdoSpl147623_0145			2.5.1.74	1,4-dihydroxy-2-naphthoate polyprenyltransferase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.146	Odosp_0151	VBIOdoSpl147623_0146			3.5.3.6	Arginine deiminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.165	Odosp_0168	VBIOdoSpl147623_0165		alpha-L-arabinofuranosidase II (EC 3.2.1.55)	3.2.1.55	Non-reducing end alpha-L-arabinofuranosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.188	Odosp_0191	VBIOdoSpl147623_0188		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.200	Odosp_0202	VBIOdoSpl147623_0200			3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.200	Odosp_0202	VBIOdoSpl147623_0200			3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.230	Odosp_0235	VBIOdoSpl147623_0230			5.1.3.3	Aldose 1-epimerase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.234	Odosp_0240	VBIOdoSpl147623_0234			6.3.2.6	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.236	Odosp_0242	VBIOdoSpl147623_0236			3.6.1.8	ATP diphosphatase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.236	Odosp_0242	VBIOdoSpl147623_0236			3.6.1.8	ATP diphosphatase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.243	Odosp_0248	VBIOdoSpl147623_0243			5.1.3.1	Ribulose-phosphate 3-epimerase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.243	Odosp_0248	VBIOdoSpl147623_0243			5.1.3.1	Ribulose-phosphate 3-epimerase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.243	Odosp_0248	VBIOdoSpl147623_0243			5.1.3.1	Ribulose-phosphate 3-epimerase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.244	Odosp_0249	VBIOdoSpl147623_0244		Carbonic anhydrase, gamma class (EC 4.2.1.1)	4.2.1.1	Carbonate dehydratase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.254	Odosp_0257	VBIOdoSpl147623_0254			2.5.1.55	3-deoxy-8-phosphooctulonate synthase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.261	Odosp_0263	VBIOdoSpl147623_0261			2.7.7.8	Polyribonucleotide nucleotidyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.261	Odosp_0263	VBIOdoSpl147623_0261			2.7.7.8	Polyribonucleotide nucleotidyltransferase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.262	Odosp_0264	VBIOdoSpl147623_0262			4.1.2.17	L-fuculose-phosphate aldolase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.264	Odosp_0266	VBIOdoSpl147623_0264			1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase	00750	Vitamin B6 metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.276	Odosp_0282	VBIOdoSpl147623_0276			3.2.1.10	Oligo-1,6-glucosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.276	Odosp_0282	VBIOdoSpl147623_0276			3.2.1.10	Oligo-1,6-glucosidase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.286	Odosp_0292	VBIOdoSpl147623_0286			2.4.1.18	1,4-alpha-glucan branching enzyme	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.289	Odosp_0295	VBIOdoSpl147623_0289			3.2.1.1	Alpha-amylase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.290	Odosp_0296	VBIOdoSpl147623_0290			2.4.1.1	Glycogen phosphorylase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.291	Odosp_0297	VBIOdoSpl147623_0291			2.7.1.21	Thymidine kinase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.291	Odosp_0297	VBIOdoSpl147623_0291			2.7.1.21	Thymidine kinase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.304	Odosp_0310	VBIOdoSpl147623_0304			2.1.2.9	Methionyl-tRNA formyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.304	Odosp_0310	VBIOdoSpl147623_0304			2.1.2.9	Methionyl-tRNA formyltransferase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.317	Odosp_0323	VBIOdoSpl147623_0317			4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.317	Odosp_0323	VBIOdoSpl147623_0317			4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.317	Odosp_0323	VBIOdoSpl147623_0317			4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.319	Odosp_0325	VBIOdoSpl147623_0319			2.4.1.182	Lipid-A-disaccharide synthase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.362	Odosp_0362	VBIOdoSpl147623_0362			2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.362	Odosp_0362	VBIOdoSpl147623_0362			2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.362	Odosp_0362	VBIOdoSpl147623_0362			2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.362	Odosp_0362	VBIOdoSpl147623_0362			2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.362	Odosp_0362	VBIOdoSpl147623_0362			2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.376	Odosp_0379	VBIOdoSpl147623_0376			3.5.1.2	Glutaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.376	Odosp_0379	VBIOdoSpl147623_0376			3.5.1.2	Glutaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.376	Odosp_0379	VBIOdoSpl147623_0376			3.5.1.2	Glutaminase	00471	D-Glutamine and D-glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.376	Odosp_0379	VBIOdoSpl147623_0376			3.5.1.2	Glutaminase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.378	Odosp_0381	VBIOdoSpl147623_0378			5.4.4.2	Isochorismate synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.378	Odosp_0381	VBIOdoSpl147623_0378			5.4.4.2	Isochorismate synthase	01053	Biosynthesis of siderophore group nonribosomal peptides
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.379	Odosp_0382	VBIOdoSpl147623_0379			2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.380	Odosp_0383	VBIOdoSpl147623_0380			4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.381	Odosp_0384	VBIOdoSpl147623_0381			4.2.1.113	o-succinylbenzoate synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.382	Odosp_0385	VBIOdoSpl147623_0382			6.2.1.26	o-succinylbenzoate--CoA ligase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.390	Odosp_0393	VBIOdoSpl147623_0390			1.8.1.9	Thioredoxin-disulfide reductase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.390	Odosp_0393	VBIOdoSpl147623_0390			1.8.1.9	Thioredoxin-disulfide reductase	00450	Selenoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.32	Phospholipase A(1)	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.32	Phospholipase A(1)	00592	alpha-Linolenic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.4	Phospholipase A(2)	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.4	Phospholipase A(2)	00565	Ether lipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.4	Phospholipase A(2)	00590	Arachidonic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.4	Phospholipase A(2)	00591	Linoleic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.395	Odosp_0397	VBIOdoSpl147623_0395		Phospholipase A1 (EC 3.1.1.32) (EC 3.1.1.4) @ Outer membrane phospholipase A	3.1.1.4	Phospholipase A(2)	00592	alpha-Linolenic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.396	Odosp_0398	VBIOdoSpl147623_0396			4.2.1.49	Urocanate hydratase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.399	Odosp_0401	VBIOdoSpl147623_0399			6.3.2.12	Dihydrofolate synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.399	Odosp_0401	VBIOdoSpl147623_0399			6.3.2.17	Tetrahydrofolate synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.401	Odosp_0403	VBIOdoSpl147623_0401			6.1.1.3	Threonine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00281	Geraniol degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00362	Benzoate degradation via hydroxylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00626	Naphthalene and anthracene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.418	Odosp_0419	VBIOdoSpl147623_0418			1.3.99.-	With other acceptors	00930	Caprolactam degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.427	Odosp_0427	VBIOdoSpl147623_0427			6.1.1.11	Serine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.440	Odosp_0439	VBIOdoSpl147623_0440		Uridine kinase (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.440	Odosp_0439	VBIOdoSpl147623_0440		Uridine kinase (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.462	Odosp_0464	VBIOdoSpl147623_0462			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.462	Odosp_0464	VBIOdoSpl147623_0462			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.464	Odosp_0466	VBIOdoSpl147623_0464			2.4.2.9	Uracil phosphoribosyltransferase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.466	Odosp_0468	VBIOdoSpl147623_0466			2.7.1.31	Glycerate 3-kinase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.466	Odosp_0468	VBIOdoSpl147623_0466			2.7.1.31	Glycerate 3-kinase	00561	Glycerolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.466	Odosp_0468	VBIOdoSpl147623_0466			2.7.1.31	Glycerate 3-kinase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.470	Odosp_0472	VBIOdoSpl147623_0470			3.5.4.3	Guanine deaminase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.503	Odosp_0507	VBIOdoSpl147623_0503			2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.504	Odosp_0508	VBIOdoSpl147623_0504			4.1.1.65	Phosphatidylserine decarboxylase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.505	Odosp_0509	VBIOdoSpl147623_0505			2.7.7.41	Phosphatidate cytidylyltransferase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.505	Odosp_0509	VBIOdoSpl147623_0505			2.7.7.41	Phosphatidate cytidylyltransferase	04070	Phosphatidylinositol signaling system
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.509	Odosp_0513	VBIOdoSpl147623_0509			2.6.1.45	Serine--glyoxylate transaminase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.509	Odosp_0513	VBIOdoSpl147623_0509			2.6.1.45	Serine--glyoxylate transaminase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.509	Odosp_0513	VBIOdoSpl147623_0509			2.6.1.45	Serine--glyoxylate transaminase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.513	Odosp_0517	VBIOdoSpl147623_0513			2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.529	Odosp_0531	VBIOdoSpl147623_0529		Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3) @ Long-chain fatty-acid-CoA ligase (EC 6.2.1.3), Mycobacterial subgroup FadD35	6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.531	Odosp_0532	VBIOdoSpl147623_0531			4.2.1.2	Fumarate hydratase	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.531	Odosp_0532	VBIOdoSpl147623_0531			4.2.1.2	Fumarate hydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.542	Odosp_0543	VBIOdoSpl147623_0542			3.5.1.42	Nicotinamide-nucleotide amidase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.542	Odosp_0543	VBIOdoSpl147623_0542			3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.550	Odosp_0551	VBIOdoSpl147623_0550			3.6.1.-	In phosphorous-containing anhydrides	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.550	Odosp_0551	VBIOdoSpl147623_0550			3.6.1.-	In phosphorous-containing anhydrides	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.554	Odosp_0555	VBIOdoSpl147623_0554			1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.560	Odosp_0561	VBIOdoSpl147623_0560			2.7.7.4	Sulfate adenylyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.560	Odosp_0561	VBIOdoSpl147623_0560			2.7.7.4	Sulfate adenylyltransferase	00450	Selenoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.560	Odosp_0561	VBIOdoSpl147623_0560			2.7.7.4	Sulfate adenylyltransferase	00920	Sulfur metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.561	Odosp_0562	VBIOdoSpl147623_0561			2.7.7.4	Sulfate adenylyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.561	Odosp_0562	VBIOdoSpl147623_0561			2.7.7.4	Sulfate adenylyltransferase	00450	Selenoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.561	Odosp_0562	VBIOdoSpl147623_0561			2.7.7.4	Sulfate adenylyltransferase	00920	Sulfur metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.562	Odosp_0563	VBIOdoSpl147623_0562			2.7.1.25	Adenylyl-sulfate kinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.562	Odosp_0563	VBIOdoSpl147623_0562			2.7.1.25	Adenylyl-sulfate kinase	00920	Sulfur metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.563	Odosp_0564	VBIOdoSpl147623_0563			3.1.3.7	3'(2'),5'-bisphosphate nucleotidase	00920	Sulfur metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.564	Odosp_0565	VBIOdoSpl147623_0564			6.3.5.3	Phosphoribosylformylglycinamidine synthase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.565	Odosp_0566	VBIOdoSpl147623_0565			2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.569	Odosp_0571	VBIOdoSpl147623_0569			1.1.1.28	D-lactate dehydrogenase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.576	Odosp_0577	VBIOdoSpl147623_0576			2.7.1.4	Fructokinase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.576	Odosp_0577	VBIOdoSpl147623_0576			2.7.1.4	Fructokinase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.576	Odosp_0577	VBIOdoSpl147623_0576			2.7.1.4	Fructokinase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.582	Odosp_0583	VBIOdoSpl147623_0582			4.1.3.38	Aminodeoxychorismate lyase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.583	Odosp_0584	VBIOdoSpl147623_0583			2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.584	Odosp_0585	VBIOdoSpl147623_0584			2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.589	Odosp_0590	VBIOdoSpl147623_0589			2.7.1.148	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.593	Odosp_0594	VBIOdoSpl147623_0593			6.1.1.19	Arginine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.597	Odosp_0598	VBIOdoSpl147623_0597			3.1.3.25	Inositol-phosphate phosphatase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.597	Odosp_0598	VBIOdoSpl147623_0597			3.1.3.25	Inositol-phosphate phosphatase	00562	Inositol phosphate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.597	Odosp_0598	VBIOdoSpl147623_0597			3.1.3.25	Inositol-phosphate phosphatase	04070	Phosphatidylinositol signaling system
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.600	Odosp_0601	VBIOdoSpl147623_0600			6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.600	Odosp_0601	VBIOdoSpl147623_0600			6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.604	Odosp_0605	VBIOdoSpl147623_0604			3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.604	Odosp_0605	VBIOdoSpl147623_0604			3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.604	Odosp_0605	VBIOdoSpl147623_0604			3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.629	Odosp_0629	VBIOdoSpl147623_0629			2.7.7.73	Sulfur carrier protein ThiS adenylyltransferase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.632	Odosp_0632	VBIOdoSpl147623_0632		Thiazole tautomerase TenI (EC 5.3.99.10) / Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7) / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	2.5.1.3	Thiamine-phosphate diphosphorylase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.632	Odosp_0632	VBIOdoSpl147623_0632		Thiazole tautomerase TenI (EC 5.3.99.10) / Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7) / Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	2.7.4.7	Phosphomethylpyrimidine kinase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.639	Odosp_0640	VBIOdoSpl147623_0639		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.641	Odosp_0642	VBIOdoSpl147623_0641		Dethiobiotin synthase BioD (EC 6.3.3.3)	6.3.3.3	Dethiobiotin synthase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.643	Odosp_0644	VBIOdoSpl147623_0643		Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.643	Odosp_0644	VBIOdoSpl147623_0643		Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.650		VBIOdoSpl147623_0650			5.3.1.5	Xylose isomerase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.650		VBIOdoSpl147623_0650			5.3.1.5	Xylose isomerase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.655	Odosp_0653	VBIOdoSpl147623_0655			1.1.1.205	IMP dehydrogenase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.655	Odosp_0653	VBIOdoSpl147623_0655			1.1.1.205	IMP dehydrogenase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.656	Odosp_0654	VBIOdoSpl147623_0656		D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)	3.1.3.82	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.657	Odosp_0655	VBIOdoSpl147623_0657			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.657	Odosp_0655	VBIOdoSpl147623_0657			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.661	Odosp_0658	VBIOdoSpl147623_0661			4.3.1.17	L-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.661	Odosp_0658	VBIOdoSpl147623_0661			4.3.1.17	L-serine ammonia-lyase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.663	Odosp_0660	VBIOdoSpl147623_0663			5.3.1.9	Glucose-6-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.663	Odosp_0660	VBIOdoSpl147623_0663			5.3.1.9	Glucose-6-phosphate isomerase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.663	Odosp_0660	VBIOdoSpl147623_0663			5.3.1.9	Glucose-6-phosphate isomerase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.663	Odosp_0660	VBIOdoSpl147623_0663			5.3.1.9	Glucose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.664	Odosp_0661	VBIOdoSpl147623_0664			2.7.1.90	Diphosphate--fructose-6-phosphate 1-phosphotransferase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.668	Odosp_0665	VBIOdoSpl147623_0668			3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.668	Odosp_0665	VBIOdoSpl147623_0668			3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.668	Odosp_0665	VBIOdoSpl147623_0668			3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.671	Odosp_0668	VBIOdoSpl147623_0671			2.7.2.1	Acetate kinase	00430	Taurine and hypotaurine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.671	Odosp_0668	VBIOdoSpl147623_0671			2.7.2.1	Acetate kinase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.671	Odosp_0668	VBIOdoSpl147623_0671			2.7.2.1	Acetate kinase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.671	Odosp_0668	VBIOdoSpl147623_0671			2.7.2.1	Acetate kinase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.671	Odosp_0668	VBIOdoSpl147623_0671			2.7.2.1	Acetate kinase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.672	Odosp_0669	VBIOdoSpl147623_0672			2.3.1.8	Phosphate acetyltransferase	00430	Taurine and hypotaurine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.672	Odosp_0669	VBIOdoSpl147623_0672			2.3.1.8	Phosphate acetyltransferase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.672	Odosp_0669	VBIOdoSpl147623_0672			2.3.1.8	Phosphate acetyltransferase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.672	Odosp_0669	VBIOdoSpl147623_0672			2.3.1.8	Phosphate acetyltransferase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.672	Odosp_0669	VBIOdoSpl147623_0672			2.3.1.8	Phosphate acetyltransferase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.675	Odosp_0672	VBIOdoSpl147623_0675		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.675	Odosp_0672	VBIOdoSpl147623_0675		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.699	Odosp_0695	VBIOdoSpl147623_0699		Ketopantoate reductase PanG (EC 1.1.1.169)	1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.700	Odosp_0696	VBIOdoSpl147623_0700			3.1.3.45	3-deoxy-manno-octulosonate-8-phosphatase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.711	Odosp_0706	VBIOdoSpl147623_0711			4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.711	Odosp_0706	VBIOdoSpl147623_0711			4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.711	Odosp_0706	VBIOdoSpl147623_0711			4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.711	Odosp_0706	VBIOdoSpl147623_0711			4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.711	Odosp_0706	VBIOdoSpl147623_0711			4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.724	Odosp_0719	VBIOdoSpl147623_0724			1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.725	Odosp_0720	VBIOdoSpl147623_0725			1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.732	Odosp_0727	VBIOdoSpl147623_0732			2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.732	Odosp_0727	VBIOdoSpl147623_0732			2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.732	Odosp_0727	VBIOdoSpl147623_0732			3.5.4.10	IMP cyclohydrolase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.736	Odosp_0731	VBIOdoSpl147623_0736		Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.738	Odosp_0733	VBIOdoSpl147623_0738			3.5.2.7	Imidazolonepropionase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.739	Odosp_0734	VBIOdoSpl147623_0739			2.1.2.5	Glutamate formimidoyltransferase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.739	Odosp_0734	VBIOdoSpl147623_0739			2.1.2.5	Glutamate formimidoyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.739	Odosp_0734	VBIOdoSpl147623_0739			4.3.1.4	Formimidoyltetrahydrofolate cyclodeaminase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.744	Odosp_0738	VBIOdoSpl147623_0744		Malonyl-[acyl-carrier protein] O-methyltransferase (EC 2.1.1.197)	2.1.1.197	Malonyl-[acyl-carrier protein] O-methyltransferase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.745	Odosp_0739	VBIOdoSpl147623_0745		Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester esterase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.746	Odosp_0740	VBIOdoSpl147623_0746			2.3.1.47	8-amino-7-oxononanoate synthase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.747	Odosp_0741	VBIOdoSpl147623_0747			2.6.1.62	Adenosylmethionine--8-amino-7-oxononanoate transaminase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.748	Odosp_0742	VBIOdoSpl147623_0748			2.8.1.6	Biotin synthase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.750	Odosp_0744	VBIOdoSpl147623_0750			6.3.4.20	7-cyano-7-deazaguanine synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.751	Odosp_0745	VBIOdoSpl147623_0751		6-carboxy-5,6,7,8-tetrahydropterin synthase (EC 4.1.2.50)	4.1.2.50	6-carboxytetrahydropterin synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.752	Odosp_0746	VBIOdoSpl147623_0752		7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)	4.3.99.3	7-carboxy-7-deazaguanine synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.763	Odosp_0757	VBIOdoSpl147623_0763			6.3.4.3	Formate--tetrahydrofolate ligase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.763	Odosp_0757	VBIOdoSpl147623_0763			6.3.4.3	Formate--tetrahydrofolate ligase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.770	Odosp_0764	VBIOdoSpl147623_0770			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.770	Odosp_0764	VBIOdoSpl147623_0770			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.771	Odosp_0765	VBIOdoSpl147623_0771			1.3.1.9	Enoyl-[acyl-carrier-protein] reductase (NADH)	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.779	Odosp_0772	VBIOdoSpl147623_0779			3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.780		VBIOdoSpl147623_0780		Bacterioferritin (EC 1.16.3.1)	1.16.3.1	Ferroxidase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.791	Odosp_0782	VBIOdoSpl147623_0791			1.4.1.1	Alanine dehydrogenase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.791	Odosp_0782	VBIOdoSpl147623_0791			1.4.1.1	Alanine dehydrogenase	00430	Taurine and hypotaurine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.797	Odosp_0788	VBIOdoSpl147623_0797			4.2.1.20	Tryptophan synthase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.797	Odosp_0788	VBIOdoSpl147623_0797			4.2.1.20	Tryptophan synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.798	Odosp_0789	VBIOdoSpl147623_0798			5.3.1.24	Phosphoribosylanthranilate isomerase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.840	Odosp_0829	VBIOdoSpl147623_0840			4.1.1.48	Indole-3-glycerol-phosphate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.841	Odosp_0830	VBIOdoSpl147623_0841			2.4.2.18	Anthranilate phosphoribosyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.842	Odosp_0831	VBIOdoSpl147623_0842			4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.843	Odosp_0832	VBIOdoSpl147623_0843			4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.844	Odosp_0833	VBIOdoSpl147623_0844			4.2.1.20	Tryptophan synthase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.844	Odosp_0833	VBIOdoSpl147623_0844			4.2.1.20	Tryptophan synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.846	Odosp_0835	VBIOdoSpl147623_0846			4.2.3.5	Chorismate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.848	Odosp_0837	VBIOdoSpl147623_0848			1.4.3.16	L-aspartate oxidase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.848	Odosp_0837	VBIOdoSpl147623_0848			1.4.3.16	L-aspartate oxidase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.849	Odosp_0838	VBIOdoSpl147623_0849			2.4.2.19	Nicotinate-nucleotide diphosphorylase (carboxylating)	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.852	Odosp_0841	VBIOdoSpl147623_0852			6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.871	Odosp_0856	VBIOdoSpl147623_0871			2.8.1.8	Lipoyl synthase	00785	Lipoic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.872	Odosp_0857	VBIOdoSpl147623_0872			2.3.1.181	Lipoyl(octanoyl) transferase	00785	Lipoic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.878	Odosp_0861	VBIOdoSpl147623_0878			2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.881	Odosp_0864	VBIOdoSpl147623_0881			2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.881	Odosp_0864	VBIOdoSpl147623_0881			2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.881	Odosp_0864	VBIOdoSpl147623_0881			2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.893	Odosp_0874	VBIOdoSpl147623_0893			1.6.99.3	NADH dehydrogenase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.899	Odosp_0881	VBIOdoSpl147623_0899			2.7.4.3	Adenylate kinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.901	Odosp_0883	VBIOdoSpl147623_0901			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.901	Odosp_0883	VBIOdoSpl147623_0901			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.901	Odosp_0883	VBIOdoSpl147623_0901			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.901	Odosp_0883	VBIOdoSpl147623_0901			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.911	Odosp_0893	VBIOdoSpl147623_0911			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.932	Odosp_0915	VBIOdoSpl147623_0932			4.3.2.2	Adenylosuccinate lyase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.932	Odosp_0915	VBIOdoSpl147623_0932			4.3.2.2	Adenylosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.935	Odosp_0918	VBIOdoSpl147623_0935		NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)	1.7.1.13	PreQ(1) synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.941	Odosp_0924	VBIOdoSpl147623_0941			4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.951	Odosp_0934	VBIOdoSpl147623_0951			4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.951	Odosp_0934	VBIOdoSpl147623_0951			4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.951	Odosp_0934	VBIOdoSpl147623_0951			4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.952	Odosp_0935	VBIOdoSpl147623_0952			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.952	Odosp_0935	VBIOdoSpl147623_0952			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.953	Odosp_0936	VBIOdoSpl147623_0953			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.953	Odosp_0936	VBIOdoSpl147623_0953			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.954	Odosp_0937	VBIOdoSpl147623_0954			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.954	Odosp_0937	VBIOdoSpl147623_0954			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.959	Odosp_0942	VBIOdoSpl147623_0959			5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.961	Odosp_0944	VBIOdoSpl147623_0961			3.8.1.2	(S)-2-haloacid dehalogenase	00361	gamma-Hexachlorocyclohexane degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.961	Odosp_0944	VBIOdoSpl147623_0961			3.8.1.2	(S)-2-haloacid dehalogenase	00625	Tetrachloroethene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.965		VBIOdoSpl147623_0965			5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.968		VBIOdoSpl147623_0968			5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.976	Odosp_0958	VBIOdoSpl147623_0976		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.977	Odosp_0959	VBIOdoSpl147623_0977			2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.979	Odosp_0961	VBIOdoSpl147623_0979			1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.982	Odosp_0964	VBIOdoSpl147623_0982			1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.982	Odosp_0964	VBIOdoSpl147623_0982			1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.982	Odosp_0964	VBIOdoSpl147623_0982			1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.982	Odosp_0964	VBIOdoSpl147623_0982			1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.992	Odosp_0974	VBIOdoSpl147623_0992			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.994	Odosp_0976	VBIOdoSpl147623_0994			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1008	Odosp_0990	VBIOdoSpl147623_1008			3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1008	Odosp_0990	VBIOdoSpl147623_1008			3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1008	Odosp_0990	VBIOdoSpl147623_1008			3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1009	Odosp_0991	VBIOdoSpl147623_1009			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1061	Odosp_1044	VBIOdoSpl147623_1061			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1061	Odosp_1044	VBIOdoSpl147623_1061			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1065	Odosp_1048	VBIOdoSpl147623_1065			5.1.99.1	Methylmalonyl-CoA epimerase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1065	Odosp_1048	VBIOdoSpl147623_1065			5.1.99.1	Methylmalonyl-CoA epimerase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1065	Odosp_1048	VBIOdoSpl147623_1065			5.1.99.1	Methylmalonyl-CoA epimerase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1065	Odosp_1048	VBIOdoSpl147623_1065			5.1.99.1	Methylmalonyl-CoA epimerase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1066	Odosp_1049	VBIOdoSpl147623_1066		Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1070	Odosp_1052	VBIOdoSpl147623_1070		Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1073	Odosp_1053	VBIOdoSpl147623_1073			2.1.1.107	Uroporphyrinogen-III C-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1083	Odosp_1062	VBIOdoSpl147623_1083			2.7.1.71	Shikimate kinase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1088	Odosp_1065	VBIOdoSpl147623_1088			6.3.4.10	Biotin--[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1088	Odosp_1065	VBIOdoSpl147623_1088			6.3.4.11	Biotin--[methylcrotonoyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1088	Odosp_1065	VBIOdoSpl147623_1088			6.3.4.15	Biotin--[acetyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1088	Odosp_1065	VBIOdoSpl147623_1088			6.3.4.9	Biotin--[methylmalonyl-CoA-carboxytransferase] ligase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1091	Odosp_1068	VBIOdoSpl147623_1091			5.4.3.2	Lysine 2,3-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1104	Odosp_1081	VBIOdoSpl147623_1104			2.7.6.2	Thiamine diphosphokinase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1114	Odosp_1091	VBIOdoSpl147623_1114			1.7.99.1	Hydroxylamine reductase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1136	Odosp_1112	VBIOdoSpl147623_1136			6.1.1.15	Proline--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1143	Odosp_1118	VBIOdoSpl147623_1143			2.5.1.15	Dihydropteroate synthase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1146	Odosp_1121	VBIOdoSpl147623_1146			5.3.1.1	Triose-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1146	Odosp_1121	VBIOdoSpl147623_1146			5.3.1.1	Triose-phosphate isomerase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1146	Odosp_1121	VBIOdoSpl147623_1146			5.3.1.1	Triose-phosphate isomerase	00562	Inositol phosphate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1146	Odosp_1121	VBIOdoSpl147623_1146			5.3.1.1	Triose-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1150	Odosp_1125	VBIOdoSpl147623_1150			3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1156	Odosp_1131	VBIOdoSpl147623_1156			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1156	Odosp_1131	VBIOdoSpl147623_1156			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1239	Odosp_1210	VBIOdoSpl147623_1239			2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1239	Odosp_1210	VBIOdoSpl147623_1239			2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1240	Odosp_1211	VBIOdoSpl147623_1240			6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1240	Odosp_1211	VBIOdoSpl147623_1240			6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1240	Odosp_1211	VBIOdoSpl147623_1240			6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1240	Odosp_1211	VBIOdoSpl147623_1240			6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1266	Odosp_1232	VBIOdoSpl147623_1266			4.4.1.5	Lactoylglutathione lyase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1269	Odosp_1235	VBIOdoSpl147623_1269			3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1269	Odosp_1235	VBIOdoSpl147623_1269			3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1269	Odosp_1235	VBIOdoSpl147623_1269			3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1279	Odosp_1244	VBIOdoSpl147623_1279			3.5.1.5	Urease	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1279	Odosp_1244	VBIOdoSpl147623_1279			3.5.1.5	Urease	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1279	Odosp_1244	VBIOdoSpl147623_1279			3.5.1.5	Urease	00791	Atrazine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1280	Odosp_1245	VBIOdoSpl147623_1280			3.5.1.5	Urease	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1280	Odosp_1245	VBIOdoSpl147623_1280			3.5.1.5	Urease	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1280	Odosp_1245	VBIOdoSpl147623_1280			3.5.1.5	Urease	00791	Atrazine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1281	Odosp_1246	VBIOdoSpl147623_1281			3.5.1.5	Urease	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1281	Odosp_1246	VBIOdoSpl147623_1281			3.5.1.5	Urease	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1281	Odosp_1246	VBIOdoSpl147623_1281			3.5.1.5	Urease	00791	Atrazine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1298	Odosp_1261	VBIOdoSpl147623_1298			2.1.1.37	DNA (cytosine-5-)-methyltransferase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1347	Odosp_1305	VBIOdoSpl147623_1347			1.8.1.4	Dihydrolipoyl dehydrogenase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1347	Odosp_1305	VBIOdoSpl147623_1347			1.8.1.4	Dihydrolipoyl dehydrogenase	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1347	Odosp_1305	VBIOdoSpl147623_1347			1.8.1.4	Dihydrolipoyl dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1347	Odosp_1305	VBIOdoSpl147623_1347			1.8.1.4	Dihydrolipoyl dehydrogenase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1347	Odosp_1305	VBIOdoSpl147623_1347			1.8.1.4	Dihydrolipoyl dehydrogenase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1348	Odosp_1306	VBIOdoSpl147623_1348			3.1.4.14	[Acyl-carrier-protein] phosphodiesterase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1350	Odosp_1307	VBIOdoSpl147623_1350			4.1.1.15	Glutamate decarboxylase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1350	Odosp_1307	VBIOdoSpl147623_1350			4.1.1.15	Glutamate decarboxylase	00410	beta-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1350	Odosp_1307	VBIOdoSpl147623_1350			4.1.1.15	Glutamate decarboxylase	00430	Taurine and hypotaurine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1350	Odosp_1307	VBIOdoSpl147623_1350			4.1.1.15	Glutamate decarboxylase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1351	Odosp_1308	VBIOdoSpl147623_1351			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1352	Odosp_1309	VBIOdoSpl147623_1352			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1378	Odosp_1335	VBIOdoSpl147623_1378			3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1389	Odosp_1346	VBIOdoSpl147623_1389		UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00471	D-Glutamine and D-glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1389	Odosp_1346	VBIOdoSpl147623_1389		UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1390	Odosp_1347	VBIOdoSpl147623_1390			2.4.1.227	Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1391	Odosp_1348	VBIOdoSpl147623_1391		Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1392	Odosp_1349	VBIOdoSpl147623_1392		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00471	D-Glutamine and D-glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1392	Odosp_1349	VBIOdoSpl147623_1392		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1393	Odosp_1350	VBIOdoSpl147623_1393			2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1394	Odosp_1351	VBIOdoSpl147623_1394		UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1394	Odosp_1351	VBIOdoSpl147623_1394		UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1395	Odosp_1352	VBIOdoSpl147623_1395			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1422	Odosp_1381	VBIOdoSpl147623_1422			3.1.5.1	dGTPase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1433	Odosp_1390	VBIOdoSpl147623_1433			4.4.1.8	Cystathionine beta-lyase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1433	Odosp_1390	VBIOdoSpl147623_1433			4.4.1.8	Cystathionine beta-lyase	00450	Selenoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1433	Odosp_1390	VBIOdoSpl147623_1433			4.4.1.8	Cystathionine beta-lyase	00920	Sulfur metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1435	Odosp_1392	VBIOdoSpl147623_1435		Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1435	Odosp_1392	VBIOdoSpl147623_1435		Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1451	Odosp_1408	VBIOdoSpl147623_1451			1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1451	Odosp_1408	VBIOdoSpl147623_1451			1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1451	Odosp_1408	VBIOdoSpl147623_1451			1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1451	Odosp_1408	VBIOdoSpl147623_1451			1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1458	Odosp_1414	VBIOdoSpl147623_1458			2.6.1.13	Ornithine aminotransferase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1461	Odosp_1417	VBIOdoSpl147623_1461			1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1461	Odosp_1417	VBIOdoSpl147623_1461			1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1475	Odosp_1429	VBIOdoSpl147623_1475			3.3.1.1	Adenosylhomocysteinase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1476	Odosp_1430	VBIOdoSpl147623_1476			3.5.4.13	dCTP deaminase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1477	Odosp_1431	VBIOdoSpl147623_1477			2.7.1.24	Dephospho-CoA kinase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1488	Odosp_1443	VBIOdoSpl147623_1488			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1488	Odosp_1443	VBIOdoSpl147623_1488			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1494	Odosp_1449	VBIOdoSpl147623_1494			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1494	Odosp_1449	VBIOdoSpl147623_1494			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1495	Odosp_1450	VBIOdoSpl147623_1495			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1495	Odosp_1450	VBIOdoSpl147623_1495			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1496	Odosp_1451	VBIOdoSpl147623_1496			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1496	Odosp_1451	VBIOdoSpl147623_1496			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1497	Odosp_1452	VBIOdoSpl147623_1497			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1497	Odosp_1452	VBIOdoSpl147623_1497			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1498	Odosp_1453	VBIOdoSpl147623_1498			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1498	Odosp_1453	VBIOdoSpl147623_1498			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1499	Odosp_1454	VBIOdoSpl147623_1499			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1499	Odosp_1454	VBIOdoSpl147623_1499			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1500	Odosp_1455	VBIOdoSpl147623_1500			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1500	Odosp_1455	VBIOdoSpl147623_1500			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1501	Odosp_1456	VBIOdoSpl147623_1501			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1501	Odosp_1456	VBIOdoSpl147623_1501			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1502	Odosp_1457	VBIOdoSpl147623_1502			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1502	Odosp_1457	VBIOdoSpl147623_1502			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1503	Odosp_1458	VBIOdoSpl147623_1503			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1503	Odosp_1458	VBIOdoSpl147623_1503			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1504	Odosp_1459	VBIOdoSpl147623_1504			1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1505	Odosp_1460	VBIOdoSpl147623_1505			3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1513	Odosp_1467	VBIOdoSpl147623_1513			3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1526	Odosp_1480	VBIOdoSpl147623_1526		D-alanine--poly(phosphoribitol) ligase ACP subunit (EC 6.1.1.13)	6.1.1.13	D-alanine--poly(phosphoribitol) ligase	00473	D-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1527	Odosp_1481	VBIOdoSpl147623_1527			6.1.1.13	D-alanine--poly(phosphoribitol) ligase	00473	D-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1536	Odosp_1491	VBIOdoSpl147623_1536			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1536	Odosp_1491	VBIOdoSpl147623_1536			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1536	Odosp_1491	VBIOdoSpl147623_1536			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1537	Odosp_1492	VBIOdoSpl147623_1537			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1537	Odosp_1492	VBIOdoSpl147623_1537			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1537	Odosp_1492	VBIOdoSpl147623_1537			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1538	Odosp_1493	VBIOdoSpl147623_1538			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1538	Odosp_1493	VBIOdoSpl147623_1538			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1538	Odosp_1493	VBIOdoSpl147623_1538			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1539	Odosp_1494	VBIOdoSpl147623_1539			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1539	Odosp_1494	VBIOdoSpl147623_1539			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1539	Odosp_1494	VBIOdoSpl147623_1539			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1540	Odosp_1495	VBIOdoSpl147623_1540			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1540	Odosp_1495	VBIOdoSpl147623_1540			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1540	Odosp_1495	VBIOdoSpl147623_1540			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1541	Odosp_1496	VBIOdoSpl147623_1541			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1541	Odosp_1496	VBIOdoSpl147623_1541			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1541	Odosp_1496	VBIOdoSpl147623_1541			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1542	Odosp_1497	VBIOdoSpl147623_1542			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1542	Odosp_1497	VBIOdoSpl147623_1542			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1542	Odosp_1497	VBIOdoSpl147623_1542			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1543	Odosp_1498	VBIOdoSpl147623_1543			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1543	Odosp_1498	VBIOdoSpl147623_1543			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1543	Odosp_1498	VBIOdoSpl147623_1543			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1550	Odosp_1505	VBIOdoSpl147623_1550			3.5.1.2	Glutaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1550	Odosp_1505	VBIOdoSpl147623_1550			3.5.1.2	Glutaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1550	Odosp_1505	VBIOdoSpl147623_1550			3.5.1.2	Glutaminase	00471	D-Glutamine and D-glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1550	Odosp_1505	VBIOdoSpl147623_1550			3.5.1.2	Glutaminase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1583	Odosp_1536	VBIOdoSpl147623_1583			5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1583	Odosp_1536	VBIOdoSpl147623_1583			5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1583	Odosp_1536	VBIOdoSpl147623_1583			5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1583	Odosp_1536	VBIOdoSpl147623_1583			5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1584	Odosp_1537	VBIOdoSpl147623_1584			5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1584	Odosp_1537	VBIOdoSpl147623_1584			5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1584	Odosp_1537	VBIOdoSpl147623_1584			5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1584	Odosp_1537	VBIOdoSpl147623_1584			5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1588	Odosp_1541	VBIOdoSpl147623_1588			5.4.2.6	Beta-phosphoglucomutase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1593	Odosp_1545	VBIOdoSpl147623_1593			2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1594	Odosp_1546	VBIOdoSpl147623_1594			1.4.1.16	Diaminopimelate dehydrogenase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1625	Odosp_1574	VBIOdoSpl147623_1625			2.7.1.107	Diacylglycerol kinase (ATP)	00561	Glycerolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1625	Odosp_1574	VBIOdoSpl147623_1625			2.7.1.107	Diacylglycerol kinase (ATP)	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1625	Odosp_1574	VBIOdoSpl147623_1625			2.7.1.107	Diacylglycerol kinase (ATP)	04070	Phosphatidylinositol signaling system
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1631	Odosp_1578	VBIOdoSpl147623_1631			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1631	Odosp_1578	VBIOdoSpl147623_1631			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1631	Odosp_1578	VBIOdoSpl147623_1631			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1631	Odosp_1578	VBIOdoSpl147623_1631			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1654		VBIOdoSpl147623_1654		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1654		VBIOdoSpl147623_1654		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1654		VBIOdoSpl147623_1654		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1654		VBIOdoSpl147623_1654		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1660	Odosp_1603	VBIOdoSpl147623_1660			5.1.1.7	Diaminopimelate epimerase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1677	Odosp_1619	VBIOdoSpl147623_1677			2.1.2.1	Glycine hydroxymethyltransferase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1677	Odosp_1619	VBIOdoSpl147623_1677			2.1.2.1	Glycine hydroxymethyltransferase	00460	Cyanoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1677	Odosp_1619	VBIOdoSpl147623_1677			2.1.2.1	Glycine hydroxymethyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1677	Odosp_1619	VBIOdoSpl147623_1677			2.1.2.1	Glycine hydroxymethyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1677	Odosp_1619	VBIOdoSpl147623_1677			2.1.2.1	Glycine hydroxymethyltransferase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1679	Odosp_1621	VBIOdoSpl147623_1679			2.7.7.3	Pantetheine-phosphate adenylyltransferase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1680	Odosp_1622	VBIOdoSpl147623_1680		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1680	Odosp_1622	VBIOdoSpl147623_1680		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1680	Odosp_1622	VBIOdoSpl147623_1680		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1695	Odosp_1637	VBIOdoSpl147623_1695			1.5.1.43	Carboxynorspermidine synthase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1703	Odosp_1645	VBIOdoSpl147623_1703			1.1.1.267	1-deoxy-D-xylulose-5-phosphate reductoisomerase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1716	Odosp_1657	VBIOdoSpl147623_1716			3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1716	Odosp_1657	VBIOdoSpl147623_1716			3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1739	Odosp_1679	VBIOdoSpl147623_1739			1.1.1.94	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1740	Odosp_1680	VBIOdoSpl147623_1740			6.1.1.6	Lysine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1832	Odosp_1769	VBIOdoSpl147623_1832			3.5.4.5	Cytidine deaminase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1832	Odosp_1769	VBIOdoSpl147623_1832			3.5.4.5	Cytidine deaminase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1839	Odosp_1775	VBIOdoSpl147623_1839		Pyruvate dehydrogenase (quinone) (EC 1.2.5.1)	1.2.5.1	Pyruvate dehydrogenase (quinone)	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1840	Odosp_1776	VBIOdoSpl147623_1840			2.7.4.1	Polyphosphate kinase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1841	Odosp_1777	VBIOdoSpl147623_1841			3.6.1.11	Exopolyphosphatase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.2	Acetyl-CoA carboxylase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.2	Acetyl-CoA carboxylase	00253	Tetracycline biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.2	Acetyl-CoA carboxylase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.2	Acetyl-CoA carboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.2	Acetyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.3	Propionyl-CoA carboxylase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.3	Propionyl-CoA carboxylase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.3	Propionyl-CoA carboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1842	Odosp_1778	VBIOdoSpl147623_1842			6.4.1.3	Propionyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1852	Odosp_1789	VBIOdoSpl147623_1852			1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1852	Odosp_1789	VBIOdoSpl147623_1852			1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1853	Odosp_1790	VBIOdoSpl147623_1853			2.6.1.52	Phosphoserine transaminase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1853	Odosp_1790	VBIOdoSpl147623_1853			2.6.1.52	Phosphoserine transaminase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1853	Odosp_1790	VBIOdoSpl147623_1853			2.6.1.52	Phosphoserine transaminase	00750	Vitamin B6 metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1854	Odosp_1791	VBIOdoSpl147623_1854			2.1.2.10	Aminomethyltransferase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1854	Odosp_1791	VBIOdoSpl147623_1854			2.1.2.10	Aminomethyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1854	Odosp_1791	VBIOdoSpl147623_1854			2.1.2.10	Aminomethyltransferase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1862	Odosp_1799	VBIOdoSpl147623_1862			2.7.1.40	Pyruvate kinase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1862	Odosp_1799	VBIOdoSpl147623_1862			2.7.1.40	Pyruvate kinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1862	Odosp_1799	VBIOdoSpl147623_1862			2.7.1.40	Pyruvate kinase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1862	Odosp_1799	VBIOdoSpl147623_1862			2.7.1.40	Pyruvate kinase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1863	Odosp_1800	VBIOdoSpl147623_1863			4.2.1.10	3-dehydroquinate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1866	Odosp_1803	VBIOdoSpl147623_1866			2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1896	Odosp_1832	VBIOdoSpl147623_1896			4.1.99.1	Tryptophanase	00380	Tryptophan metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1901	Odosp_1837	VBIOdoSpl147623_1901			3.1.1.31	6-phosphogluconolactonase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1903	Odosp_1839	VBIOdoSpl147623_1903			5.4.2.10	Phosphoglucosamine mutase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1903	Odosp_1839	VBIOdoSpl147623_1903			5.4.2.8	Phosphomannomutase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1903	Odosp_1839	VBIOdoSpl147623_1903			5.4.2.8	Phosphomannomutase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1907		VBIOdoSpl147623_1907		alpha-L-arabinofuranosidase (EC 3.2.1.55)	3.2.1.55	Non-reducing end alpha-L-arabinofuranosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1908		VBIOdoSpl147623_1908		alpha-L-arabinofuranosidase (EC 3.2.1.55)	3.2.1.55	Non-reducing end alpha-L-arabinofuranosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1909		VBIOdoSpl147623_1909		alpha-L-arabinofuranosidase (EC 3.2.1.55)	3.2.1.55	Non-reducing end alpha-L-arabinofuranosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1910	Odosp_1844	VBIOdoSpl147623_1910			2.1.3.3	Ornithine carbamoyltransferase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1911	Odosp_1845	VBIOdoSpl147623_1911			2.7.2.2	Carbamate kinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1911	Odosp_1845	VBIOdoSpl147623_1911			2.7.2.2	Carbamate kinase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1911	Odosp_1845	VBIOdoSpl147623_1911			2.7.2.2	Carbamate kinase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1920	Odosp_1854	VBIOdoSpl147623_1920			2.2.1.2	Transaldolase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1936	Odosp_1865	VBIOdoSpl147623_1936			6.1.1.21	Histidine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1937	Odosp_1866	VBIOdoSpl147623_1937			4.3.1.3	Histidine ammonia-lyase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1946	Odosp_1874	VBIOdoSpl147623_1946			6.1.1.7	Alanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1951	Odosp_1879	VBIOdoSpl147623_1951			6.1.1.9	Valine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1976	Odosp_1900	VBIOdoSpl147623_1976			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1976	Odosp_1900	VBIOdoSpl147623_1976			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1976	Odosp_1900	VBIOdoSpl147623_1976			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1976	Odosp_1900	VBIOdoSpl147623_1976			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1978	Odosp_1901	VBIOdoSpl147623_1978			2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1979	Odosp_1902	VBIOdoSpl147623_1979		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1979	Odosp_1902	VBIOdoSpl147623_1979		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1979	Odosp_1902	VBIOdoSpl147623_1979		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1980	Odosp_1903	VBIOdoSpl147623_1980			2.3.1.191	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.1986	Odosp_1909	VBIOdoSpl147623_1986			4.2.3.3	Methylglyoxal synthase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2000	Odosp_1923	VBIOdoSpl147623_2000			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2005	Odosp_1928	VBIOdoSpl147623_2005			1.4.4.2	Glycine dehydrogenase (aminomethyl-transferring)	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2011	Odosp_1932	VBIOdoSpl147623_2011			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2011	Odosp_1932	VBIOdoSpl147623_2011			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2011	Odosp_1932	VBIOdoSpl147623_2011			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2012	Odosp_1933	VBIOdoSpl147623_2012			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2012	Odosp_1933	VBIOdoSpl147623_2012			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2012	Odosp_1933	VBIOdoSpl147623_2012			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2013	Odosp_1934	VBIOdoSpl147623_2013			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2013	Odosp_1934	VBIOdoSpl147623_2013			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2013	Odosp_1934	VBIOdoSpl147623_2013			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2014	Odosp_1935	VBIOdoSpl147623_2014			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2014	Odosp_1935	VBIOdoSpl147623_2014			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2014	Odosp_1935	VBIOdoSpl147623_2014			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2015	Odosp_1936	VBIOdoSpl147623_2015			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2015	Odosp_1936	VBIOdoSpl147623_2015			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2015	Odosp_1936	VBIOdoSpl147623_2015			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2016	Odosp_1937	VBIOdoSpl147623_2016			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2016	Odosp_1937	VBIOdoSpl147623_2016			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2016	Odosp_1937	VBIOdoSpl147623_2016			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2017	Odosp_1938	VBIOdoSpl147623_2017			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2017	Odosp_1938	VBIOdoSpl147623_2017			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2017	Odosp_1938	VBIOdoSpl147623_2017			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2035	Odosp_1955	VBIOdoSpl147623_2035			2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2041	Odosp_1959	VBIOdoSpl147623_2041			4.3.1.1	Aspartate ammonia-lyase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2041	Odosp_1959	VBIOdoSpl147623_2041			4.3.1.1	Aspartate ammonia-lyase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2046	Odosp_1963	VBIOdoSpl147623_2046			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2046	Odosp_1963	VBIOdoSpl147623_2046			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2047	Odosp_1964	VBIOdoSpl147623_2047			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2047	Odosp_1964	VBIOdoSpl147623_2047			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2096	Odosp_2012	VBIOdoSpl147623_2096			2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2096	Odosp_2012	VBIOdoSpl147623_2096			2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2096	Odosp_2012	VBIOdoSpl147623_2096			2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2131	Odosp_2049	VBIOdoSpl147623_2131			2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2142	Odosp_2059	VBIOdoSpl147623_2142			1.1.1.61	4-hydroxybutyrate dehydrogenase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2145	Odosp_2062	VBIOdoSpl147623_2145			4.2.1.120	4-hydroxybutanoyl-CoA dehydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2145	Odosp_2062	VBIOdoSpl147623_2145			5.3.3.3	Vinylacetyl-CoA Delta-isomerase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2145	Odosp_2062	VBIOdoSpl147623_2145			5.3.3.3	Vinylacetyl-CoA Delta-isomerase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.2	Acetyl-CoA carboxylase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.2	Acetyl-CoA carboxylase	00253	Tetracycline biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.2	Acetyl-CoA carboxylase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.2	Acetyl-CoA carboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.2	Acetyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.3	Propionyl-CoA carboxylase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.3	Propionyl-CoA carboxylase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.3	Propionyl-CoA carboxylase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2147	Odosp_2063	VBIOdoSpl147623_2147			6.4.1.3	Propionyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2148	Odosp_2064	VBIOdoSpl147623_2148			6.3.4.14	Biotin carboxylase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2161	Odosp_2076	VBIOdoSpl147623_2161			2.4.2.10	Orotate phosphoribosyltransferase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2161	Odosp_2076	VBIOdoSpl147623_2161			2.4.2.10	Orotate phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2166	Odosp_2081	VBIOdoSpl147623_2166		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.1.167	D-glycero-beta-D-manno-heptose-7-phosphate kinase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2166	Odosp_2081	VBIOdoSpl147623_2166		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2170	Odosp_2084	VBIOdoSpl147623_2170			5.1.3.3	Aldose 1-epimerase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2173	Odosp_2086	VBIOdoSpl147623_2173			2.7.1.6	Galactokinase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2173	Odosp_2086	VBIOdoSpl147623_2173			2.7.1.6	Galactokinase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2178	Odosp_2092	VBIOdoSpl147623_2178			5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2179	Odosp_2093	VBIOdoSpl147623_2179			2.4.2.8	Hypoxanthine phosphoribosyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2179	Odosp_2093	VBIOdoSpl147623_2179			2.4.2.8	Hypoxanthine phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2181	Odosp_2096	VBIOdoSpl147623_2181			3.5.4.19	Phosphoribosyl-AMP cyclohydrolase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2181	Odosp_2096	VBIOdoSpl147623_2181			3.6.1.31	Phosphoribosyl-ATP diphosphatase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2183	Odosp_2098	VBIOdoSpl147623_2183			5.3.1.16	1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2185	Odosp_2100	VBIOdoSpl147623_2185			3.1.3.15	Histidinol-phosphatase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2185	Odosp_2100	VBIOdoSpl147623_2185			4.2.1.19	Imidazoleglycerol-phosphate dehydratase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2186	Odosp_2101	VBIOdoSpl147623_2186			2.6.1.9	Histidinol-phosphate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2187	Odosp_2102	VBIOdoSpl147623_2187			1.1.1.23	Histidinol dehydrogenase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2188	Odosp_2103	VBIOdoSpl147623_2188		ATP phosphoribosyltransferase (EC 2.4.2.17) => HisGl	2.4.2.17	ATP phosphoribosyltransferase	00340	Histidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2209	Odosp_2124	VBIOdoSpl147623_2209			6.3.3.2	5-formyltetrahydrofolate cyclo-ligase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2210	Odosp_2126	VBIOdoSpl147623_2210			6.3.1.5	NAD(+) synthase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2219	Odosp_2134	VBIOdoSpl147623_2219			6.1.1.18	Glutamine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2231	Odosp_2145	VBIOdoSpl147623_2231			6.3.4.4	Adenylosuccinate synthase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2231	Odosp_2145	VBIOdoSpl147623_2231			6.3.4.4	Adenylosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2233	Odosp_2147	VBIOdoSpl147623_2233			2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2233	Odosp_2147	VBIOdoSpl147623_2233			3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2234	Odosp_2148	VBIOdoSpl147623_2234			5.1.1.3	Glutamate racemase	00471	D-Glutamine and D-glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2238	Odosp_2152	VBIOdoSpl147623_2238			2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2241	Odosp_2154	VBIOdoSpl147623_2241			2.7.1.23	NAD(+) kinase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2247	Odosp_2159	VBIOdoSpl147623_2247			1.1.1.25	Shikimate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2255	Odosp_2167	VBIOdoSpl147623_2255			6.3.1.1	Aspartate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2255	Odosp_2167	VBIOdoSpl147623_2255			6.3.1.1	Aspartate--ammonia ligase	00460	Cyanoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2255	Odosp_2167	VBIOdoSpl147623_2255			6.3.1.1	Aspartate--ammonia ligase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2259	Odosp_2171	VBIOdoSpl147623_2259		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2259	Odosp_2171	VBIOdoSpl147623_2259		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2259	Odosp_2171	VBIOdoSpl147623_2259		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2259	Odosp_2171	VBIOdoSpl147623_2259		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2259	Odosp_2171	VBIOdoSpl147623_2259		Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2263	Odosp_2174	VBIOdoSpl147623_2263			4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2266	Odosp_2176	VBIOdoSpl147623_2266			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2266	Odosp_2176	VBIOdoSpl147623_2266			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2268	Odosp_2178	VBIOdoSpl147623_2268			3.5.2.3	Dihydroorotase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2270	Odosp_2180	VBIOdoSpl147623_2270			6.3.4.13	Phosphoribosylamine--glycine ligase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2278	Odosp_2188	VBIOdoSpl147623_2278			1.1.1.49	Glucose-6-phosphate dehydrogenase (NADP(+))	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2278	Odosp_2188	VBIOdoSpl147623_2278			1.1.1.49	Glucose-6-phosphate dehydrogenase (NADP(+))	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2279	Odosp_2189	VBIOdoSpl147623_2279			1.1.1.44	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2279	Odosp_2189	VBIOdoSpl147623_2279			1.1.1.44	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2298	Odosp_2207	VBIOdoSpl147623_2298			2.5.1.6	Methionine adenosyltransferase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2299	Odosp_2208	VBIOdoSpl147623_2299		3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)	2.4.99.12	Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2299	Odosp_2208	VBIOdoSpl147623_2299		3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12)(EC 2.4.99.13)	2.4.99.13	(KDO)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2300	Odosp_2209	VBIOdoSpl147623_2300		S-methyl-5-thioribose-1-phosphate isomerase (EC 5.3.1.23)	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2308	Odosp_2216	VBIOdoSpl147623_2308		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2308	Odosp_2216	VBIOdoSpl147623_2308		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2308	Odosp_2216	VBIOdoSpl147623_2308		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2308	Odosp_2216	VBIOdoSpl147623_2308		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2342	Odosp_2247	VBIOdoSpl147623_2342			2.6.1.42	Branched-chain-amino-acid transaminase	00280	Valine, leucine and isoleucine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2342	Odosp_2247	VBIOdoSpl147623_2342			2.6.1.42	Branched-chain-amino-acid transaminase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2342	Odosp_2247	VBIOdoSpl147623_2342			2.6.1.42	Branched-chain-amino-acid transaminase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2345	Odosp_2250	VBIOdoSpl147623_2345			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2345	Odosp_2250	VBIOdoSpl147623_2345			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2345	Odosp_2250	VBIOdoSpl147623_2345			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2356	Odosp_2261	VBIOdoSpl147623_2356		Glucosamine-6-phosphate deaminase (EC 3.5.99.6) / domain similar to N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	3.5.99.6	Glucosamine-6-phosphate deaminase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2362	Odosp_2267	VBIOdoSpl147623_2362			3.6.1.54	UDP-2,3-diacylglucosamine diphosphatase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2364	Odosp_2269	VBIOdoSpl147623_2364			3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2365	Odosp_2270	VBIOdoSpl147623_2365		D-sedoheptulose 7-phosphate isomerase (EC 5.3.1.28)	5.3.1.28	D-sedoheptulose 7-phosphate isomerase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2397	Odosp_2298	VBIOdoSpl147623_2397		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2398	Odosp_2299	VBIOdoSpl147623_2398		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2401	Odosp_2302	VBIOdoSpl147623_2401			4.2.1.11	Phosphopyruvate hydratase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2401	Odosp_2302	VBIOdoSpl147623_2401			4.2.1.11	Phosphopyruvate hydratase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2406	Odosp_2307	VBIOdoSpl147623_2406			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2406	Odosp_2307	VBIOdoSpl147623_2406			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2481	Odosp_2380	VBIOdoSpl147623_2481			6.1.1.14	Glycine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2494	Odosp_2390	VBIOdoSpl147623_2494			2.7.1.26	Riboflavin kinase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2494	Odosp_2390	VBIOdoSpl147623_2494			2.7.7.2	FAD synthetase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2495	Odosp_2391	VBIOdoSpl147623_2495			1.17.4.1	Ribonucleoside-diphosphate reductase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2495	Odosp_2391	VBIOdoSpl147623_2495			1.17.4.1	Ribonucleoside-diphosphate reductase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2495	Odosp_2391	VBIOdoSpl147623_2495			1.17.4.1	Ribonucleoside-diphosphate reductase	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2509	Odosp_2404	VBIOdoSpl147623_2509			2.1.1.151	Cobalt-factor II C(20)-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2523	Odosp_2418	VBIOdoSpl147623_2523		Cobalt-precorrin-6A reductase (EC 1.3.1.106) / Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)	2.1.1.195	Cobalt-precorrin-5B (C(1))-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2525	Odosp_2420	VBIOdoSpl147623_2525			3.7.1.12	Cobalt-precorrin 5A hydrolase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2528	Odosp_2423	VBIOdoSpl147623_2528			2.1.1.196	Cobalt-precorrin-6B (C(15))-methyltransferase (decarboxylating)	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2533	Odosp_2428	VBIOdoSpl147623_2533			4.99.1.3	Sirohydrochlorin cobaltochelatase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2533	Odosp_2428	VBIOdoSpl147623_2533			4.99.1.4	Sirohydrochlorin ferrochelatase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2554	Odosp_2448	VBIOdoSpl147623_2554			6.3.5.11	Cobyrinate a,c-diamide synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2555	Odosp_2449	VBIOdoSpl147623_2555			6.3.1.10	Adenosylcobinamide-phosphate synthase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2556	Odosp_2450	VBIOdoSpl147623_2556			4.1.1.81	Threonine-phosphate decarboxylase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2557	Odosp_2451	VBIOdoSpl147623_2557			6.3.5.10	Adenosylcobyric acid synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2558	Odosp_2452	VBIOdoSpl147623_2558			2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2573	Odosp_2467	VBIOdoSpl147623_2573			2.7.1.156	Adenosylcobinamide kinase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2573	Odosp_2467	VBIOdoSpl147623_2573			2.7.7.62	Adenosylcobinamide-phosphate guanylyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2574	Odosp_2468	VBIOdoSpl147623_2574			2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2575	Odosp_2469	VBIOdoSpl147623_2575			2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2576	Odosp_2470	VBIOdoSpl147623_2576			3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2587	Odosp_2479	VBIOdoSpl147623_2587			3.1.3.11	Fructose-bisphosphatase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2587	Odosp_2479	VBIOdoSpl147623_2587			3.1.3.11	Fructose-bisphosphatase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2587	Odosp_2479	VBIOdoSpl147623_2587			3.1.3.11	Fructose-bisphosphatase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2587	Odosp_2479	VBIOdoSpl147623_2587			3.1.3.11	Fructose-bisphosphatase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2587	Odosp_2479	VBIOdoSpl147623_2587			3.1.3.11	Fructose-bisphosphatase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2588	Odosp_2480	VBIOdoSpl147623_2588			2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2588	Odosp_2480	VBIOdoSpl147623_2588			2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2588	Odosp_2480	VBIOdoSpl147623_2588			2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2591	Odosp_2483	VBIOdoSpl147623_2591			6.1.1.5	Isoleucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2607	Odosp_2498	VBIOdoSpl147623_2607			1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2608	Odosp_2499	VBIOdoSpl147623_2608			5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2623	Odosp_2513	VBIOdoSpl147623_2623			2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2627	Odosp_2516	VBIOdoSpl147623_2627			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2652	Odosp_2541	VBIOdoSpl147623_2652			1.17.4.2	Ribonucleoside-triphosphate reductase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2652	Odosp_2541	VBIOdoSpl147623_2652			1.17.4.2	Ribonucleoside-triphosphate reductase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2661	Odosp_2548	VBIOdoSpl147623_2661			3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2661	Odosp_2548	VBIOdoSpl147623_2661			3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2665	Odosp_2552	VBIOdoSpl147623_2665			2.7.7.18	Nicotinate-nucleotide adenylyltransferase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2669	Odosp_2556	VBIOdoSpl147623_2669			2.7.4.8	Guanylate kinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2678	Odosp_2566	VBIOdoSpl147623_2678			3.5.3.11	Agmatinase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2696	Odosp_2583	VBIOdoSpl147623_2696			4.1.1.19	Arginine decarboxylase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2750	Odosp_2638	VBIOdoSpl147623_2750			6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2755	Odosp_2643	VBIOdoSpl147623_2755			3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2756	Odosp_2644	VBIOdoSpl147623_2756			2.7.6.1	Ribose-phosphate diphosphokinase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2756	Odosp_2644	VBIOdoSpl147623_2756			2.7.6.1	Ribose-phosphate diphosphokinase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2762	Odosp_2649	VBIOdoSpl147623_2762			6.1.1.4	Leucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2767	Odosp_2655	VBIOdoSpl147623_2767			4.3.1.12	Ornithine cyclodeaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2779	Odosp_2666	VBIOdoSpl147623_2779			2.5.1.29	Geranylgeranyl diphosphate synthase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2785	Odosp_2672	VBIOdoSpl147623_2785			4.1.2.4	Deoxyribose-phosphate aldolase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2802	Odosp_2689	VBIOdoSpl147623_2802			6.1.1.22	Asparagine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2811	Odosp_2698	VBIOdoSpl147623_2811			2.4.1.182	Lipid-A-disaccharide synthase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2812	Odosp_2699	VBIOdoSpl147623_2812			2.4.1.83	Dolichyl-phosphate beta-D-mannosyltransferase	00510	N-Glycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2817	Odosp_2704	VBIOdoSpl147623_2817		Uridylate kinase (EC 2.7.4.22)	2.7.4.22	UMP kinase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2818	Odosp_2705	VBIOdoSpl147623_2818			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2818	Odosp_2705	VBIOdoSpl147623_2818			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2820	Odosp_2707	VBIOdoSpl147623_2820			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2823	Odosp_2711	VBIOdoSpl147623_2823			6.1.1.17	Glutamate--tRNA ligase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2823	Odosp_2711	VBIOdoSpl147623_2823			6.1.1.17	Glutamate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2831	Odosp_2719	VBIOdoSpl147623_2831			2.5.1.54	3-deoxy-7-phosphoheptulonate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2831	Odosp_2719	VBIOdoSpl147623_2831			5.4.99.5	Chorismate mutase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2832	Odosp_2720	VBIOdoSpl147623_2832			1.3.1.12	Prephenate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2832	Odosp_2720	VBIOdoSpl147623_2832			1.3.1.12	Prephenate dehydrogenase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2832	Odosp_2720	VBIOdoSpl147623_2832			1.3.1.43	Arogenate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2832	Odosp_2720	VBIOdoSpl147623_2832			1.3.1.43	Arogenate dehydrogenase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2833	Odosp_2721	VBIOdoSpl147623_2833			2.6.1.57	Aromatic-amino-acid transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2834	Odosp_2722	VBIOdoSpl147623_2834			4.2.1.51	Prephenate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2835	Odosp_2723	VBIOdoSpl147623_2835			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2835	Odosp_2723	VBIOdoSpl147623_2835			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2838	Odosp_2726	VBIOdoSpl147623_2838			4.2.1.75	Uroporphyrinogen-III synthase	00860	Porphyrin and chlorophyll metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2842	Odosp_2731	VBIOdoSpl147623_2842			3.5.4.2	Adenine deaminase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2850	Odosp_2739	VBIOdoSpl147623_2850			3.6.1.23	dUTP diphosphatase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2851	Odosp_2740	VBIOdoSpl147623_2851		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.1.167	D-glycero-beta-D-manno-heptose-7-phosphate kinase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2851	Odosp_2740	VBIOdoSpl147623_2851		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2852	Odosp_2741	VBIOdoSpl147623_2852			4.1.1.11	Aspartate 1-decarboxylase	00410	beta-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2852	Odosp_2741	VBIOdoSpl147623_2852			4.1.1.11	Aspartate 1-decarboxylase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2853	Odosp_2742	VBIOdoSpl147623_2853			6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00410	beta-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2853	Odosp_2742	VBIOdoSpl147623_2853			6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2855	Odosp_2744	VBIOdoSpl147623_2855			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2855	Odosp_2744	VBIOdoSpl147623_2855			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2856	Odosp_2745	VBIOdoSpl147623_2856			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2856	Odosp_2745	VBIOdoSpl147623_2856			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2879	Odosp_2766	VBIOdoSpl147623_2879		Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)	1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2918	Odosp_2805	VBIOdoSpl147623_2918			6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2918	Odosp_2805	VBIOdoSpl147623_2918			6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2918	Odosp_2805	VBIOdoSpl147623_2918			6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2918	Odosp_2805	VBIOdoSpl147623_2918			6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2920	Odosp_2807	VBIOdoSpl147623_2920			6.3.4.5	Argininosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2920	Odosp_2807	VBIOdoSpl147623_2920			6.3.4.5	Argininosuccinate synthase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2925	Odosp_2812	VBIOdoSpl147623_2925			4.3.2.1	Argininosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2925	Odosp_2812	VBIOdoSpl147623_2925			4.3.2.1	Argininosuccinate lyase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2931	Odosp_2818	VBIOdoSpl147623_2931		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2931	Odosp_2818	VBIOdoSpl147623_2931		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2931	Odosp_2818	VBIOdoSpl147623_2931		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2931	Odosp_2818	VBIOdoSpl147623_2931		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2938	Odosp_2824	VBIOdoSpl147623_2938			3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2938	Odosp_2824	VBIOdoSpl147623_2938			3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2938	Odosp_2824	VBIOdoSpl147623_2938			3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2940	Odosp_2826	VBIOdoSpl147623_2940			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2940	Odosp_2826	VBIOdoSpl147623_2940			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2940	Odosp_2826	VBIOdoSpl147623_2940			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2942	Odosp_2828	VBIOdoSpl147623_2942			4.2.3.4	3-dehydroquinate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2943	Odosp_2829	VBIOdoSpl147623_2943		3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2945	Odosp_2831	VBIOdoSpl147623_2945			2.7.2.3	Phosphoglycerate kinase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2945	Odosp_2831	VBIOdoSpl147623_2945			2.7.2.3	Phosphoglycerate kinase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2948	Odosp_2834	VBIOdoSpl147623_2948			3.2.1.21	Beta-glucosidase	00460	Cyanoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2948	Odosp_2834	VBIOdoSpl147623_2948			3.2.1.21	Beta-glucosidase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2948	Odosp_2834	VBIOdoSpl147623_2948			3.2.1.21	Beta-glucosidase	00940	Phenylpropanoid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2961	Odosp_2846	VBIOdoSpl147623_2961		Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2961	Odosp_2846	VBIOdoSpl147623_2961		Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2975	Odosp_2858	VBIOdoSpl147623_2975			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2975	Odosp_2858	VBIOdoSpl147623_2975			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2976	Odosp_2859	VBIOdoSpl147623_2976			6.1.1.12	Aspartate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2978	Odosp_2861	VBIOdoSpl147623_2978			6.1.1.1	Tyrosine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2982	Odosp_2865	VBIOdoSpl147623_2982			2.7.8.-	Transferases for other substituted phosphate groups	00440	Phosphonate and phosphinate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2982	Odosp_2865	VBIOdoSpl147623_2982			2.7.8.-	Transferases for other substituted phosphate groups	00513	High-mannose type N-glycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2982	Odosp_2865	VBIOdoSpl147623_2982			2.7.8.-	Transferases for other substituted phosphate groups	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2982	Odosp_2865	VBIOdoSpl147623_2982			2.7.8.-	Transferases for other substituted phosphate groups	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2982	Odosp_2865	VBIOdoSpl147623_2982			2.7.8.-	Transferases for other substituted phosphate groups	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2983	Odosp_2866	VBIOdoSpl147623_2983			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2983	Odosp_2866	VBIOdoSpl147623_2983			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2983	Odosp_2866	VBIOdoSpl147623_2983			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2997	Odosp_2879	VBIOdoSpl147623_2997			4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2997	Odosp_2879	VBIOdoSpl147623_2997			4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2997	Odosp_2879	VBIOdoSpl147623_2997			4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2997	Odosp_2879	VBIOdoSpl147623_2997			4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.2997	Odosp_2879	VBIOdoSpl147623_2997			4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3016	Odosp_2897	VBIOdoSpl147623_3016			6.1.1.16	Cysteine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3019	Odosp_2900	VBIOdoSpl147623_3019			4.3.1.19	Threonine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3019	Odosp_2900	VBIOdoSpl147623_3019			4.3.1.19	Threonine ammonia-lyase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3020	Odosp_2901	VBIOdoSpl147623_3020			1.1.1.85	3-isopropylmalate dehydrogenase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3021	Odosp_2902	VBIOdoSpl147623_3021			4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3022	Odosp_2903	VBIOdoSpl147623_3022			4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3023	Odosp_2904	VBIOdoSpl147623_3023			2.3.3.13	2-isopropylmalate synthase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3023	Odosp_2904	VBIOdoSpl147623_3023			2.3.3.13	2-isopropylmalate synthase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3024	Odosp_2905	VBIOdoSpl147623_3024		Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)	1.1.1.86	Ketol-acid reductoisomerase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3024	Odosp_2905	VBIOdoSpl147623_3024		Ketol-acid reductoisomerase (NADP(+)) (EC 1.1.1.86)	1.1.1.86	Ketol-acid reductoisomerase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3025	Odosp_2906	VBIOdoSpl147623_3025			2.2.1.6	Acetolactate synthase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3025	Odosp_2906	VBIOdoSpl147623_3025			2.2.1.6	Acetolactate synthase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3025	Odosp_2906	VBIOdoSpl147623_3025			2.2.1.6	Acetolactate synthase	00660	C5-Branched dibasic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3025	Odosp_2906	VBIOdoSpl147623_3025			2.2.1.6	Acetolactate synthase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3026	Odosp_2907	VBIOdoSpl147623_3026			2.2.1.6	Acetolactate synthase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3026	Odosp_2907	VBIOdoSpl147623_3026			2.2.1.6	Acetolactate synthase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3026	Odosp_2907	VBIOdoSpl147623_3026			2.2.1.6	Acetolactate synthase	00660	C5-Branched dibasic acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3026	Odosp_2907	VBIOdoSpl147623_3026			2.2.1.6	Acetolactate synthase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3027	Odosp_2908	VBIOdoSpl147623_3027			4.2.1.9	Dihydroxy-acid dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3027	Odosp_2908	VBIOdoSpl147623_3027			4.2.1.9	Dihydroxy-acid dehydratase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3029	Odosp_2911	VBIOdoSpl147623_3029			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3048	Odosp_2928	VBIOdoSpl147623_3048			4.1.1.44	4-carboxymuconolactone decarboxylase	00362	Benzoate degradation via hydroxylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			1.1.1.3	Homoserine dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			1.1.1.3	Homoserine dehydrogenase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			1.1.1.3	Homoserine dehydrogenase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3059	Odosp_2940	VBIOdoSpl147623_3059			2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3061	Odosp_2941	VBIOdoSpl147623_3061			4.4.1.5	Lactoylglutathione lyase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3086	Odosp_2965	VBIOdoSpl147623_3086			1.1.1.103	L-threonine 3-dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3092	Odosp_2971	VBIOdoSpl147623_3092			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3092	Odosp_2971	VBIOdoSpl147623_3092			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3093	Odosp_2972	VBIOdoSpl147623_3093			2.1.2.2	Phosphoribosylglycinamide formyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3093	Odosp_2972	VBIOdoSpl147623_3093			2.1.2.2	Phosphoribosylglycinamide formyltransferase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3095	Odosp_2974	VBIOdoSpl147623_3095			2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3095	Odosp_2974	VBIOdoSpl147623_3095			2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00780	Biotin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3120	Odosp_2999	VBIOdoSpl147623_3120			2.3.1.39	[Acyl-carrier-protein] S-malonyltransferase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3123	Odosp_3002	VBIOdoSpl147623_3123			6.3.2.-	Acid--amino-acid ligases (peptide synthases)	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3123	Odosp_3002	VBIOdoSpl147623_3123			6.3.2.-	Acid--amino-acid ligases (peptide synthases)	00380	Tryptophan metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3123	Odosp_3002	VBIOdoSpl147623_3123			6.3.2.-	Acid--amino-acid ligases (peptide synthases)	01053	Biosynthesis of siderophore group nonribosomal peptides
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3126	Odosp_3005	VBIOdoSpl147623_3126			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3135	Odosp_3014	VBIOdoSpl147623_3135			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3135	Odosp_3014	VBIOdoSpl147623_3135			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3138	Odosp_3017	VBIOdoSpl147623_3138			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3138	Odosp_3017	VBIOdoSpl147623_3138			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3139		VBIOdoSpl147623_3139			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3139		VBIOdoSpl147623_3139			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3140	Odosp_3019	VBIOdoSpl147623_3140			4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3140	Odosp_3019	VBIOdoSpl147623_3140			4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3140	Odosp_3019	VBIOdoSpl147623_3140			4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3144	Odosp_3023	VBIOdoSpl147623_3144			1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3145	Odosp_3024	VBIOdoSpl147623_3145			5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3162	Odosp_3040	VBIOdoSpl147623_3162			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3162	Odosp_3040	VBIOdoSpl147623_3162			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3163	Odosp_3041	VBIOdoSpl147623_3163			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00521	Streptomycin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3163	Odosp_3041	VBIOdoSpl147623_3163			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00523	Polyketide sugar unit biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3174	Odosp_3051	VBIOdoSpl147623_3174			3.11.1.1	Phosphonoacetaldehyde hydrolase	00440	Phosphonate and phosphinate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3175		VBIOdoSpl147623_3175			2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase	00440	Phosphonate and phosphinate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3176		VBIOdoSpl147623_3176			2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase	00440	Phosphonate and phosphinate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3205	Odosp_3079	VBIOdoSpl147623_3205			2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3205	Odosp_3079	VBIOdoSpl147623_3205			2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3212	Odosp_3085	VBIOdoSpl147623_3212		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3212	Odosp_3085	VBIOdoSpl147623_3212		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3212	Odosp_3085	VBIOdoSpl147623_3212		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3212	Odosp_3085	VBIOdoSpl147623_3212		beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3216	Odosp_3087	VBIOdoSpl147623_3216			1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3217	Odosp_3088	VBIOdoSpl147623_3217			1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3231	Odosp_3101	VBIOdoSpl147623_3231			2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3231	Odosp_3101	VBIOdoSpl147623_3231			2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3231	Odosp_3101	VBIOdoSpl147623_3231			2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3232	Odosp_3102	VBIOdoSpl147623_3232			2.7.1.130	Tetraacyldisaccharide 4'-kinase	00540	Lipopolysaccharide biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3234	Odosp_3104	VBIOdoSpl147623_3234			2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3234	Odosp_3104	VBIOdoSpl147623_3234			2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3236	Odosp_3105	VBIOdoSpl147623_3236			2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3262	Odosp_3128	VBIOdoSpl147623_3262		N-acyl-L-amino acid amidohydrolase (EC 3.5.1.14)	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3264	Odosp_3130	VBIOdoSpl147623_3264			2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3264	Odosp_3130	VBIOdoSpl147623_3264			2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3266	Odosp_3132	VBIOdoSpl147623_3266			5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3266	Odosp_3132	VBIOdoSpl147623_3266			5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3267	Odosp_3133	VBIOdoSpl147623_3267			2.4.1.21	Starch synthase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3272	Odosp_3138	VBIOdoSpl147623_3272			4.1.1.23	Orotidine-5'-phosphate decarboxylase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3274	Odosp_3140	VBIOdoSpl147623_3274			2.7.1.35	Pyridoxal kinase	00750	Vitamin B6 metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3275	Odosp_3141	VBIOdoSpl147623_3275			6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3275	Odosp_3141	VBIOdoSpl147623_3275			6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3275	Odosp_3141	VBIOdoSpl147623_3275			6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3275	Odosp_3141	VBIOdoSpl147623_3275			6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3308	Odosp_3172	VBIOdoSpl147623_3308			1.4.1.11	L-erythro-3,5-diaminohexanoate dehydrogenase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3309	Odosp_3173	VBIOdoSpl147623_3309			5.4.3.2	Lysine 2,3-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3312	Odosp_3176	VBIOdoSpl147623_3312			5.4.3.3	Beta-lysine 5,6-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3312	Odosp_3176	VBIOdoSpl147623_3312			5.4.3.4	D-lysine 5,6-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3313	Odosp_3177	VBIOdoSpl147623_3313			5.4.3.3	Beta-lysine 5,6-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3313	Odosp_3177	VBIOdoSpl147623_3313			5.4.3.4	D-lysine 5,6-aminomutase	00310	Lysine degradation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3319	Odosp_3182	VBIOdoSpl147623_3319			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3319	Odosp_3182	VBIOdoSpl147623_3319			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3319	Odosp_3182	VBIOdoSpl147623_3319			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3320	Odosp_3183	VBIOdoSpl147623_3320			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3320	Odosp_3183	VBIOdoSpl147623_3320			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00362	Benzoate degradation via hydroxylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3320	Odosp_3183	VBIOdoSpl147623_3320			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3336	Odosp_3199	VBIOdoSpl147623_3336		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3337	Odosp_3200	VBIOdoSpl147623_3337		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3338	Odosp_3201	VBIOdoSpl147623_3338		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3339	Odosp_3202	VBIOdoSpl147623_3339		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3340	Odosp_3203	VBIOdoSpl147623_3340			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3352	Odosp_3215	VBIOdoSpl147623_3352			6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3357	Odosp_3219	VBIOdoSpl147623_3357		Xylan 1,4-beta-xylosidase (EC 3.2.1.37)	3.2.1.37	Xylan 1,4-beta-xylosidase	00500	Starch and sucrose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3357	Odosp_3219	VBIOdoSpl147623_3357		Xylan 1,4-beta-xylosidase (EC 3.2.1.37)	3.2.1.37	Xylan 1,4-beta-xylosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3360	Odosp_3222	VBIOdoSpl147623_3360			3.6.1.27	Undecaprenyl-diphosphate phosphatase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3364	Odosp_3226	VBIOdoSpl147623_3364			2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3366	Odosp_3228	VBIOdoSpl147623_3366			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3366	Odosp_3228	VBIOdoSpl147623_3366			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3367	Odosp_3229	VBIOdoSpl147623_3367			4.1.1.36	Phosphopantothenoylcysteine decarboxylase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3367	Odosp_3229	VBIOdoSpl147623_3367			6.3.2.5	Phosphopantothenate--cysteine ligase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3368	Odosp_3230	VBIOdoSpl147623_3368			2.1.3.2	Aspartate carbamoyltransferase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3368	Odosp_3230	VBIOdoSpl147623_3368			2.1.3.2	Aspartate carbamoyltransferase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3370	Odosp_3232	VBIOdoSpl147623_3370			5.3.1.8	Mannose-6-phosphate isomerase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3370	Odosp_3232	VBIOdoSpl147623_3370			5.3.1.8	Mannose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3373	Odosp_3235	VBIOdoSpl147623_3373			1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3373	Odosp_3235	VBIOdoSpl147623_3373			1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3374	Odosp_3236	VBIOdoSpl147623_3374			1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3374	Odosp_3236	VBIOdoSpl147623_3374			1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3387	Odosp_3249	VBIOdoSpl147623_3387			2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3387	Odosp_3249	VBIOdoSpl147623_3387			2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3387	Odosp_3249	VBIOdoSpl147623_3387			2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3387	Odosp_3249	VBIOdoSpl147623_3387			2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3387	Odosp_3249	VBIOdoSpl147623_3387			2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3403	Odosp_3265	VBIOdoSpl147623_3403			3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3407	Odosp_3268	VBIOdoSpl147623_3407			2.7.4.16	Thiamine-phosphate kinase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3411	Odosp_3272	VBIOdoSpl147623_3411		Cysteine desulfurase (EC 2.8.1.7) => SufS	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3416	Odosp_3277	VBIOdoSpl147623_3416		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3419	Odosp_3280	VBIOdoSpl147623_3419		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00020	Citrate cycle (TCA cycle)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3423	Odosp_3284	VBIOdoSpl147623_3423			1.1.1.37	Malate dehydrogenase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3424	Odosp_3285	VBIOdoSpl147623_3424			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3428	Odosp_3288	VBIOdoSpl147623_3428			6.3.2.4	D-alanine--D-alanine ligase	00473	D-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3428	Odosp_3288	VBIOdoSpl147623_3428			6.3.2.4	D-alanine--D-alanine ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3433	Odosp_3293	VBIOdoSpl147623_3433			6.1.1.10	Methionine--tRNA ligase	00450	Selenoamino acid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3433	Odosp_3293	VBIOdoSpl147623_3433			6.1.1.10	Methionine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3438	Odosp_3296	VBIOdoSpl147623_3438			3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3438	Odosp_3296	VBIOdoSpl147623_3438			3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3438	Odosp_3296	VBIOdoSpl147623_3438			3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3438	Odosp_3296	VBIOdoSpl147623_3438			3.1.4.16	2',3'-cyclic-nucleotide 2'-phosphodiesterase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3438	Odosp_3296	VBIOdoSpl147623_3438			3.1.4.16	2',3'-cyclic-nucleotide 2'-phosphodiesterase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3447	Odosp_3305	VBIOdoSpl147623_3447			5.1.1.1	Alanine racemase	00473	D-Alanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3447	Odosp_3305	VBIOdoSpl147623_3447			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3447	Odosp_3305	VBIOdoSpl147623_3447			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3461	Odosp_3320	VBIOdoSpl147623_3461			1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3461	Odosp_3320	VBIOdoSpl147623_3461			1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3462	Odosp_3321	VBIOdoSpl147623_3462			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3463	Odosp_3322	VBIOdoSpl147623_3463			2.7.1.30	Glycerol kinase	00561	Glycerolipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3467	Odosp_3326	VBIOdoSpl147623_3467			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3468	Odosp_3327	VBIOdoSpl147623_3468			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3469	Odosp_3328	VBIOdoSpl147623_3469			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3475	Odosp_3335	VBIOdoSpl147623_3475			3.1.4.46	Glycerophosphodiester phosphodiesterase	00564	Glycerophospholipid metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3479	Odosp_3340	VBIOdoSpl147623_3479			2.7.1.33	Pantothenate kinase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3485	Odosp_3345	VBIOdoSpl147623_3485			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00051	Fructose and mannose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3485	Odosp_3345	VBIOdoSpl147623_3485			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3526	Odosp_3380	VBIOdoSpl147623_3526			3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3526	Odosp_3380	VBIOdoSpl147623_3526			3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3526	Odosp_3380	VBIOdoSpl147623_3526			3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3540	Odosp_3390	VBIOdoSpl147623_3540		alpha-L-arabinofuranosidase (EC 3.2.1.55)	3.2.1.55	Non-reducing end alpha-L-arabinofuranosidase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3545	Odosp_3394	VBIOdoSpl147623_3545		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3545	Odosp_3394	VBIOdoSpl147623_3545		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3545	Odosp_3394	VBIOdoSpl147623_3545		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3545	Odosp_3394	VBIOdoSpl147623_3545		Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9) / Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3569	Odosp_3415	VBIOdoSpl147623_3569			1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3569	Odosp_3415	VBIOdoSpl147623_3569			1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00720	Reductive carboxylate cycle (CO2 fixation)
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3570	Odosp_3416	VBIOdoSpl147623_3570			2.1.1.13	Methionine synthase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3570	Odosp_3416	VBIOdoSpl147623_3570			2.1.1.13	Methionine synthase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3596	Odosp_3441	VBIOdoSpl147623_3596			3.4.11.2	Membrane alanyl aminopeptidase	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3614	Odosp_3460	VBIOdoSpl147623_3614			2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3624	Odosp_3470	VBIOdoSpl147623_3624			1.1.1.193	5-amino-6-(5-phosphoribosylamino)uracil reductase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3624	Odosp_3470	VBIOdoSpl147623_3624			3.5.4.26	Diaminohydroxyphosphoribosylaminopyrimidine deaminase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3625	Odosp_3471	VBIOdoSpl147623_3625			2.5.1.9	Riboflavin synthase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3626	Odosp_3472	VBIOdoSpl147623_3626			3.5.4.25	GTP cyclohydrolase II	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3626	Odosp_3472	VBIOdoSpl147623_3626			4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3627	Odosp_3473	VBIOdoSpl147623_3627			2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase	00740	Riboflavin metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3628	Odosp_3474	VBIOdoSpl147623_3628			1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3630	Odosp_3476	VBIOdoSpl147623_3630			6.3.4.2	CTP synthase (glutamine hydrolyzing)	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3646	Odosp_3491	VBIOdoSpl147623_3646			4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3664	Odosp_3508	VBIOdoSpl147623_3664			2.3.1.39	[Acyl-carrier-protein] S-malonyltransferase	00061	Fatty acid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3665	Odosp_3509	VBIOdoSpl147623_3665			3.5.4.16	GTP cyclohydrolase I	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3677	Odosp_3520	VBIOdoSpl147623_3677			4.1.1.20	Diaminopimelate decarboxylase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3678	Odosp_3521	VBIOdoSpl147623_3678			2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3678	Odosp_3521	VBIOdoSpl147623_3678			2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3678	Odosp_3521	VBIOdoSpl147623_3678			2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3696	Odosp_3539	VBIOdoSpl147623_3696			2.1.1.45	Thymidylate synthase	00240	Pyrimidine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3696	Odosp_3539	VBIOdoSpl147623_3696			2.1.1.45	Thymidylate synthase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3699	Odosp_3542	VBIOdoSpl147623_3699			1.5.1.3	Dihydrofolate reductase	00670	One carbon pool by folate
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3699	Odosp_3542	VBIOdoSpl147623_3699			1.5.1.3	Dihydrofolate reductase	00790	Folate biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00270	Cysteine and methionine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00300	Lysine biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00350	Tyrosine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00360	Phenylalanine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00401	Novobiocin biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00950	Isoquinoline alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3706	Odosp_3549	VBIOdoSpl147623_3706			2.6.1.57	Aromatic-amino-acid transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3710	Odosp_3553	VBIOdoSpl147623_3710			2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	00900	Terpenoid backbone biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3711	Odosp_3554	VBIOdoSpl147623_3711			5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3711	Odosp_3554	VBIOdoSpl147623_3711			5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3712	Odosp_3555	VBIOdoSpl147623_3712		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3717	Odosp_3560	VBIOdoSpl147623_3717			2.7.1.24	Dephospho-CoA kinase	00770	Pantothenate and CoA biosynthesis
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3722	Odosp_3564	VBIOdoSpl147623_3722			3.2.2.4	AMP nucleosidase	00230	Purine metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3803	Odosp_3641	VBIOdoSpl147623_3803			2.7.9.1	Pyruvate, phosphate dikinase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3803	Odosp_3641	VBIOdoSpl147623_3803			2.7.9.1	Pyruvate, phosphate dikinase	00710	Carbon fixation in photosynthetic organisms
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3810	Odosp_3648	VBIOdoSpl147623_3810			2.3.1.54	Formate C-acetyltransferase	00620	Pyruvate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3810	Odosp_3648	VBIOdoSpl147623_3810			2.3.1.54	Formate C-acetyltransferase	00640	Propanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3810	Odosp_3648	VBIOdoSpl147623_3810			2.3.1.54	Formate C-acetyltransferase	00650	Butanoate metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3823	Odosp_3663	VBIOdoSpl147623_3823			3.2.1.20	Alpha-glucosidase	00052	Galactose metabolism
+709991.3	Odoribacter splanchnicus DSM 220712	fig|709991.3.peg.3823	Odosp_3663	VBIOdoSpl147623_3823			3.2.1.20	Alpha-glucosidase	00500	Starch and sucrose metabolism

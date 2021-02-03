@@ -1,0 +1,729 @@
+genome_id	genome_name	patric_id	refseq_locus_tag	alt_locus_tag	gene	product	ec_number	ec_description	pathway_id	pathway_name
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2	LG35_00010			Phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	Phosphoglycerate kinase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2	LG35_00010			Phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	Phosphoglycerate kinase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.4	LG35_00015			2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.6	LG35_00025			6-carboxytetrahydropterin synthase (EC 4.1.2.50) @ Queuosine biosynthesis QueD, PTPS-I	4.1.2.50	6-carboxytetrahydropterin synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.7	LG35_00030			DNA polymerase I (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.7	LG35_00030			DNA polymerase I (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.17	LG35_00075			Uroporphyrinogen-III synthase (EC 4.2.1.75)	4.2.1.75	Uroporphyrinogen-III synthase	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.28	LG35_00130			Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	6.3.2.12	Dihydrofolate synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.28	LG35_00130			Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	6.3.2.17	Tetrahydrofolate synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.31	LG35_00145			2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.36	LG35_00175			Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.40	LG35_00195			Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.40	LG35_00195			Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.51	LG35_00265			L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.51	LG35_00265			L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.51	LG35_00265			L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.66				NADP-dependent malic enzyme (EC 1.1.1.40)	1.1.1.40	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.66				NADP-dependent malic enzyme (EC 1.1.1.40)	1.1.1.40	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.67	LG35_00335			Choloylglycine hydrolase (EC 3.5.1.24)	3.5.1.24	Choloylglycine hydrolase	00120	Primary bile acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.67	LG35_00335			Choloylglycine hydrolase (EC 3.5.1.24)	3.5.1.24	Choloylglycine hydrolase	00121	Secondary bile acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.69	LG35_00340			Cytochrome d ubiquinol oxidase subunit II (EC 1.10.3.-)	1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.70	LG35_00345			Cytochrome d ubiquinol oxidase subunit I (EC 1.10.3.-)	1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.99	LG35_00500			Demethylmenaquinone methyltransferase (EC 2.1.1.163)	2.1.1.163	Demethylmenaquinone methyltransferase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.111	LG35_00565			UDP-2,3-diacylglucosamine diphosphatase (EC 3.6.1.54)	3.6.1.54	UDP-2,3-diacylglucosamine diphosphatase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.128	LG35_00660			dCMP deaminase (EC 3.5.4.12)	3.5.4.12	dCMP deaminase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.144	LG35_00740			2-amino-3-ketobutyrate coenzyme A ligase (EC 2.3.1.29)	2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.147	LG35_00750			DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.147	LG35_00750			DNA-directed RNA polymerase omega subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.148				Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	4.1.1.36	Phosphopantothenoylcysteine decarboxylase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.148				Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	6.3.2.5	Phosphopantothenate--cysteine ligase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.149	LG35_00755			Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	4.1.1.36	Phosphopantothenoylcysteine decarboxylase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.149	LG35_00755			Phosphopantothenoylcysteine decarboxylase (EC 4.1.1.36) / Phosphopantothenoylcysteine synthetase (EC 6.3.2.5)	6.3.2.5	Phosphopantothenate--cysteine ligase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.153	LG35_00775			"Dihydroflavonol-4-reductase "	1.1.1.219	Dihydrokaempferol 4-reductase	00941	Flavonoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.154	LG35_00780			2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.175	LG35_00875			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.175	LG35_00875			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.175	LG35_00875			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.175	LG35_00875			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.175	LG35_00875			6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.184	LG35_00930			UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.184	LG35_00930			UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.185	LG35_00935			Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.190	LG35_00960			Glutaminyl-tRNA synthetase (EC 6.1.1.18)	6.1.1.18	Glutamine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00512	O-Glycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00513	High-mannose type N-glycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00561	Glycerolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00600	Sphingolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00603	Glycosphingolipid biosynthesis - globo series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00604	Glycosphingolipid biosynthesis - ganglio series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00906	Carotenoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00908	Zeatin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00941	Flavonoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00942	Anthocyanin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00944	Flavone and flavonol biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	00965	Betalain biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	01051	Biosynthesis of ansamycins
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.194	LG35_00975			"Glycosyltransferase "	2.4.1.-	Hexosyltransferases.	01057	Biosynthesis of type II polyketide products
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.197	LG35_00990			Tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	Tyrosine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.199	LG35_01000			Mannose-6-phosphate isomerase (EC 5.3.1.8)	5.3.1.8	Mannose-6-phosphate isomerase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.199	LG35_01000			Mannose-6-phosphate isomerase (EC 5.3.1.8)	5.3.1.8	Mannose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.202				Adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7	Adenine phosphoribosyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.213				Octanoate-[acyl-carrier-protein]-protein-N-octanoyltransferase (EC 2.3.1.181)	2.3.1.181	Lipoyl(octanoyl) transferase	00785	Lipoic acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.214	LG35_01085			Lipoyl synthase (EC 2.8.1.8)	2.8.1.8	Lipoyl synthase	00785	Lipoic acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.224	LG35_01125			Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.224	LG35_01125			Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.224	LG35_01125			Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.224	LG35_01125			Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.226	LG35_01130			Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.226	LG35_01130			Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.226	LG35_01130			Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.232	LG35_01160			Periplasmic [Fe] hydrogenase large subunit (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.252	LG35_01240			Pantoate--beta-alanine ligase (EC 6.3.2.1)	6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.252	LG35_01240			Pantoate--beta-alanine ligase (EC 6.3.2.1)	6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.253	LG35_01245			Aspartate 1-decarboxylase (EC 4.1.1.11)	4.1.1.11	Aspartate 1-decarboxylase	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.253	LG35_01245			Aspartate 1-decarboxylase (EC 4.1.1.11)	4.1.1.11	Aspartate 1-decarboxylase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.255	LG35_01250			Tetraacyldisaccharide 4'-kinase (EC 2.7.1.130)	2.7.1.130	Tetraacyldisaccharide 4'-kinase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.256	LG35_01255			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.256	LG35_01255			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.256	LG35_01255			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.258	LG35_01265			Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	1.1.1.94	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.260	LG35_01270			GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.260	LG35_01270			GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.262	LG35_01275			Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	1.1.1.205	IMP dehydrogenase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.262	LG35_01275			Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	1.1.1.205	IMP dehydrogenase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.274	LG35_01320			Thioredoxin reductase (EC 1.8.1.9)	1.8.1.9	Thioredoxin-disulfide reductase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.274	LG35_01320			Thioredoxin reductase (EC 1.8.1.9)	1.8.1.9	Thioredoxin-disulfide reductase	00450	Selenoamino acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.279	LG35_01345			"2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N- acetyltransferase "	2.3.1.89	Tetrahydrodipicolinate N-acetyltransferase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.285	LG35_01385			Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00521	Streptomycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.285	LG35_01385			Glucose-1-phosphate thymidylyltransferase (EC 2.7.7.24)	2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00523	Polyketide sugar unit biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.286	LG35_01390			dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00521	Streptomycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.286	LG35_01390			dTDP-4-dehydrorhamnose 3,5-epimerase (EC 5.1.3.13)	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00523	Polyketide sugar unit biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.287	LG35_01395			dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	1.1.1.133	dTDP-4-dehydrorhamnose reductase	00521	Streptomycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.287	LG35_01395			dTDP-4-dehydrorhamnose reductase (EC 1.1.1.133)	1.1.1.133	dTDP-4-dehydrorhamnose reductase	00523	Polyketide sugar unit biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.288	LG35_01400			dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.288	LG35_01400			dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.288	LG35_01400			dTDP-glucose 4,6-dehydratase (EC 4.2.1.46)	4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.289	LG35_01405			Malate dehydrogenase (EC 1.1.1.37)	1.1.1.37	Malate dehydrogenase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.297	LG35_01450			2-Keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase (EC 2.5.1.55)	2.5.1.55	3-deoxy-8-phosphooctulonate synthase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.304	LG35_01485			UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00471	D-Glutamine and D-glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.304	LG35_01485			UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.305	LG35_01490			UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	2.4.1.227	Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.307	LG35_01500			UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00471	D-Glutamine and D-glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.307	LG35_01500			UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.308	LG35_01505			Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.309				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.309				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.310				Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.318	LG35_01560			"Anthranilate synthase, amidotransferase component @ Para-aminobenzoate synthase, amidotransferase component "	2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.318	LG35_01560			"Anthranilate synthase, amidotransferase component @ Para-aminobenzoate synthase, amidotransferase component "	4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.319	LG35_01565			Para-aminobenzoate synthase, aminase component (EC 2.6.1.85)	2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.324	LG35_01590			Aspartyl-tRNA synthetase (EC 6.1.1.12)	6.1.1.12	Aspartate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.348	LG35_01720			Methylmalonyl-CoA epimerase (EC 5.1.99.1)	5.1.99.1	Methylmalonyl-CoA epimerase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.348	LG35_01720			Methylmalonyl-CoA epimerase (EC 5.1.99.1)	5.1.99.1	Methylmalonyl-CoA epimerase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.348	LG35_01720			Methylmalonyl-CoA epimerase (EC 5.1.99.1)	5.1.99.1	Methylmalonyl-CoA epimerase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.348	LG35_01720			Methylmalonyl-CoA epimerase (EC 5.1.99.1)	5.1.99.1	Methylmalonyl-CoA epimerase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.349	LG35_01725			Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.352	LG35_01740			Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.354	LG35_01750			Arginase (EC 3.5.3.1)	3.5.3.1	Arginase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.366	LG35_01820			Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.366	LG35_01820			Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00450	Selenoamino acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.366	LG35_01820			Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00920	Sulfur metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.376	LG35_01855			DNA polymerase III delta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.376	LG35_01855			DNA polymerase III delta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.379	LG35_01875			Ribosylnicotinamide kinase (EC 2.7.1.22) homolog / Unknown conserved in Flavobacteria	2.7.1.22	Ribosylnicotinamide kinase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.381				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.381				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.381				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.382	LG35_01890			V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.382	LG35_01890			V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.382	LG35_01890			V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.383	LG35_01895			V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.383	LG35_01895			V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.383	LG35_01895			V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.386	LG35_01910			V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.386	LG35_01910			V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.386	LG35_01910			V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.387	LG35_01915			V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.387	LG35_01915			V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.387	LG35_01915			V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.388	LG35_01920			V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.388	LG35_01920			V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.388	LG35_01920			V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.395	LG35_01955			Glutamate decarboxylase (EC 4.1.1.15)	4.1.1.15	Glutamate decarboxylase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.395	LG35_01955			Glutamate decarboxylase (EC 4.1.1.15)	4.1.1.15	Glutamate decarboxylase	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.395	LG35_01955			Glutamate decarboxylase (EC 4.1.1.15)	4.1.1.15	Glutamate decarboxylase	00430	Taurine and hypotaurine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.395	LG35_01955			Glutamate decarboxylase (EC 4.1.1.15)	4.1.1.15	Glutamate decarboxylase	00650	Butanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.399	LG35_01975			NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.399	LG35_01975			NADH ubiquinone oxidoreductase chain A (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.400	LG35_01980			NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.400	LG35_01980			NADH-ubiquinone oxidoreductase chain B (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.401	LG35_01985			NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.401	LG35_01985			NADH-ubiquinone oxidoreductase chain C (EC 1.6.5.3) / NADH-ubiquinone oxidoreductase chain D (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.402	LG35_01990			NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.402	LG35_01990			NADH-ubiquinone oxidoreductase chain H (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.403				"NADH-ubiquinone oxidoreductase chain I "	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.403				"NADH-ubiquinone oxidoreductase chain I "	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.404	LG35_02000			"NADH-ubiquinone oxidoreductase chain J "	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.404	LG35_02000			"NADH-ubiquinone oxidoreductase chain J "	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.405	LG35_02005			NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.405	LG35_02005			NADH-ubiquinone oxidoreductase chain K (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.406				NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.406				NADH-ubiquinone oxidoreductase chain L (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.408	LG35_02015			NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.408	LG35_02015			NADH-ubiquinone oxidoreductase chain M (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.409	LG35_02020			NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.409	LG35_02020			NADH-ubiquinone oxidoreductase chain N (EC 1.6.5.3)	1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.413	LG35_02040			Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)	4.3.2.2	Adenylosuccinate lyase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.413	LG35_02040			Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)	4.3.2.2	Adenylosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.414	LG35_02045			Adenylosuccinate synthetase (EC 6.3.4.4)	6.3.4.4	Adenylosuccinate synthase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.414	LG35_02045			Adenylosuccinate synthetase (EC 6.3.4.4)	6.3.4.4	Adenylosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.417	LG35_02060			Imidazolonepropionase (EC 3.5.2.7)	3.5.2.7	Imidazolonepropionase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.418	LG35_02065			Histidine ammonia-lyase (EC 4.3.1.3)	4.3.1.3	Histidine ammonia-lyase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.419	LG35_02070			Urocanate hydratase (EC 4.2.1.49)	4.2.1.49	Urocanate hydratase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.420	LG35_02075			Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase / Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	2.1.2.5	Glutamate formimidoyltransferase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.420	LG35_02075			Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase / Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	2.1.2.5	Glutamate formimidoyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.420	LG35_02075			Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase / Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	4.3.1.4	Formimidoyltetrahydrofolate cyclodeaminase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.423	LG35_02085			Glycerate kinase (EC 2.7.1.31)	2.7.1.31	Glycerate 3-kinase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.423	LG35_02085			Glycerate kinase (EC 2.7.1.31)	2.7.1.31	Glycerate 3-kinase	00561	Glycerolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.423	LG35_02085			Glycerate kinase (EC 2.7.1.31)	2.7.1.31	Glycerate 3-kinase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.439	LG35_02160			Lysophospholipase (EC 3.1.1.5)	3.1.1.5	Lysophospholipase	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.443	LG35_02185			"2,5-diamino-6-ribitylamino-pyrimidinone 5- phosphate deaminase, fungal "	3.5.4.-	In cyclic amidines.	00791	Atrazine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.447	LG35_02200			NAD(P)H dehydrogenase (quinone) (EC 1.6.5.2)	1.6.5.2	NAD(P)H dehydrogenase (quinone)	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.454	LG35_02225			Glutamine synthetase type I (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.454	LG35_02225			Glutamine synthetase type I (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.454	LG35_02225			Glutamine synthetase type I (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.454	LG35_02225			Glutamine synthetase type I (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.462	LG35_02270			UDP-3-O-[3-hydroxymyristoyl] glucosamine N-acyltransferase (EC 2.3.1.191)	2.3.1.191	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.463	LG35_02275			Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	2.7.7.3	Pantetheine-phosphate adenylyltransferase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.464	LG35_02280			Glycyl-tRNA synthetase (EC 6.1.1.14)	6.1.1.14	Glycine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.469	LG35_02300			Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.476	LG35_02330			L-aspartate oxidase (EC 1.4.3.16)	1.4.3.16	L-aspartate oxidase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.476	LG35_02330			L-aspartate oxidase (EC 1.4.3.16)	1.4.3.16	L-aspartate oxidase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.478	LG35_02340			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.478	LG35_02340			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.478	LG35_02340			Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.479	LG35_02345			Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.10	Phosphoglucosamine mutase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.479	LG35_02345			Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.8	Phosphomannomutase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.479	LG35_02345			Phosphomannomutase (EC 5.4.2.8) / Phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.8	Phosphomannomutase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.485	LG35_02370			DNA polymerase III beta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.485	LG35_02370			DNA polymerase III beta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.489				FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.1.26	Riboflavin kinase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.489				FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.7.2	FAD synthetase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.493	LG35_02410			3-methyl-2-oxobutanoate hydroxymethyltransferase (EC 2.1.2.11)	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.497	LG35_02430			Pyrophosphate-energized proton pump (EC 3.6.1.1)	3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.506	LG35_02470			Biosynthetic arginine decarboxylase (EC 4.1.1.19)	4.1.1.19	Arginine decarboxylase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.508	LG35_02475			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.508	LG35_02475			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.508	LG35_02475			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.509	LG35_02480			Diaminopimelate decarboxylase (EC 4.1.1.20)	4.1.1.20	Diaminopimelate decarboxylase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.519	LG35_02530			L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.519	LG35_02530			L-serine dehydratase, beta subunit (EC 4.3.1.17) / L-serine dehydratase, alpha subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.521	LG35_02550			3-oxoacyl-[acyl-carrier-protein] synthase, KASIII (EC 2.3.1.180)	2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.525	LG35_02565			Chorismate synthase (EC 4.2.3.5)	4.2.3.5	Chorismate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.526	LG35_02570			3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.530	LG35_02585			Tryptophanase (EC 4.1.99.1)	4.1.99.1	Tryptophanase	00380	Tryptophan metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.546	LG35_02655			ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)	3.5.1.42	Nicotinamide-nucleotide amidase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.546	LG35_02655			ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)	3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.550				Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.550				Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.550				Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.550				Beta-galactosidase (EC 3.2.1.23)	3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.551	LG35_02680			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.552	LG35_02685			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.566	LG35_02750			S-adenosylmethionine synthetase (EC 2.5.1.6)	2.5.1.6	Methionine adenosyltransferase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.569	LG35_02765			Diaminopimelate epimerase (EC 5.1.1.7)	5.1.1.7	Diaminopimelate epimerase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.581	LG35_02825			Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.581	LG35_02825			Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.593	LG35_02885			Choloylglycine hydrolase (EC 3.5.1.24)	3.5.1.24	Choloylglycine hydrolase	00120	Primary bile acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.593	LG35_02885			Choloylglycine hydrolase (EC 3.5.1.24)	3.5.1.24	Choloylglycine hydrolase	00121	Secondary bile acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.606	LG35_02940			1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	1.1.1.267	1-deoxy-D-xylulose-5-phosphate reductoisomerase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.612	LG35_02970			FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.1.26	Riboflavin kinase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.612	LG35_02970			FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.7.2	FAD synthetase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.613	LG35_02975			Adenosylhomocysteinase (EC 3.3.1.1)	3.3.1.1	Adenosylhomocysteinase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.622	LG35_03010			NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.635	LG35_03075			UDP-glucuronate decarboxylase (EC 4.1.1.35)	4.1.1.35	UDP-glucuronate decarboxylase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.635	LG35_03075			UDP-glucuronate decarboxylase (EC 4.1.1.35)	4.1.1.35	UDP-glucuronate decarboxylase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.645	LG35_03120			Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.646	LG35_03125			Thymidylate kinase (EC 2.7.4.9)	2.7.4.9	dTMP kinase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.650	LG35_03145			NAD synthetase (EC 6.3.1.5)	6.3.1.5	NAD(+) synthase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.663	LG35_03215			Glutamate racemase (EC 5.1.1.3)	5.1.1.3	Glutamate racemase	00471	D-Glutamine and D-glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.666	LG35_03220			Shikimate kinase I (EC 2.7.1.71)	2.7.1.71	Shikimate kinase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.670	LG35_03240			Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	2.3.1.51	1-acylglycerol-3-phosphate O-acyltransferase	00561	Glycerolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.670	LG35_03240			Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	2.3.1.51	1-acylglycerol-3-phosphate O-acyltransferase	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.671	LG35_03245			Malonyl CoA-acyl carrier protein transacylase (EC 2.3.1.39)	2.3.1.39	[Acyl-carrier-protein] S-malonyltransferase	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.676	LG35_03270			Dephospho-CoA kinase (EC 2.7.1.24)	2.7.1.24	Dephospho-CoA kinase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.677	LG35_03275			Dihydropteroate synthase (EC 2.5.1.15)	2.5.1.15	Dihydropteroate synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.685	LG35_03310			UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)	5.1.1.1	Alanine racemase	00473	D-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.685	LG35_03310			UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.685	LG35_03310			UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10) / Alanine racemase (EC 5.1.1.1)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.690	LG35_03335			Similar to glycogen synthase (EC 2.4.1.21)	2.4.1.21	Starch synthase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.691	LG35_03340			S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00040	Pentose and glucuronate interconversions
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.691	LG35_03340			S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00100	Steroid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.693	LG35_03355			Undecaprenyl-diphosphatase (EC 3.6.1.27)	3.6.1.27	Undecaprenyl-diphosphate phosphatase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.698	LG35_03375			Octaprenyl diphosphate synthase (EC 2.5.1.90)	2.5.1.90	All-trans-octaprenyl-diphosphate synthase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.701	LG35_03390			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.701	LG35_03390			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.701	LG35_03390			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.702	LG35_03395			2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.707	LG35_03415			Quinolinate phosphoribosyltransferase [decarboxylating] (EC 2.4.2.19)	2.4.2.19	Nicotinate-nucleotide diphosphorylase (carboxylating)	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.720	LG35_03465			Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.720	LG35_03465			Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00040	Pentose and glucuronate interconversions
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.720	LG35_03465			Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.725				"Arginine deiminase "	3.5.3.6	Arginine deiminase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.727	LG35_03495			Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.729				3-dehydroquinate synthase (EC 4.2.3.4)	4.2.3.4	3-dehydroquinate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.736	LG35_03525			Seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	Serine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.738	LG35_03540			5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.738	LG35_03540			5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.740				4-hydroxythreonine-4-phosphate dehydrogenase (EC 1.1.1.262)	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase	00750	Vitamin B6 metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.742	LG35_03555			Threonyl-tRNA synthetase (EC 6.1.1.3)	6.1.1.3	Threonine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.762	LG35_03645			Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type	6.1.1.15	Proline--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.764				Alpha-amylase (EC 3.2.1.1)	3.2.1.1	Alpha-amylase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.768	LG35_03670			Glycogen phosphorylase (EC 2.4.1.1)	2.4.1.1	Glycogen phosphorylase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.781	LG35_03730			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.781	LG35_03730			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.781	LG35_03730			Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.794	LG35_03795			Carbonic anhydrase, gamma class (EC 4.2.1.1)	4.2.1.1	Carbonate dehydratase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.796	LG35_03805			Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.796	LG35_03805			Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.797				Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.797				Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.801	LG35_03825			Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.821				Lipid-A-disaccharide synthase (EC 2.4.1.182)	2.4.1.182	Lipid-A-disaccharide synthase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.829	LG35_03950			"UDP-glucose 4-epimerase "	5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.829	LG35_03950			"UDP-glucose 4-epimerase "	5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.835	LG35_03975			4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	4.1.1.44	4-carboxymuconolactone decarboxylase	00362	Benzoate degradation via hydroxylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.841	LG35_04010			Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	Cytidine deaminase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.841	LG35_04010			Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	Cytidine deaminase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.850				Alkaline phosphatase (EC 3.1.3.1)	3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.850				Alkaline phosphatase (EC 3.1.3.1)	3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.858	LG35_04095			UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.858	LG35_04095			UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.858	LG35_04095			UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.859	LG35_04100			Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase (EC 2.3.1.129)	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.876	LG35_04185			UDP-glucose 6-dehydrogenase (EC 1.1.1.22)	1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.876	LG35_04185			UDP-glucose 6-dehydrogenase (EC 1.1.1.22)	1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.876	LG35_04185			UDP-glucose 6-dehydrogenase (EC 1.1.1.22)	1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.876	LG35_04185			UDP-glucose 6-dehydrogenase (EC 1.1.1.22)	1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.879	LG35_04205			Alanine transaminase (EC 2.6.1.2)	2.6.1.2	Alanine transaminase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.879	LG35_04205			Alanine transaminase (EC 2.6.1.2)	2.6.1.2	Alanine transaminase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.881	LG35_04215			Ornithine aminotransferase (EC 2.6.1.13)	2.6.1.13	Ornithine aminotransferase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.888	LG35_04250			Phosphate butyryltransferase (EC 2.3.1.19)	2.3.1.19	Phosphate butyryltransferase	00650	Butanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.889	LG35_04255			Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00430	Taurine and hypotaurine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.889	LG35_04255			Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.889	LG35_04255			Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.889	LG35_04255			Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.889	LG35_04255			Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.893	LG35_04270			CTP synthase (EC 6.3.4.2)	6.3.4.2	CTP synthase (glutamine hydrolyzing)	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.905	LG35_04320			4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	2.7.1.148	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.907	LG35_04330			Tyrosine-protein kinase Wzc (EC 2.7.10.2)	2.7.10.2	Non-specific protein-tyrosine kinase	04660	T cell receptor signaling pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.911	LG35_04350			Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.911	LG35_04350			Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.911	LG35_04350			Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.911	LG35_04350			Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.912	LG35_04355			Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	6.3.4.13	Phosphoribosylamine--glycine ligase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.913	LG35_04360			IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.913	LG35_04360			IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.913	LG35_04360			IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	3.5.4.10	IMP cyclohydrolase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.914	LG35_04365			Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	2.1.2.2	Phosphoribosylglycinamide formyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.914	LG35_04365			Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	2.1.2.2	Phosphoribosylglycinamide formyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.915	LG35_04370			Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.916	LG35_04375			Amidophosphoribosyltransferase (EC 2.4.2.14)	2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.916	LG35_04375			Amidophosphoribosyltransferase (EC 2.4.2.14)	2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.917	LG35_04380			Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	6.3.2.6	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.918	LG35_04385			Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)	6.3.5.3	Phosphoribosylformylglycinamidine synthase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.919	LG35_04390			N5-carboxyaminoimidazole ribonucleotide synthase (EC 6.3.4.18)	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.920	LG35_04395			N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.923	LG35_04405			Aspartate carbamoyltransferase (EC 2.1.3.2)	2.1.3.2	Aspartate carbamoyltransferase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.923	LG35_04405			Aspartate carbamoyltransferase (EC 2.1.3.2)	2.1.3.2	Aspartate carbamoyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.924	LG35_04410			Orotate phosphoribosyltransferase (EC 2.4.2.10)	2.4.2.10	Orotate phosphoribosyltransferase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.924	LG35_04410			Orotate phosphoribosyltransferase (EC 2.4.2.10)	2.4.2.10	Orotate phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.925	LG35_04415			Orotidine 5'-phosphate decarboxylase (EC 4.1.1.23)	4.1.1.23	Orotidine-5'-phosphate decarboxylase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.926	LG35_04420			Dihydroorotate dehydrogenase (NAD(+)), catalytic subunit (EC 1.3.1.14)	1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.927	LG35_04425			Dihydroorotate dehydrogenase (NAD(+)), electron transfer subunit (EC 1.3.1.14)	1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.928	LG35_04430			Dihydroorotase (EC 3.5.2.3)	3.5.2.3	Dihydroorotase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.942				Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.942				Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.975				Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.975				Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.975				Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.980	LG35_04680			DNA polymerase IV (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.980	LG35_04680			DNA polymerase IV (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.998	LG35_04760			Carboxynorspermidine synthase (EC 1.5.1.43)	1.5.1.43	Carboxynorspermidine synthase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1000	LG35_04770			"Thiamin pyrophosphokinase "	2.7.6.2	Thiamine diphosphokinase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1001	LG35_04775			Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	2.7.4.7	Phosphomethylpyrimidine kinase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1005	LG35_04795			Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	2.5.1.3	Thiamine-phosphate diphosphorylase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1010	LG35_04810			S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00040	Pentose and glucuronate interconversions
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1010	LG35_04810			S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00100	Steroid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1017	LG35_04845			Ketopantoate reductase PanG (EC 1.1.1.169)	1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1018	LG35_04850			3-deoxy-D-manno-octulosonate 8-phosphate phosphatase (EC 3.1.3.45)	3.1.3.45	3-deoxy-manno-octulosonate-8-phosphatase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1022	LG35_04865			Asparaginyl-tRNA synthetase (EC 6.1.1.22)	6.1.1.22	Asparagine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1028	LG35_04900			Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	6.1.1.6	Lysine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1035	LG35_04930			6,7-dimethyl-8-ribityllumazine synthase (EC 2.5.1.78)	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1048	LG35_04985			CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1048	LG35_04985			CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1050	LG35_04995			Adenine deaminase (EC 3.5.4.2)	3.5.4.2	Adenine deaminase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1051	LG35_05005			Guanine deaminase (EC 3.5.4.3)	3.5.4.3	Guanine deaminase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1052	LG35_05010			Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)	2.7.7.13	Mannose-1-phosphate guanylyltransferase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1052	LG35_05010			Mannose-1-phosphate guanylyltransferase (EC 2.7.7.13)	2.7.7.13	Mannose-1-phosphate guanylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1053	LG35_05015			UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1053	LG35_05015			UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1054	LG35_05020			"probable uroporphyrin-III c-methyltransferase "	2.1.1.107	Uroporphyrinogen-III C-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1058	LG35_05045			Transketolase (EC 2.2.1.1)	2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1058	LG35_05045			Transketolase (EC 2.2.1.1)	2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1058	LG35_05045			Transketolase (EC 2.2.1.1)	2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1061	LG35_05060			GTP cyclohydrolase I (EC 3.5.4.16) type 1	3.5.4.16	GTP cyclohydrolase I	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1070	LG35_05100			2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase (EC 2.7.6.3)	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1071	LG35_05105			DNA polymerase III delta prime subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1071	LG35_05105			DNA polymerase III delta prime subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1072	LG35_05110			Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	3.6.1.23	dUTP diphosphatase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1077	LG35_05140			Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	2.7.6.1	Ribose-phosphate diphosphokinase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1077	LG35_05140			Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	2.7.6.1	Ribose-phosphate diphosphokinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1079	LG35_05150			Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	3.1.3.11	Fructose-bisphosphatase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1079	LG35_05150			Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	3.1.3.11	Fructose-bisphosphatase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1079	LG35_05150			Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	3.1.3.11	Fructose-bisphosphatase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1079	LG35_05150			Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	3.1.3.11	Fructose-bisphosphatase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1079	LG35_05150			Fructose-1,6-bisphosphatase, type I (EC 3.1.3.11)	3.1.3.11	Fructose-bisphosphatase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1092	LG35_05215			3'(2'),5'-bisphosphate nucleotidase (EC 3.1.3.7)	3.1.3.7	3'(2'),5'-bisphosphate nucleotidase	00920	Sulfur metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1096	LG35_05235			Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)	2.7.1.113	Deoxyguanosine kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1096	LG35_05235			Deoxyadenosine kinase (EC 2.7.1.76) @ Deoxyguanosine kinase (EC 2.7.1.113)	2.7.1.76	Deoxyadenosine kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1101	LG35_05255			Phosphatidylserine decarboxylase (EC 4.1.1.65)	4.1.1.65	Phosphatidylserine decarboxylase	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1102	LG35_05260			Phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	Phosphatidate cytidylyltransferase	00564	Glycerophospholipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1102	LG35_05260			Phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	Phosphatidate cytidylyltransferase	04070	Phosphatidylinositol signaling system
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00053	Ascorbate and aldarate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00140	C21-Steroid hormone metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00253	Tetracycline biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00362	Benzoate degradation via hydroxylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00363	Bisphenol A degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00523	Polyketide sugar unit biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00562	Inositol phosphate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00591	Linoleic acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00622	Toluene and xylene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00625	Tetrachloroethene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00633	Trinitrotoluene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00650	Butanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00830	Retinol metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00950	Isoquinoline alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00981	Insect hormone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01056	Biosynthesis of type II polyketide backbone
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1108	LG35_05290			NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01057	Biosynthesis of type II polyketide products
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00231	Puromycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00592	alpha-Linolenic acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00633	Trinitrotoluene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00950	Isoquinoline alkaloid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00981	Insect hormone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1125	LG35_05375			tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	01057	Biosynthesis of type II polyketide products
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1126	LG35_05380			Arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	Arginine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1128				"Bis(5'-nucleosyl)-tetraphosphatase (Asymmetrical) "	3.6.1.17	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1128				"Bis(5'-nucleosyl)-tetraphosphatase (Asymmetrical) "	3.6.1.17	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1132				Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1132				Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1133	LG35_05410			Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1133	LG35_05410			Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1135	LG35_05420			Uracil phosphoribosyltransferase (EC 2.4.2.9)	2.4.2.9	Uracil phosphoribosyltransferase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1138	LG35_05430			Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	Isoleucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1175	LG35_05625			Undecaprenyl diphosphate synthase (EC 2.5.1.31)	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1176	LG35_05630			NAD kinase (EC 2.7.1.23)	2.7.1.23	NAD(+) kinase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1177	LG35_05635			Pyridoxine 5'-phosphate synthase (EC 2.6.99.2)	2.6.99.2	Pyridoxine 5'-phosphate synthase	00750	Vitamin B6 metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1182	LG35_05660			3-deoxy-manno-octulosonate cytidylyltransferase (EC 2.7.7.38)	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1185				tRNA dimethylallyltransferase (EC 2.5.1.75)	2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1196	LG35_05735			NAD synthetase (EC 6.3.1.5) / Glutamine amidotransferase chain of NAD synthetase	6.3.1.5	NAD(+) synthase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1209	LG35_05800			DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1209	LG35_05800			DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1212	LG35_05815			Shikimate 5-dehydrogenase I alpha (EC 1.1.1.25)	1.1.1.25	Shikimate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1216	LG35_05835			Histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	Histidine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1224	LG35_05870			Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1224	LG35_05870			Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00460	Cyanoamino acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1224	LG35_05870			Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1224	LG35_05870			Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1224	LG35_05870			Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1228	LG35_05890			3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1228	LG35_05890			3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1232	LG35_05905			Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1232	LG35_05905			Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1232	LG35_05905			Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1232	LG35_05905			Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1232	LG35_05905			Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1233	LG35_05910			Fumarate hydratase class I (EC 4.2.1.2)	4.2.1.2	Fumarate hydratase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1233	LG35_05910			Fumarate hydratase class I (EC 4.2.1.2)	4.2.1.2	Fumarate hydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1241	LG35_05950			3-dehydroquinate dehydratase II (EC 4.2.1.10)	4.2.1.10	3-dehydroquinate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1243	LG35_05960			7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)	4.3.99.3	7-carboxy-7-deazaguanine synthase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1244	LG35_05965			Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	Hypoxanthine phosphoribosyltransferase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1244	LG35_05965			Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	Hypoxanthine phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1254	LG35_06025			Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1254	LG35_06025			Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1254	LG35_06025			Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1262	LG35_06065			Pyrophosphate-dependent fructose 6-phosphate-1-kinase (EC 2.7.1.90)	2.7.1.90	Diphosphate--fructose-6-phosphate 1-phosphotransferase	00051	Fructose and mannose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1266	LG35_06085			4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1290	LG35_06205			3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)	3.5.4.25	GTP cyclohydrolase II	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1290	LG35_06205			3,4-dihydroxy-2-butanone 4-phosphate synthase (EC 4.1.99.12) / GTP cyclohydrolase II (EC 3.5.4.25)	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1291	LG35_06210			Methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	Methionyl-tRNA formyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1291	LG35_06210			Methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	Methionyl-tRNA formyltransferase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1293	LG35_06225			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1293	LG35_06225			2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1293	LG35_06225			2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1294	LG35_06230			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1294	LG35_06230			2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1294	LG35_06230			2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1295	LG35_06235			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1295	LG35_06235			2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1295	LG35_06235			2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1296	LG35_06240			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1296	LG35_06240			2-oxoglutarate oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1296	LG35_06240			2-oxoglutarate oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1297	LG35_06245			Glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	Glutamate--tRNA ligase	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1297	LG35_06245			Glutamyl-tRNA synthetase (EC 6.1.1.17)	6.1.1.17	Glutamate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1309	LG35_06305			1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)	2.4.1.157	1,2-diacylglycerol 3-glucosyltransferase	00561	Glycerolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00071	Fatty acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00350	Tyrosine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00625	Tetrachloroethene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00626	Naphthalene and anthracene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00830	Retinol metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00980	Metabolism of xenobiotics by cytochrome P450
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1316	LG35_06335			Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00982	Drug metabolism - cytochrome P450
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1323	LG35_06375			Thiamine-monophosphate kinase (EC 2.7.4.16)	2.7.4.16	Thiamine-phosphate kinase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1324	LG35_06380			Adenylate kinase (EC 2.7.4.3)	2.7.4.3	Adenylate kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1329	LG35_06405			D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1329	LG35_06405			D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1330	LG35_06410			Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1330	LG35_06410			Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1330	LG35_06410			Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00750	Vitamin B6 metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1332	LG35_06420			Guanylate kinase (EC 2.7.4.8)	2.7.4.8	Guanylate kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1333	LG35_06425			Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18	Nicotinate-nucleotide adenylyltransferase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1336	LG35_06435			D-alanine--D-alanine ligase (EC 6.3.2.4)	6.3.2.4	D-alanine--D-alanine ligase	00473	D-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1336	LG35_06435			D-alanine--D-alanine ligase (EC 6.3.2.4)	6.3.2.4	D-alanine--D-alanine ligase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1342	LG35_06465			Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1342	LG35_06465			Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1342	LG35_06465			Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1342	LG35_06465			Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1342	LG35_06465			Dihydrolipoamide dehydrogenase of branched-chain alpha-keto acid dehydrogenase (EC 1.8.1.4) / Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00052	Galactose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1353	LG35_06515			Phosphoglucomutase (EC 5.4.2.2)	5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00521	Streptomycin biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1356	LG35_06530			Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1356	LG35_06530			Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1367	LG35_06585			Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1367	LG35_06585			Succinate dehydrogenase flavoprotein subunit (EC 1.3.5.1)	1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1368	LG35_06590			Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)	1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1368	LG35_06590			Succinate dehydrogenase iron-sulfur protein (EC 1.3.5.1)	1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1371				Polyphosphate kinase (EC 2.7.4.1)	2.7.4.1	Polyphosphate kinase	00190	Oxidative phosphorylation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1372	LG35_06605			Exopolyphosphatase (EC 3.6.1.11)	3.6.1.11	Exopolyphosphatase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1378	LG35_06630			5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1378	LG35_06630			5,10-methylenetetrahydrofolate reductase (EC 1.5.1.20)	1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1383	LG35_06655			Leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	Leucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1423	LG35_06850			DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1423	LG35_06850			DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1426	LG35_06860			Enolase (EC 4.2.1.11)	4.2.1.11	Phosphopyruvate hydratase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1426	LG35_06860			Enolase (EC 4.2.1.11)	4.2.1.11	Phosphopyruvate hydratase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1427	LG35_06865			DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1427	LG35_06865			DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1428	LG35_06870			DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1428	LG35_06870			DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1438	LG35_06945			Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1438	LG35_06945			Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1438	LG35_06945			Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1438	LG35_06945			Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1439				Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1439				Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1439				Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1439				Methylmalonyl-CoA mutase large subunit, MutB (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1440	LG35_06950			Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1440	LG35_06950			Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1440	LG35_06950			Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1440	LG35_06950			Methylmalonyl-CoA mutase small subunit, MutA (EC 5.4.99.2)	5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1454	LG35_07020			Nucleoside diphosphate kinase (EC 2.7.4.6)	2.7.4.6	Nucleoside-diphosphate kinase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1454	LG35_07020			Nucleoside diphosphate kinase (EC 2.7.4.6)	2.7.4.6	Nucleoside-diphosphate kinase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1469	LG35_07095			Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1469	LG35_07095			Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1469	LG35_07095			Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1469	LG35_07095			Phosphoenolpyruvate carboxykinase [ATP] (EC 4.1.1.49)	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1471	LG35_07105			Aspartate ammonia-lyase (EC 4.3.1.1)	4.3.1.1	Aspartate ammonia-lyase	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1471	LG35_07105			Aspartate ammonia-lyase (EC 4.3.1.1)	4.3.1.1	Aspartate ammonia-lyase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1481	LG35_07155			Enoyl-[acyl-carrier-protein] reductase [NADH] (EC 1.3.1.9)	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase (NADH)	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1483	LG35_07165			Erythronate-4-phosphate dehydrogenase (EC 1.1.1.290)	1.1.1.290	4-phosphoerythronate dehydrogenase	00750	Vitamin B6 metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1484	LG35_07170			Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	6.3.4.10	Biotin--[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1484	LG35_07170			Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	6.3.4.11	Biotin--[methylcrotonoyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1484	LG35_07170			Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	6.3.4.15	Biotin--[acetyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1484	LG35_07170			Biotin--protein ligase (EC 6.3.4.9)(EC 6.3.4.10)(EC 6.3.4.11)(EC 6.3.4.15)	6.3.4.9	Biotin--[methylmalonyl-CoA-carboxytransferase] ligase	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1488	LG35_07185			2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase (EC 2.3.1.117)	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1490	LG35_07195			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1490	LG35_07195			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1490	LG35_07195			Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1491	LG35_07200			Acetylornithine aminotransferase (EC 2.6.1.11) (ACOAT)	2.6.1.11	Acetylornithine transaminase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1498	LG35_07235			Bacterioferritin (EC 1.16.3.1)	1.16.3.1	Ferroxidase	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1529	LG35_07385			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1529	LG35_07385			2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3) / 2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1529	LG35_07385			2-oxoglutarate oxidoreductase, gamma subunit (EC 1.2.7.3) / 2-oxoglutarate oxidoreductase, alpha subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1530	LG35_07390			2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1530	LG35_07390			2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1530	LG35_07390			2-oxoglutarate oxidoreductase, beta subunit (EC 1.2.7.3)	1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1533	LG35_07405			Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	Tryptophan--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1564	LG35_07545			1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00730	Thiamine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1564	LG35_07545			1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1565	LG35_07550			Uridylate kinase (EC 2.7.4.22)	2.7.4.22	UMP kinase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00040	Pentose and glucuronate interconversions
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00053	Ascorbate and aldarate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00071	Fatty acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00310	Lysine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00340	Histidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00380	Tryptophan metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00410	beta-Alanine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00561	Glycerolipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00625	Tetrachloroethene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00640	Propanoate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1582	LG35_07635			Aldehyde dehydrogenase (EC 1.2.1.3)	1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00903	Limonene and pinene degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1589	LG35_07660			Thymidylate synthase (EC 2.1.1.45)	2.1.1.45	Thymidylate synthase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1589	LG35_07660			Thymidylate synthase (EC 2.1.1.45)	2.1.1.45	Thymidylate synthase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1590	LG35_07665			Dihydrofolate reductase (EC 1.5.1.3)	1.5.1.3	Dihydrofolate reductase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1590	LG35_07665			Dihydrofolate reductase (EC 1.5.1.3)	1.5.1.3	Dihydrofolate reductase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1612	LG35_07780			Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1619				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1619				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1619				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1619				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1620	LG35_07810			Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1620	LG35_07810			Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1620	LG35_07810			Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1620	LG35_07810			Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1637	LG35_07895			[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1640	LG35_07910			[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1661	LG35_08035			Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1661	LG35_08035			Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1664	LG35_08055			Glycine dehydrogenase [decarboxylating] (glycine cleavage system P protein) (EC 1.4.4.2)	1.4.4.2	Glycine dehydrogenase (aminomethyl-transferring)	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1682				Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	1.17.4.2	Ribonucleoside-triphosphate reductase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1682				Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	1.17.4.2	Ribonucleoside-triphosphate reductase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1703	LG35_08275			D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1703	LG35_08275			D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1705	LG35_08285			Alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	Alanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1711	LG35_08315			1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	2.4.1.18	1,4-alpha-glucan branching enzyme	00500	Starch and sucrose metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1723	LG35_08380			Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00053	Ascorbate and aldarate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1723	LG35_08380			Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1723	LG35_08380			Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00531	Glycosaminoglycan degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1732	LG35_08425			"Cob(I)alamin adenosyltransferase PduO "	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1759	LG35_08545			Thiol peroxidase, Bcp-type (EC 1.11.1.15)	1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1760	LG35_08550			Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12) [often with (EC 2.4.99.13) also]	2.4.99.12	Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1760	LG35_08550			Lipid IVA 3-deoxy-D-manno-octulosonic acid transferase (EC 2.4.99.12) [often with (EC 2.4.99.13) also]	2.4.99.13	(KDO)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1764	LG35_08575			3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)	2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00061	Fatty acid biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1764	LG35_08575			3-oxoacyl-[acyl-carrier-protein] synthase, KASII (EC 2.3.1.179)	2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00780	Biotin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1775	LG35_08625			L-threonine 3-dehydrogenase (EC 1.1.1.103)	1.1.1.103	L-threonine 3-dehydrogenase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1789	LG35_08685			Agmatinase (EC 3.5.3.11)	3.5.3.11	Agmatinase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1798	LG35_08730			Riboflavin synthase eubacterial/eukaryotic (EC 2.5.1.9)	2.5.1.9	Riboflavin synthase	00740	Riboflavin metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1832	LG35_08910			Pantothenate kinase type III, CoaX-like (EC 2.7.1.33)	2.7.1.33	Pantothenate kinase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1835	LG35_08920			Cytoplasmic axial filament protein CafA and Ribonuclease G (EC 3.1.4.-)	3.1.4.-	Phosphoric diester hydrolases	00565	Ether lipid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1840	LG35_08945			Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00260	Glycine, serine and threonine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1840	LG35_08945			Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00670	One carbon pool by folate
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1840	LG35_08945			Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1842	LG35_08955			Pyruvate,phosphate dikinase (EC 2.7.9.1)	2.7.9.1	Pyruvate, phosphate dikinase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1842	LG35_08955			Pyruvate,phosphate dikinase (EC 2.7.9.1)	2.7.9.1	Pyruvate, phosphate dikinase	00710	Carbon fixation in photosynthetic organisms
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1848	LG35_08985			Cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	Cysteine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1855	LG35_09010			Valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	Valine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1856	LG35_09015			Methylglyoxal synthase (EC 4.2.3.3)	4.2.3.3	Methylglyoxal synthase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1867	LG35_09060			NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00250	Alanine, aspartate and glutamate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1867	LG35_09060			NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1867	LG35_09060			NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00910	Nitrogen metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1887	LG35_09150			"Dihydroneopterin aldolase "	4.1.2.25	Dihydroneopterin aldolase	00790	Folate biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1888	LG35_09155			Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1888	LG35_09155			Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1888	LG35_09155			Ribonucleotide reductase of class II (coenzyme B12-dependent) (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00480	Glutathione metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1891	LG35_09170			Geranylgeranyl diphosphate synthase (EC 2.5.1.29)	2.5.1.29	Geranylgeranyl diphosphate synthase	00900	Terpenoid backbone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1949	LG35_09445			Possible glyoxylase family protein (Lactoylglutathione lyase) (EC 4.4.1.5)	4.4.1.5	Lactoylglutathione lyase	00620	Pyruvate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1962	LG35_09505			Methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	Methionine--tRNA ligase	00450	Selenoamino acid metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1962	LG35_09505			Methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	Methionine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1963	LG35_09510			Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00280	Valine, leucine and isoleucine degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1963	LG35_09510			Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00290	Valine, leucine and isoleucine biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1963	LG35_09510			Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00770	Pantothenate and CoA biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1964	LG35_09515			DNA polymerase III epsilon subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1964	LG35_09515			DNA polymerase III epsilon subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1968	LG35_09535			5-nucleotidase SurE (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1968	LG35_09535			5-nucleotidase SurE (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.1968	LG35_09535			5-nucleotidase SurE (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2003				Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00053	Ascorbate and aldarate metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2003				Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2003				Membrane-bound lytic murein transglycosylase D precursor (EC 3.2.1.-)	3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00531	Glycosaminoglycan degradation
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2008	LG35_09715			Ornithine carbamoyltransferase (EC 2.1.3.3)	2.1.3.3	Ornithine carbamoyltransferase	00330	Arginine and proline metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2041	LG35_09890			Deoxyribose-phosphate aldolase (EC 4.1.2.4)	4.1.2.4	Deoxyribose-phosphate aldolase	00030	Pentose phosphate pathway
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2044	LG35_09905			DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1501391.3	Alistipes sp. 627	fig|1501391.3.peg.2044	LG35_09905			DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
