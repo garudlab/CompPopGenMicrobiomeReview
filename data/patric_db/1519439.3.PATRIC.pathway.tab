@@ -1,0 +1,917 @@
+genome_id	genome_name	patric_id	refseq_locus_tag	alt_locus_tag	gene	product	ec_number	ec_description	pathway_id	pathway_name
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.6				Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	1.1.1.205	IMP dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.6				Inosine-5'-monophosphate dehydrogenase (EC 1.1.1.205) / CBS domain	1.1.1.205	IMP dehydrogenase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.7				Phosphoribosylformylglycinamidine synthase, synthetase subunit (EC 6.3.5.3) / Phosphoribosylformylglycinamidine synthase, glutamine amidotransferase subunit (EC 6.3.5.3)	6.3.5.3	Phosphoribosylformylglycinamidine synthase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.8				Phosphoribosylamine--glycine ligase (EC 6.3.4.13)	6.3.4.13	Phosphoribosylamine--glycine ligase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.9				IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.9				IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.9				IMP cyclohydrolase (EC 3.5.4.10) / Phosphoribosylaminoimidazolecarboxamide formyltransferase (EC 2.1.2.3)	3.5.4.10	IMP cyclohydrolase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.10				IMP cyclohydrolase (EC 3.5.4.10)	3.5.4.10	IMP cyclohydrolase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.11				Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	2.1.2.2	Phosphoribosylglycinamide formyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.11				Phosphoribosylglycinamide formyltransferase (EC 2.1.2.2)	2.1.2.2	Phosphoribosylglycinamide formyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.12				Phosphoribosylformylglycinamidine cyclo-ligase (EC 6.3.3.1)	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.13				Amidophosphoribosyltransferase (EC 2.4.2.14)	2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.13				Amidophosphoribosyltransferase (EC 2.4.2.14)	2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.14				Phosphoribosylaminoimidazole-succinocarboxamide synthase (EC 6.3.2.6)	6.3.2.6	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.15				N5-carboxyaminoimidazole ribonucleotide mutase (EC 5.4.99.18)	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.25				Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.25				Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.25				Phosphoserine aminotransferase (EC 2.6.1.52)	2.6.1.52	Phosphoserine transaminase	00750	Vitamin B6 metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.26				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.26				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.28				"NAD-reducing hydrogenase subunit HoxF "	1.12.1.2	Hydrogen dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.31				Glutamate 5-kinase (EC 2.7.2.11) / RNA-binding C-terminal domain PUA	2.7.2.11	Glutamate 5-kinase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.32				Gamma-glutamyl phosphate reductase (EC 1.2.1.41)	1.2.1.41	Glutamate-5-semialdehyde dehydrogenase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.37				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.37				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.37				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.38				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.38				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.38				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.42				Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.42				Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.48				Alanine racemase (EC 5.1.1.1)	5.1.1.1	Alanine racemase	00473	D-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.55				Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.55				Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.79				Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)	4.1.1.32	Phosphoenolpyruvate carboxykinase (GTP)	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.79				Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)	4.1.1.32	Phosphoenolpyruvate carboxykinase (GTP)	00020	Citrate cycle (TCA cycle)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.79				Phosphoenolpyruvate carboxykinase [GTP] (EC 4.1.1.32)	4.1.1.32	Phosphoenolpyruvate carboxykinase (GTP)	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.81				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.82				Biotin-protein ligase / Biotin operon repressor	6.3.4.15	Biotin--[acetyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.85				Uridine kinase (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.85				Uridine kinase (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.91				1,4-alpha-glucan (glycogen) branching enzyme, GH-13-type (EC 2.4.1.18)	2.4.1.18	1,4-alpha-glucan branching enzyme	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.92				Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	2.7.7.27	Glucose-1-phosphate adenylyltransferase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.92				Glucose-1-phosphate adenylyltransferase (EC 2.7.7.27)	2.7.7.27	Glucose-1-phosphate adenylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.94				Glycogen synthase, ADP-glucose transglucosylase (EC 2.4.1.21)	2.4.1.21	Starch synthase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.95				Glycogen phosphorylase (EC 2.4.1.1)	2.4.1.1	Glycogen phosphorylase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.106				Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	4.1.2.22	Fructose-6-phosphate phosphoketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.106				Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	4.1.2.9	Phosphoketolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.106				Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	4.1.2.9	Phosphoketolase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.106				Xylulose-5-phosphate phosphoketolase (EC 4.1.2.9) @ Fructose-6-phosphate phosphoketolase (EC 4.1.2.22)	4.1.2.9	Phosphoketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.107				Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00280	Valine, leucine and isoleucine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.107				Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00290	Valine, leucine and isoleucine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.107				Branched-chain amino acid aminotransferase (EC 2.6.1.42)	2.6.1.42	Branched-chain-amino-acid transaminase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.108				L-lactate dehydrogenase (EC 1.1.1.27)	1.1.1.27	L-lactate dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.108				L-lactate dehydrogenase (EC 1.1.1.27)	1.1.1.27	L-lactate dehydrogenase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.108				L-lactate dehydrogenase (EC 1.1.1.27)	1.1.1.27	L-lactate dehydrogenase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.108				L-lactate dehydrogenase (EC 1.1.1.27)	1.1.1.27	L-lactate dehydrogenase	00640	Propanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00062	Fatty acid elongation in mitochondria
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00071	Fatty acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00280	Valine, leucine and isoleucine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00281	Geraniol degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00410	beta-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00592	alpha-Linolenic acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00640	Propanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00903	Limonene and pinene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.116				"Enoyl-CoA hydratase "	4.2.1.17	Enoyl-CoA hydratase	00930	Caprolactam degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.118				"Alanine racemase "	5.1.1.1	Alanine racemase	00473	D-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.161				Valyl-tRNA synthetase (EC 6.1.1.9)	6.1.1.9	Valine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.170				Anti-sigma F factor (EC 2.7.11.1)	2.7.11.1	Non-specific serine/threonine protein kinase	04150	mTOR signaling pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.177				Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.177				Polyribonucleotide nucleotidyltransferase (EC 2.7.7.8)	2.7.7.8	Polyribonucleotide nucleotidyltransferase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.181				5-formyltetrahydrofolate cyclo-ligase (EC 6.3.3.2)	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.182				Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.182				Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.182				Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.182				Methylenetetrahydrofolate dehydrogenase (NADP+) (EC 1.5.1.5) / Methenyltetrahydrofolate cyclohydrolase (EC 3.5.4.9)	3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.191				ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)	3.5.1.42	Nicotinamide-nucleotide amidase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.191				ADP-ribose pyrophosphatase of COG1058 family (EC 3.6.1.13) / Nicotinamide-nucleotide amidase (EC 3.5.1.42)	3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.194				Ribokinase (EC 2.7.1.15)	2.7.1.15	Ribokinase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.196				D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.200				Deoxyuridine 5'-triphosphate nucleotidohydrolase (EC 3.6.1.23)	3.6.1.23	dUTP diphosphatase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.204				Arginine deiminase (EC 3.5.3.6)	3.5.3.6	Arginine deiminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.217				"Metal dependent hydrolase "	3.-.-.-	Hydrolases.	00231	Puromycin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.217				"Metal dependent hydrolase "	3.-.-.-	Hydrolases.	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.217				"Metal dependent hydrolase "	3.-.-.-	Hydrolases.	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.220				Thymidine kinase (EC 2.7.1.21)	2.7.1.21	Thymidine kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.220				Thymidine kinase (EC 2.7.1.21)	2.7.1.21	Thymidine kinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.223				dCMP deaminase (EC 3.5.4.12); Late competence protein ComEB	3.5.4.12	dCMP deaminase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.225				Methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	Methionine--tRNA ligase	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.225				Methionyl-tRNA synthetase (EC 6.1.1.10)	6.1.1.10	Methionine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.233				Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD	1.1.99.14	Glycolate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.234				Glycolate dehydrogenase (EC 1.1.99.14), subunit GlcD	1.1.99.14	Glycolate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.235				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.245				"Thiaminase II "	3.5.99.2	Aminopyrimidine aminohydrolase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.261				Aminoglycoside 6-nucleotidyltransferase (EC 2.7.7.-) => ANT(6)-I	2.7.7.-	Nucleotidyltransferases	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.261				Aminoglycoside 6-nucleotidyltransferase (EC 2.7.7.-) => ANT(6)-I	2.7.7.-	Nucleotidyltransferases	01053	Biosynthesis of siderophore group nonribosomal peptides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.276				GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.276				GMP synthase [glutamine-hydrolyzing], amidotransferase subunit (EC 6.3.5.2) / GMP synthase [glutamine-hydrolyzing], ATP pyrophosphatase subunit (EC 6.3.5.2)	6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.277				CTP synthase (EC 6.3.4.2)	6.3.4.2	CTP synthase (glutamine hydrolyzing)	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.278				Glutamine synthetase type III, GlnN (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.278				Glutamine synthetase type III, GlnN (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.278				Glutamine synthetase type III, GlnN (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.278				Glutamine synthetase type III, GlnN (EC 6.3.1.2)	6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.280				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.325				Histidine ammonia-lyase (EC 4.3.1.3)	4.3.1.3	Histidine ammonia-lyase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.327				Formate--tetrahydrofolate ligase (EC 6.3.4.3)	6.3.4.3	Formate--tetrahydrofolate ligase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.327				Formate--tetrahydrofolate ligase (EC 6.3.4.3)	6.3.4.3	Formate--tetrahydrofolate ligase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.328				"Formiminotetrahydrofolate cyclodeaminase "	4.3.1.4	Formimidoyltetrahydrofolate cyclodeaminase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.334				"ATP synthase epsilon chain "	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.334				"ATP synthase epsilon chain "	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.334				"ATP synthase epsilon chain "	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.335				ATP synthase beta chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.335				ATP synthase beta chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.335				ATP synthase beta chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.336				ATP synthase gamma chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.336				ATP synthase gamma chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.336				ATP synthase gamma chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.337				ATP synthase alpha chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.337				ATP synthase alpha chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.337				ATP synthase alpha chain (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.338				"ATP synthase F0 sector subunit b "	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.338				"ATP synthase F0 sector subunit b "	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.338				"ATP synthase F0 sector subunit b "	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.339				ATP synthase F0 sector subunit c (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.339				ATP synthase F0 sector subunit c (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.339				ATP synthase F0 sector subunit c (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.340				ATP synthase F0 sector subunit a (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.340				ATP synthase F0 sector subunit a (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.340				ATP synthase F0 sector subunit a (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.350				Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.383				2-dehydropantoate 2-reductase (EC 1.1.1.169)	1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.385				2-dehydropantoate 2-reductase (EC 1.1.1.169)	1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00364	Fluorobenzoate degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00480	Glutathione metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00600	Sphingolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.391				Peptidoglycan N-acetylglucosamine deacetylase (EC 3.5.1.-)	3.5.1.-	In linear amides	00930	Caprolactam degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.396				NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.396				NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.396				NADP-specific glutamate dehydrogenase (EC 1.4.1.4)	1.4.1.4	Glutamate dehydrogenase (NADP(+))	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.399				5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.399				5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.402				5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.402				5-methyltetrahydrofolate--homocysteine methyltransferase (EC 2.1.1.13)	2.1.1.13	Methionine synthase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.442				Ornithine cyclodeaminase (EC 4.3.1.12)	4.3.1.12	Ornithine cyclodeaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.461				Aspartate transaminase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.465				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.467				Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)	3.6.1.-	In phosphorous-containing anhydrides	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.467				Mutator MutT protein (7,8-dihydro-8-oxoguanine-triphosphatase) (EC 3.6.1.-)	3.6.1.-	In phosphorous-containing anhydrides	00790	Folate biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.479				Homoserine kinase (EC 2.7.1.39) @ Phosphoserine phosphatase (EC 3.1.3.3)	2.7.1.39	Homoserine kinase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.479				Homoserine kinase (EC 2.7.1.39) @ Phosphoserine phosphatase (EC 3.1.3.3)	3.1.3.3	Phosphoserine phosphatase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.479				Homoserine kinase (EC 2.7.1.39) @ Phosphoserine phosphatase (EC 3.1.3.3)	3.1.3.3	Phosphoserine phosphatase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.480				Threonine synthase (EC 4.2.3.1)	4.2.3.1	Threonine synthase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.480				Threonine synthase (EC 4.2.3.1)	4.2.3.1	Threonine synthase	00750	Vitamin B6 metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.481				Homoserine dehydrogenase (EC 1.1.1.3)	1.1.1.3	Homoserine dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.481				Homoserine dehydrogenase (EC 1.1.1.3)	1.1.1.3	Homoserine dehydrogenase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.481				Homoserine dehydrogenase (EC 1.1.1.3)	1.1.1.3	Homoserine dehydrogenase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.482				Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.482				Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.482				Aspartokinase (EC 2.7.2.4)	2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.483				Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.483				Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.483				Aspartate-semialdehyde dehydrogenase (EC 1.2.1.11)	1.2.1.11	Aspartate-semialdehyde dehydrogenase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.488				4-alpha-glucanotransferase (amylomaltase) (EC 2.4.1.25)	2.4.1.25	4-alpha-glucanotransferase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.508				Prolyl-tRNA synthetase (EC 6.1.1.15), archaeal/eukaryal type	6.1.1.15	Proline--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.520				Threonyl-tRNA synthetase (EC 6.1.1.3)	6.1.1.3	Threonine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.528				3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.528				3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.528				3-hydroxybutyryl-CoA dehydrogenase (EC 1.1.1.157)	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.529				3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.529				3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.529				3-hydroxybutyryl-CoA dehydratase (EC 4.2.1.55)	4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.540				"Uridine kinase "	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.540				"Uridine kinase "	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.541				Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.541				Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.541				Purine nucleoside phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.542				Deoxyribose-phosphate aldolase (EC 4.1.2.4)	4.1.2.4	Deoxyribose-phosphate aldolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.564				GTP pyrophosphokinase (EC 2.7.6.5)	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.569				ADP-ribose pyrophosphatase (EC 3.6.1.13)	3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.593				2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I alpha (EC 2.5.1.54)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.604				Hydroxylamine reductase (EC 1.7.99.1)	1.7.99.1	Hydroxylamine reductase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00051	Fructose and mannose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00053	Ascorbate and aldarate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00140	C21-Steroid hormone metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00363	Bisphenol A degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00523	Polyketide sugar unit biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00562	Inositol phosphate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00591	Linoleic acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00622	Toluene and xylene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00625	Tetrachloroethene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00633	Trinitrotoluene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00830	Retinol metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00981	Insect hormone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01056	Biosynthesis of type II polyketide backbone
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.621				NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01057	Biosynthesis of type II polyketide products
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.632				GTP pyrophosphokinase (EC 2.7.6.5)	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.637				Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC	2.7.8.-	Transferases for other substituted phosphate groups	00440	Phosphonate and phosphinate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.637				Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC	2.7.8.-	Transferases for other substituted phosphate groups	00513	High-mannose type N-glycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.637				Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC	2.7.8.-	Transferases for other substituted phosphate groups	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.637				Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC	2.7.8.-	Transferases for other substituted phosphate groups	00600	Sphingolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.637				Cardiolipin synthase (EC 2.7.8.-) phosphatidylethanolamine-utilizing, bacterial type ClsC	2.7.8.-	Transferases for other substituted phosphate groups	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.662				"DNA polymerase I "	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.662				"DNA polymerase I "	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.693				Adenylate kinase (EC 2.7.4.3)	2.7.4.3	Adenylate kinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.701				DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.701				DNA-directed RNA polymerase alpha subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.712				Pyridoxal kinase (EC 2.7.1.35)	2.7.1.35	Pyridoxal kinase	00750	Vitamin B6 metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.725				N-acetyl-gamma-glutamyl-phosphate reductase (EC 1.2.1.38)	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.726				Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)	2.3.1.1	Amino-acid N-acetyltransferase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.726				Glutamate N-acetyltransferase (EC 2.3.1.35) @ N-acetylglutamate synthase (EC 2.3.1.1)	2.3.1.35	Glutamate N-acetyltransferase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.727				N-acetylglutamate kinase (EC 2.7.2.8)	2.7.2.8	Acetylglutamate kinase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.728				N-acetylornithine aminotransferase (EC 2.6.1.11)	2.6.1.11	Acetylornithine transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.738				Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.738				Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.738				Cytosol nonspecific dipeptidase (EC 3.4.13.18)	3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.741				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.741				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.747				Guanine deaminase (EC 3.5.4.3)	3.5.4.3	Guanine deaminase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.749				Xanthine phosphoribosyltransferase (EC 2.4.2.22)	2.4.2.22	Xanthine phosphoribosyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.754				Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.754				Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.754				Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.754				Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.754				Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00643	Styrene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.765				tRNA dimethylallyltransferase (EC 2.5.1.75)	2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.786				NAD synthetase (EC 6.3.1.5)	6.3.1.5	NAD(+) synthase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.812				Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.812				Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.812				Ribonucleotide reductase of class Ia (aerobic), alpha subunit (EC 1.17.4.1)	1.17.4.1	Ribonucleoside-diphosphate reductase	00480	Glutathione metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.816				GTP pyrophosphokinase (EC 2.7.6.5)	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.817				Pyridine nucleotide-disulfide oxidoreductase; NADH dehydrogenase (EC 1.6.99.3)	1.6.99.3	NADH dehydrogenase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.828				Hydroxylamine reductase (EC 1.7.99.1)	1.7.99.1	Hydroxylamine reductase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.841				Glycerophosphoryl diester phosphodiesterase (EC 3.1.4.46)	3.1.4.46	Glycerophosphodiester phosphodiesterase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.843				Long-chain-fatty-acid--CoA ligase (EC 6.2.1.3)	6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.844				Macrolide glycosyltransferase (EC 2.4.1.-)	2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.851				Thymidylate synthase (EC 2.1.1.45)	2.1.1.45	Thymidylate synthase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.851				Thymidylate synthase (EC 2.1.1.45)	2.1.1.45	Thymidylate synthase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.852				Aspartate racemase (EC 5.1.1.13)	5.1.1.13	Aspartate racemase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.853				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.853				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.854				Phosphoglycolate phosphatase (EC 3.1.3.18)	3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.872				Glutaconate CoA-transferase subunit A (EC 2.8.3.12)	2.8.3.12	Glutaconate CoA-transferase	00643	Styrene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.872				Glutaconate CoA-transferase subunit A (EC 2.8.3.12)	2.8.3.12	Glutaconate CoA-transferase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.873				Glutaconate CoA-transferase subunit B (EC 2.8.3.12)	2.8.3.12	Glutaconate CoA-transferase	00643	Styrene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.873				Glutaconate CoA-transferase subunit B (EC 2.8.3.12)	2.8.3.12	Glutaconate CoA-transferase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.874				Glutaconyl-CoA decarboxylase alpha chain (EC 4.1.1.70)	4.1.1.70	Glutaconyl-CoA decarboxylase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.874				Glutaconyl-CoA decarboxylase alpha chain (EC 4.1.1.70)	4.1.1.70	Glutaconyl-CoA decarboxylase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.880				Oxaloacetate decarboxylase Na(+) pump, beta chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.880				Oxaloacetate decarboxylase Na(+) pump, beta chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.886				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.886				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.901				Lysine decarboxylase (EC 4.1.1.18)	4.1.1.18	Lysine decarboxylase	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.901				Lysine decarboxylase (EC 4.1.1.18)	4.1.1.18	Lysine decarboxylase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.912				Serine acetyltransferase (EC 2.3.1.30)	2.3.1.30	Serine O-acetyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.912				Serine acetyltransferase (EC 2.3.1.30)	2.3.1.30	Serine O-acetyltransferase	00920	Sulfur metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.914				Aspartate--ammonia ligase (EC 6.3.1.1)	6.3.1.1	Aspartate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.914				Aspartate--ammonia ligase (EC 6.3.1.1)	6.3.1.1	Aspartate--ammonia ligase	00460	Cyanoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.914				Aspartate--ammonia ligase (EC 6.3.1.1)	6.3.1.1	Aspartate--ammonia ligase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.917				S-methyl-5-thioribose-1-phosphate isomerase (EC 5.3.1.23)	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.922				Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.923				Xanthine dehydrogenase, FAD binding subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.924				Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.926				L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.926				L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.926				L-asparaginase I, cytoplasmic (EC 3.5.1.1)	3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.927				Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.931				UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00471	D-Glutamine and D-glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.931				UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.961				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.961				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1023				L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1023				L-seryl-tRNA(Sec) selenium transferase (EC 2.9.1.1)	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1028				GTP pyrophosphokinase (EC 2.7.6.5)	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1030				S-adenosylmethionine synthetase (EC 2.5.1.6)	2.5.1.6	Methionine adenosyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1032				Probable poly(beta-D-mannuronate) O-acetylase (EC 2.3.1.-)	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1043				Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00430	Taurine and hypotaurine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1043				Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1043				Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00640	Propanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1043				Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1043				Acetate kinase (EC 2.7.2.1)	2.7.2.1	Acetate kinase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1049				Agmatine deiminase (EC 3.5.3.12)	3.5.3.12	Agmatine deiminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1059				Ornithine racemase (EC 5.1.1.12)	5.1.1.12	Ornithine racemase	00472	D-Arginine and D-ornithine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1064				Guanine deaminase (EC 3.5.4.3); Hydroxydechloroatrazine ethylaminohydrolase (EC 3.5.99.3)	3.5.4.3	Guanine deaminase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1064				Guanine deaminase (EC 3.5.4.3); Hydroxydechloroatrazine ethylaminohydrolase (EC 3.5.99.3)	3.5.99.3	Hydroxydechloroatrazine ethylaminohydrolase	00791	Atrazine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1070				Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1070				Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1070				Carbamate kinase (EC 2.7.2.2)	2.7.2.2	Carbamate kinase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1074				Cysteine synthase (EC 2.5.1.47)	2.5.1.47	Cysteine synthase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1074				Cysteine synthase (EC 2.5.1.47)	2.5.1.47	Cysteine synthase	00920	Sulfur metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1078				Dihydropyrimidinase (EC 3.5.2.2)	3.5.2.2	Dihydropyrimidinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1078				Dihydropyrimidinase (EC 3.5.2.2)	3.5.2.2	Dihydropyrimidinase	00410	beta-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1078				Dihydropyrimidinase (EC 3.5.2.2)	3.5.2.2	Dihydropyrimidinase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1078				Dihydropyrimidinase (EC 3.5.2.2)	3.5.2.2	Dihydropyrimidinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1080				5'-nucleotidase (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1080				5'-nucleotidase (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1080				5'-nucleotidase (EC 3.1.3.5)	3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1084				Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1084				Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1084				Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1084				Multimodular transpeptidase-transglycosylase (EC 2.4.1.129) (EC 3.4.-.-)	3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1106				"DNA primase "	2.7.7.-	Nucleotidyltransferases.	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1106				"DNA primase "	2.7.7.-	Nucleotidyltransferases.	01053	Biosynthesis of siderophore group nonribosomal peptides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1199				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1199				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1199				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1206				Cysteine synthase (EC 2.5.1.47)	2.5.1.47	Cysteine synthase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1206				Cysteine synthase (EC 2.5.1.47)	2.5.1.47	Cysteine synthase	00920	Sulfur metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1212				Methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	Methionyl-tRNA formyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1212				Methionyl-tRNA formyltransferase (EC 2.1.2.9)	2.1.2.9	Methionyl-tRNA formyltransferase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1216				Guanylate kinase (EC 2.7.4.8)	2.7.4.8	Guanylate kinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1224				Cysteine desulfurase (EC 2.8.1.7)	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1226				2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase (EC 4.6.1.12)	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1227				2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase (EC 2.7.7.60)	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1231				Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	2.3.1.51	1-acylglycerol-3-phosphate O-acyltransferase	00561	Glycerolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1231				Acyl-CoA:1-acyl-sn-glycerol-3-phosphate acyltransferase (EC 2.3.1.51)	2.3.1.51	1-acylglycerol-3-phosphate O-acyltransferase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1236				D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1246				(2E,6E)-farnesyl diphosphate synthase (EC 2.5.1.10)	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1262				DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1262				DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1268				Adenosylhomocysteinase (EC 3.3.1.1)	3.3.1.1	Adenosylhomocysteinase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1269				Glycerol-3-phosphate dehydrogenase [NAD(P)+] (EC 1.1.1.94)	1.1.1.94	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1277				UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1277				UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1278				Deoxyguanosinetriphosphate triphosphohydrolase (EC 3.1.5.1)	3.1.5.1	dGTPase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1284				DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1284				DNA-directed RNA polymerase beta' subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1285				DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1285				DNA-directed RNA polymerase beta subunit (EC 2.7.7.6)	2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1353				NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA	3.6.1.22	NAD(+) diphosphatase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1361				6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1361				6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1361				6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1361				6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1361				6-phosphofructokinase (EC 2.7.1.11)	2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1362				Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1362				Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1362				Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1362				Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1362				Fructose-bisphosphate aldolase class II (EC 4.1.2.13)	4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1363				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1363				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1363				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1364				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1364				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1364				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1371				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1371				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1371				Manganese catalase (EC 1.11.1.6) => Spore coat protein CotJC	1.11.1.6	Catalase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1407				D-serine ammonia-lyase (EC 4.3.1.18)	4.3.1.18	D-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1428				NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1430				Heptaprenyl diphosphate synthase component I (EC 2.5.1.30)	2.5.1.30	Heptaprenyl diphosphate synthase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1446				DNA polymerase III polC-type (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1446				DNA polymerase III polC-type (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1449				1-deoxy-D-xylulose 5-phosphate reductoisomerase (EC 1.1.1.267)	1.1.1.267	1-deoxy-D-xylulose-5-phosphate reductoisomerase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1450				Phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	Phosphatidate cytidylyltransferase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1450				Phosphatidate cytidylyltransferase (EC 2.7.7.41)	2.7.7.41	Phosphatidate cytidylyltransferase	04070	Phosphatidylinositol signaling system
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1451				Undecaprenyl diphosphate synthase (EC 2.5.1.31)	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1453				Uridylate kinase (EC 2.7.4.22)	2.7.4.22	UMP kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1462				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1463				D-glycerate 2-kinase (EC 2.7.1.165)	2.7.1.165	Glycerate 2-kinase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1463				D-glycerate 2-kinase (EC 2.7.1.165)	2.7.1.165	Glycerate 2-kinase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1463				D-glycerate 2-kinase (EC 2.7.1.165)	2.7.1.165	Glycerate 2-kinase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1475				Periplasmic [Fe] hydrogenase large subunit (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1485				DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1487				DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1504				Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1504				Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00460	Cyanoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1504				Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1504				Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1504				Serine hydroxymethyltransferase (EC 2.1.2.1)	2.1.2.1	Glycine hydroxymethyltransferase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1513				Formiminotetrahydrofolate cyclodeaminase (EC 4.3.1.4)	4.3.1.4	Formimidoyltetrahydrofolate cyclodeaminase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1514				Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase	2.1.2.5	Glutamate formimidoyltransferase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1514				Glutamate formiminotransferase (EC 2.1.2.5) @ Glutamate formyltransferase	2.1.2.5	Glutamate formimidoyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1517				Urocanate hydratase (EC 4.2.1.49)	4.2.1.49	Urocanate hydratase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1518				Imidazolonepropionase (EC 3.5.2.7)	3.5.2.7	Imidazolonepropionase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00624	1- and 2-Methylnaphthalene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00940	Phenylpropanoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00941	Flavonoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	00981	Insect hormone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1521				"Methyltransferase "	2.1.1.-	Methyltransferases.	01057	Biosynthesis of type II polyketide products
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1524				Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1524				Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00670	One carbon pool by folate
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1524				Aminomethyltransferase (glycine cleavage system T protein) (EC 2.1.2.10)	2.1.2.10	Aminomethyltransferase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1526				Glycine dehydrogenase [decarboxylating] (glycine cleavage system P1 protein) (EC 1.4.4.2)	1.4.4.2	Glycine dehydrogenase (aminomethyl-transferring)	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1527				Glycine dehydrogenase [decarboxylating] (glycine cleavage system P2 protein) (EC 1.4.4.2)	1.4.4.2	Glycine dehydrogenase (aminomethyl-transferring)	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1529				Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1529				Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00020	Citrate cycle (TCA cycle)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1529				Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1529				Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00280	Valine, leucine and isoleucine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1529				Dihydrolipoamide dehydrogenase (EC 1.8.1.4)	1.8.1.4	Dihydrolipoyl dehydrogenase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1532				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1534				Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)	2.3.2.2	Gamma-glutamyltransferase	00430	Taurine and hypotaurine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1534				Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)	2.3.2.2	Gamma-glutamyltransferase	00460	Cyanoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1534				Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)	2.3.2.2	Gamma-glutamyltransferase	00480	Glutathione metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1534				Gamma-glutamyltranspeptidase (EC 2.3.2.2) @ Glutathione hydrolase (EC 3.4.19.13)	2.3.2.2	Gamma-glutamyltransferase	00590	Arachidonic acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1540				Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1540				Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00040	Pentose and glucuronate interconversions
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1540				Ribulose-phosphate 3-epimerase (EC 5.1.3.1)	5.1.3.1	Ribulose-phosphate 3-epimerase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1553				Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	1.17.4.2	Ribonucleoside-triphosphate reductase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1553				Ribonucleotide reductase of class III (anaerobic), large subunit (EC 1.17.4.2)	1.17.4.2	Ribonucleoside-triphosphate reductase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1554				Adenylosuccinate synthetase (EC 6.3.4.4)	6.3.4.4	Adenylosuccinate synthase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1554				Adenylosuccinate synthetase (EC 6.3.4.4)	6.3.4.4	Adenylosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1555				Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)	4.3.2.2	Adenylosuccinate lyase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1555				Adenylosuccinate lyase (EC 4.3.2.2) @ SAICAR lyase (EC 4.3.2.2)	4.3.2.2	Adenylosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1557				V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1557				V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1557				V-type ATP synthase subunit I (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1558				V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1558				V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1558				V-type ATP synthase subunit K (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1560				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1560				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1560				"V-type ATP synthase subunit C "	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1561				"V-type ATP synthase subunit F "	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1561				"V-type ATP synthase subunit F "	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1561				"V-type ATP synthase subunit F "	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1562				V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1562				V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1562				V-type ATP synthase subunit A (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1563				V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1563				V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1563				V-type ATP synthase subunit B (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1564				V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1564				V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1564				V-type ATP synthase subunit D (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1565				2-keto-3-deoxy-D-arabino-heptulosonate-7-phosphate synthase I beta (EC 2.5.1.54)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1566				Prephenate and/or arogenate dehydrogenase (unknown specificity) # TyrAx, NAD-specific	1.3.1.12	Prephenate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1566				Prephenate and/or arogenate dehydrogenase (unknown specificity) # TyrAx, NAD-specific	1.3.1.12	Prephenate dehydrogenase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1566				Prephenate and/or arogenate dehydrogenase (unknown specificity) # TyrAx, NAD-specific	1.3.1.43	Arogenate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1566				Prephenate and/or arogenate dehydrogenase (unknown specificity) # TyrAx, NAD-specific	1.3.1.43	Arogenate dehydrogenase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1567				3-dehydroquinate synthase (EC 4.2.3.4)	4.2.3.4	3-dehydroquinate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1568				3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1569				Chorismate synthase (EC 4.2.3.5)	4.2.3.5	Chorismate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1570				Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)	4.2.1.51	Prephenate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1570				Chorismate mutase I (EC 5.4.99.5) / Prephenate dehydratase (EC 4.2.1.51)	5.4.99.5	Chorismate mutase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1571				Shikimate kinase I (EC 2.7.1.71)	2.7.1.71	Shikimate kinase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1573				Glutamate racemase (EC 5.1.1.3)	5.1.1.3	Glutamate racemase	00471	D-Glutamine and D-glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1582				UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00471	D-Glutamine and D-glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1582				UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1591				Phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.10	Phosphoglucosamine mutase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1601				S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00040	Pentose and glucuronate interconversions
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1601				S-adenosylmethionine:tRNA ribosyltransferase-isomerase (EC 5.-.-.-)	5.-.-.-	Isomerases	00100	Steroid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1603				4-hydroxy-tetrahydrodipicolinate synthase (EC 4.3.3.7)	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1604				Tyrosyl-tRNA synthetase (EC 6.1.1.1)	6.1.1.1	Tyrosine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1608				NAD kinase (EC 2.7.1.23)	2.7.1.23	NAD(+) kinase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1610				1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1610				1-deoxy-D-xylulose 5-phosphate synthase (EC 2.2.1.7)	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1629				DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1629				DNA polymerase III alpha subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1636				Hypothetical domain / Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)	4.99.1.3	Sirohydrochlorin cobaltochelatase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1636				Hypothetical domain / Sirohydrochlorin cobaltochelatase CbiK (EC 4.99.1.3) @ Sirohydrochlorin ferrochelatase activity of CbiK (EC 4.99.1.4)	4.99.1.4	Sirohydrochlorin ferrochelatase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1641				Cobyrinic acid a,c-diamide synthetase (EC 6.3.5.11)	6.3.5.11	Cobyrinate a,c-diamide synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1643				Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)	2.1.1.195	Cobalt-precorrin-5B (C(1))-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1645				Cobalt-precorrin 5A hydrolase (EC 3.7.1.12)	3.7.1.12	Cobalt-precorrin 5A hydrolase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1647				Cobalt-precorrin-6A reductase (EC 1.3.1.106) / Cobalt-precorrin-7 (C5)-methyltransferase (EC 2.1.1.289) / Cobalt-precorrin-6B C15-methyltransferase [decarboxylating] (EC 2.1.1.196)	2.1.1.196	Cobalt-precorrin-6B (C(15))-methyltransferase (decarboxylating)	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1648				Adenosylcobinamide-phosphate synthase (EC 6.3.1.10)	6.3.1.10	Adenosylcobinamide-phosphate synthase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1649				L-threonine 3-O-phosphate decarboxylase (EC 4.1.1.81)	4.1.1.81	Threonine-phosphate decarboxylase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1650				Cobyric acid synthase (EC 6.3.5.10)	6.3.5.10	Adenosylcobyric acid synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1651				"Cob(I)alamin adenosyltransferase "	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1652				Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase (EC 2.4.2.21)	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1654				Cobalamin synthase (EC 2.7.8.26)	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1655				"Alpha-ribazole-5'-phosphate phosphatase "	3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1664				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1664				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1664				Transketolase, N-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1665				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1665				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1665				Transketolase, C-terminal section (EC 2.2.1.1)	2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1674				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1674				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1674				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1697				DNA-cytosine methyltransferase (EC 2.1.1.37)	2.1.1.37	DNA (cytosine-5-)-methyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1723				Histidine ammonia-lyase (EC 4.3.1.3)	4.3.1.3	Histidine ammonia-lyase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00253	Tetracycline biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00624	1- and 2-Methylnaphthalene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00627	1,4-Dichlorobenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00940	Phenylpropanoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00941	Flavonoid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00942	Anthocyanin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	00981	Insect hormone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	01051	Biosynthesis of ansamycins
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1735				"FIG145533: Methyltransferase "	2.1.1.-	Methyltransferases.	01057	Biosynthesis of type II polyketide products
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1737				3-dehydroquinate dehydratase II (EC 4.2.1.10)	4.2.1.10	3-dehydroquinate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1758				Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)	3.1.1.23	Acylglycerol lipase	00561	Glycerolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1758				Lysophospholipase (EC 3.1.1.5); Monoglyceride lipase (EC 3.1.1.23)	3.1.1.5	Lysophospholipase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1759				Glycerol kinase (EC 2.7.1.30)	2.7.1.30	Glycerol kinase	00561	Glycerolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1770				Phosphopantetheine adenylyltransferase (EC 2.7.7.3)	2.7.7.3	Pantetheine-phosphate adenylyltransferase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1775				Cell division protein FtsI [Peptidoglycan synthetase] (EC 2.4.1.129)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1776				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1776				UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1777				Phospho-N-acetylmuramoyl-pentapeptide-transferase (EC 2.7.8.13)	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1779				Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129) @ Stage V sporulation protein E	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1780				UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase (EC 2.4.1.227)	2.4.1.227	Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1781				Inorganic pyrophosphatase (EC 3.6.1.1)	3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1787				Undecaprenyl-diphosphatase (EC 3.6.1.27)	3.6.1.27	Undecaprenyl-diphosphate phosphatase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1791				D-alanyl-D-alanine carboxypeptidase (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1796				"Glucokinase "	2.7.1.2	Glucokinase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1796				"Glucokinase "	2.7.1.2	Glucokinase	00052	Galactose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1796				"Glucokinase "	2.7.1.2	Glucokinase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1796				"Glucokinase "	2.7.1.2	Glucokinase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1796				"Glucokinase "	2.7.1.2	Glucokinase	00521	Streptomycin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1806				Adenine deaminase (EC 3.5.4.2)	3.5.4.2	Adenine deaminase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1808				Adenine phosphoribosyltransferase (EC 2.4.2.7)	2.4.2.7	Adenine phosphoribosyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1811				Phenylalanyl-tRNA synthetase alpha chain (EC 6.1.1.20)	6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1812				Phenylalanyl-tRNA synthetase beta chain (EC 6.1.1.20)	6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1825				Transcriptional regulator of pyridoxine metabolism / Pyridoxamine phosphate aminotransferase (EC 2.6.1.54)	2.6.1.54	Pyridoxamine-phosphate transaminase	00750	Vitamin B6 metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1832				Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	Cytidine deaminase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1832				Cytidine deaminase (EC 3.5.4.5)	3.5.4.5	Cytidine deaminase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1834				Asparaginyl-tRNA synthetase (EC 6.1.1.22)	6.1.1.22	Asparagine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1835				Pseudouridine 5'-phosphate glycosidase (EC 4.2.1.70)	4.2.1.70	Pseudouridylate synthase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1890				Selenide,water dikinase (EC 2.7.9.3) @ selenocysteine-containing	2.7.9.3	Selenide, water dikinase	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1891				Selenide,water dikinase (EC 2.7.9.3) @ selenocysteine-containing	2.7.9.3	Selenide, water dikinase	00450	Selenoamino acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1895				L-serine dehydratase, alpha subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1895				L-serine dehydratase, alpha subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1896				L-serine dehydratase, beta subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1896				L-serine dehydratase, beta subunit (EC 4.3.1.17)	4.3.1.17	L-serine ammonia-lyase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1899				Cysteinyl-tRNA synthetase (EC 6.1.1.16)	6.1.1.16	Cysteine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1900				CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase (EC 2.7.8.5)	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1917				Pyridine nucleotide-disulfide oxidoreductase; NADH dehydrogenase (EC 1.6.99.3)	1.6.99.3	NADH dehydrogenase	00190	Oxidative phosphorylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1968				2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)	2.7.1.45	2-dehydro-3-deoxygluconokinase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1968				2-dehydro-3-deoxygluconokinase (EC 2.7.1.45)	2.7.1.45	2-dehydro-3-deoxygluconokinase	00040	Pentose and glucuronate interconversions
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1969				4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1969				4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase	00040	Pentose and glucuronate interconversions
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1969				4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1969				4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	4.1.3.16	4-hydroxy-2-oxoglutarate aldolase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1969				4-hydroxy-2-oxoglutarate aldolase (EC 4.1.3.16) @ 2-dehydro-3-deoxyphosphogluconate aldolase (EC 4.1.2.14)	4.1.3.16	4-hydroxy-2-oxoglutarate aldolase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1972				"Dihydropyrimidinase "	3.5.2.2	Dihydropyrimidinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1972				"Dihydropyrimidinase "	3.5.2.2	Dihydropyrimidinase	00410	beta-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1972				"Dihydropyrimidinase "	3.5.2.2	Dihydropyrimidinase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1972				"Dihydropyrimidinase "	3.5.2.2	Dihydropyrimidinase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1974				"Beta-ureidopropionase "	3.5.1.6	Beta-ureidopropionase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1974				"Beta-ureidopropionase "	3.5.1.6	Beta-ureidopropionase	00410	beta-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1974				"Beta-ureidopropionase "	3.5.1.6	Beta-ureidopropionase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1974				"Beta-ureidopropionase "	3.5.1.6	Beta-ureidopropionase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1975				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1988				Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1988				Oxaloacetate decarboxylase alpha chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1995				"Thiamin pyrophosphokinase "	2.7.6.2	Thiamine diphosphokinase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1996				Thiaminase II (EC 3.5.99.2) involved in salvage of thiamin pyrimidine moiety	3.5.99.2	Aminopyrimidine aminohydrolase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1997				Hydroxymethylpyrimidine phosphate kinase ThiD (EC 2.7.4.7)	2.7.4.7	Phosphomethylpyrimidine kinase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.1999				Thiamin-phosphate pyrophosphorylase (EC 2.5.1.3)	2.5.1.3	Thiamine-phosphate diphosphorylase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2000				Hydroxyethylthiazole kinase (EC 2.7.1.50)	2.7.1.50	Hydroxyethylthiazole kinase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2053				"Deoxycytidine triphosphate deaminase "	3.5.4.13	dCTP deaminase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2087				Cysteine desulfurase (EC 2.8.1.7)	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2090				NAD-dependent glyceraldehyde-3-phosphate dehydrogenase (EC 1.2.1.12)	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2100				Pyruvate,phosphate dikinase (EC 2.7.9.1)	2.7.9.1	Pyruvate, phosphate dikinase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2100				Pyruvate,phosphate dikinase (EC 2.7.9.1)	2.7.9.1	Pyruvate, phosphate dikinase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2107				3-isopropylmalate dehydrogenase (EC 1.1.1.85)	1.1.1.85	3-isopropylmalate dehydrogenase	00290	Valine, leucine and isoleucine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2108				3-isopropylmalate dehydratase small subunit (EC 4.2.1.33)	4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2109				3-isopropylmalate dehydratase large subunit (EC 4.2.1.33)	4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2110				2-isopropylmalate synthase (EC 2.3.3.13)	2.3.3.13	2-isopropylmalate synthase	00290	Valine, leucine and isoleucine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2110				2-isopropylmalate synthase (EC 2.3.3.13)	2.3.3.13	2-isopropylmalate synthase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2114				Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	Hypoxanthine phosphoribosyltransferase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2114				Hypoxanthine-guanine phosphoribosyltransferase (EC 2.4.2.8)	2.4.2.8	Hypoxanthine phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2126				Alanyl-tRNA synthetase (EC 6.1.1.7)	6.1.1.7	Alanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2129				Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	3.6.1.17	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2129				Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical) (EC 3.6.1.17)	3.6.1.17	Bis(5'-nucleosyl)-tetraphosphatase (asymmetrical)	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2134				Glutaminyl-tRNA synthetase (EC 6.1.1.18)	6.1.1.18	Glutamine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2136				4-carboxymuconolactone decarboxylase (EC 4.1.1.44)	4.1.1.44	4-carboxymuconolactone decarboxylase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2142				Pyrroline-5-carboxylate reductase (EC 1.5.1.2)	1.5.1.2	Pyrroline-5-carboxylate reductase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2150				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2150				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2150				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00500	Starch and sucrose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2150				Glucose-6-phosphate isomerase (EC 5.3.1.9)	5.3.1.9	Glucose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2176				"D-alanyl-D-alanine carboxypeptidase "	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2187				UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2187				UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase (EC 6.3.2.10)	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2188				D-alanine--D-alanine ligase (EC 6.3.2.4)	6.3.2.4	D-alanine--D-alanine ligase	00473	D-Alanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2188				D-alanine--D-alanine ligase (EC 6.3.2.4)	6.3.2.4	D-alanine--D-alanine ligase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2194				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2194				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2194				"5'-nucleotidase YjjG "	3.1.3.5	5'-nucleotidase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2214				4-diphosphocytidyl-2-C-methyl-D-erythritol kinase (EC 2.7.1.148)	2.7.1.148	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2217				"Arylesterase precursor "	3.1.1.2	Arylesterase	00363	Bisphenol A degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2222				Periplasmic [Fe] hydrogenase large subunit (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2223				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2223				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2223				Formate dehydrogenase-O, major subunit (EC 1.2.1.2)	1.2.1.2	Formate dehydrogenase	00910	Nitrogen metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2234				S-adenosylmethionine synthetase (EC 2.5.1.6)	2.5.1.6	Methionine adenosyltransferase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2239				Aminoglycoside 9-nucleotidyltransferase (EC 2.7.7.-) => ANT(9)-I	2.7.7.-	Nucleotidyltransferases	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2239				Aminoglycoside 9-nucleotidyltransferase (EC 2.7.7.-) => ANT(9)-I	2.7.7.-	Nucleotidyltransferases	01053	Biosynthesis of siderophore group nonribosomal peptides
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2240				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2240				Uridine phosphorylase (EC 2.4.2.3)	2.4.2.3	Uridine phosphorylase	00983	Drug metabolism - other enzymes
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2251				Thymidylate kinase (EC 2.7.4.9)	2.7.4.9	dTMP kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2253				DNA polymerase IV (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2253				DNA polymerase IV (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2257				Uracil phosphoribosyltransferase (EC 2.4.2.9)	2.4.2.9	Uracil phosphoribosyltransferase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2264				Lysyl-tRNA synthetase (class II) (EC 6.1.1.6)	6.1.1.6	Lysine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2276				Phosphoglucosamine mutase (EC 5.4.2.10)	5.4.2.10	Phosphoglucosamine mutase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2289				UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2289				UDP-N-acetylglucosamine 1-carboxyvinyltransferase (EC 2.5.1.7)	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00550	Peptidoglycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2328				DNA polymerase I (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2328				DNA polymerase I (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2338				Formiminoglutamase (EC 3.5.3.8)	3.5.3.8	Formimidoylglutamase	00340	Histidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2343				FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.1.26	Riboflavin kinase	00740	Riboflavin metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2343				FMN adenylyltransferase (EC 2.7.7.2) / Riboflavin kinase (EC 2.7.1.26)	2.7.7.2	FAD synthetase	00740	Riboflavin metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2363				Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)	1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2373				Pantothenate kinase type II, eukaryotic (EC 2.7.1.33)	2.7.1.33	Pantothenate kinase	00770	Pantothenate and CoA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2379				Cysteine desulfurase (EC 2.8.1.7), associated with tRNA 4-thiouridine synthase	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2382				Cysteine desulfurase (EC 2.8.1.7), SufS subfamily	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2414				Nicotinate-nucleotide adenylyltransferase (EC 2.7.7.18)	2.7.7.18	Nicotinate-nucleotide adenylyltransferase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2417				Leucyl-tRNA synthetase (EC 6.1.1.4)	6.1.1.4	Leucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2421				Histidyl-tRNA synthetase (EC 6.1.1.21)	6.1.1.21	Histidine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2423				Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2423				Oxaloacetate decarboxylase beta chain (EC 4.1.1.3)	4.1.1.3	Oxaloacetate decarboxylase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2426				Isoleucyl-tRNA synthetase (EC 6.1.1.5)	6.1.1.5	Isoleucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2440				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2440				D-3-phosphoglycerate dehydrogenase (EC 1.1.1.95)	1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00062	Fatty acid elongation in mitochondria
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00071	Fatty acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00280	Valine, leucine and isoleucine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00281	Geraniol degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00592	alpha-Linolenic acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.16	Acetyl-CoA C-acyltransferase	00642	Ethylbenzene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00071	Fatty acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00072	Synthesis and degradation of ketone bodies
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00280	Valine, leucine and isoleucine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00310	Lysine degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00362	Benzoate degradation via hydroxylation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00380	Tryptophan metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00640	Propanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00650	Butanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2441				3-ketoacyl-CoA thiolase (EC 2.3.1.16) @ Acetyl-CoA acetyltransferase (EC 2.3.1.9)	2.3.1.9	Acetyl-CoA C-acetyltransferase	00900	Terpenoid backbone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2458				Ornithine carbamoyltransferase (EC 2.1.3.3)	2.1.3.3	Ornithine carbamoyltransferase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2459				Arginyl-tRNA synthetase (EC 6.1.1.19)	6.1.1.19	Arginine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2464				1,2-diacylglycerol 3-glucosyltransferase (EC 2.4.1.157); diglucosyldiacylglycerol synthase (LTA membrane anchor synthesis)	2.4.1.157	1,2-diacylglycerol 3-glucosyltransferase	00561	Glycerolipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2480				Cysteine desulfurase (EC 2.8.1.7)	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2490				Cysteine desulfurase (EC 2.8.1.7)	2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2507				Pseudouridine kinase (EC 2.7.1.83)	2.7.1.83	Pseudouridine kinase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2510				Xanthine dehydrogenase, molybdenum binding subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2511				Xanthine dehydrogenase iron-sulfur subunit (EC 1.17.1.4)	1.17.1.4	Xanthine dehydrogenase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2513				"L-sulfolactate dehydrogenase "	1.1.1.272	(R)-2-hydroxyacid dehydrogenase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2513				"L-sulfolactate dehydrogenase "	1.1.1.272	(R)-2-hydroxyacid dehydrogenase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2515				Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2515				Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2533				Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2533				Guanosine-3',5'-bis(diphosphate) 3'-pyrophosphohydrolase (EC 3.1.7.2) / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase II	3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2537				Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2537				Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2537				Purine nucleoside phosphorylase (EC 2.4.2.1) @ N-Ribosylnicotinamide phosphorylase (EC 2.4.2.1)	2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2539				Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2539				Nucleoside triphosphate pyrophosphohydrolase MazG (EC 3.6.1.8)	3.6.1.8	ATP diphosphatase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00071	Fatty acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00625	Tetrachloroethene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00626	Naphthalene and anthracene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00830	Retinol metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00980	Metabolism of xenobiotics by cytochrome P450
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2545				Alcohol dehydrogenase (EC 1.1.1.1)	1.1.1.1	Alcohol dehydrogenase	00982	Drug metabolism - cytochrome P450
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2546				CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2546				CDP-diacylglycerol--serine O-phosphatidyltransferase (EC 2.7.8.8)	2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00564	Glycerophospholipid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2551				Triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	Triose-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2551				Triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	Triose-phosphate isomerase	00051	Fructose and mannose metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2551				Triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	Triose-phosphate isomerase	00562	Inositol phosphate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2551				Triosephosphate isomerase (EC 5.3.1.1)	5.3.1.1	Triose-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2552				Phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	Phosphoglycerate kinase	00010	Glycolysis / Gluconeogenesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2552				Phosphoglycerate kinase (EC 2.7.2.3)	2.7.2.3	Phosphoglycerate kinase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2554				N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	2.3.1.157	Glucosamine-1-phosphate N-acetyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2554				N-acetylglucosamine-1-phosphate uridyltransferase (EC 2.7.7.23) / Glucosamine-1-phosphate N-acetyltransferase (EC 2.3.1.157)	2.7.7.23	UDP-N-acetylglucosamine diphosphorylase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2555				Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	2.7.6.1	Ribose-phosphate diphosphokinase	00030	Pentose phosphate pathway
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2555				Ribose-phosphate pyrophosphokinase (EC 2.7.6.1)	2.7.6.1	Ribose-phosphate diphosphokinase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2577				DNA polymerase III beta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2577				DNA polymerase III beta subunit (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2619				Aspartate aminotransferase (EC 2.6.1.1)	2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00231	Puromycin biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00592	alpha-Linolenic acid metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00633	Trinitrotoluene degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00780	Biotin metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00950	Isoquinoline alkaloid biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	00981	Insect hormone biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2644				tRNA dihydrouridine synthase B (EC 1.-.-.-)	1.-.-.-	Oxidoreductases	01057	Biosynthesis of type II polyketide products
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2649				Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	6.3.2.12	Dihydrofolate synthase	00790	Folate biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2649				Dihydrofolate synthase (EC 6.3.2.12) @ Folylpolyglutamate synthase (EC 6.3.2.17)	6.3.2.17	Tetrahydrofolate synthase	00790	Folate biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2651				Phosphate acetyltransferase (EC 2.3.1.8)	2.3.1.8	Phosphate acetyltransferase	00430	Taurine and hypotaurine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2651				Phosphate acetyltransferase (EC 2.3.1.8)	2.3.1.8	Phosphate acetyltransferase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2651				Phosphate acetyltransferase (EC 2.3.1.8)	2.3.1.8	Phosphate acetyltransferase	00640	Propanoate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2651				Phosphate acetyltransferase (EC 2.3.1.8)	2.3.1.8	Phosphate acetyltransferase	00680	Methane metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2651				Phosphate acetyltransferase (EC 2.3.1.8)	2.3.1.8	Phosphate acetyltransferase	00720	Reductive carboxylate cycle (CO2 fixation)
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2660				"Ornithine cyclodeaminase "	4.3.1.12	Ornithine cyclodeaminase	00330	Arginine and proline metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2685				DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2685				DNA polymerase III subunits gamma and tau (EC 2.7.7.7)	2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2688				Beta-hexosaminidase (EC 3.2.1.52)	3.2.1.52	Beta-N-acetylhexosaminidase	00513	High-mannose type N-glycan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2688				Beta-hexosaminidase (EC 3.2.1.52)	3.2.1.52	Beta-N-acetylhexosaminidase	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2688				Beta-hexosaminidase (EC 3.2.1.52)	3.2.1.52	Beta-N-acetylhexosaminidase	00531	Glycosaminoglycan degradation
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2688				Beta-hexosaminidase (EC 3.2.1.52)	3.2.1.52	Beta-N-acetylhexosaminidase	00603	Glycosphingolipid biosynthesis - globo series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2688				Beta-hexosaminidase (EC 3.2.1.52)	3.2.1.52	Beta-N-acetylhexosaminidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2693				Glycyl-tRNA synthetase (EC 6.1.1.14)	6.1.1.14	Glycine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2703				UDP-N-acetylglucosamine 2-epimerase (EC 5.1.3.14)	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2705				Tryptophanyl-tRNA synthetase (EC 6.1.1.2)	6.1.1.2	Tryptophan--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2706				Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	6.1.1.17	Glutamate--tRNA ligase	00860	Porphyrin and chlorophyll metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2706				Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	6.1.1.17	Glutamate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2706				Glutamyl-tRNA synthetase (EC 6.1.1.17) @ Glutamyl-tRNA(Gln) synthetase (EC 6.1.1.24)	6.1.1.24	Glutamate--tRNA(Gln) ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2711				Anthranilate synthase, aminase component (EC 4.1.3.27)	4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2712				Anthranilate synthase, amidotransferase component (EC 4.1.3.27)	4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2713				Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	Anthranilate phosphoribosyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2714				Anthranilate phosphoribosyltransferase (EC 2.4.2.18)	2.4.2.18	Anthranilate phosphoribosyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2715				Indole-3-glycerol phosphate synthase (EC 4.1.1.48)	4.1.1.48	Indole-3-glycerol-phosphate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2716				Phosphoribosylanthranilate isomerase (EC 5.3.1.24)	5.3.1.24	Phosphoribosylanthranilate isomerase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2717				Tryptophan synthase beta chain (EC 4.2.1.20)	4.2.1.20	Tryptophan synthase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2717				Tryptophan synthase beta chain (EC 4.2.1.20)	4.2.1.20	Tryptophan synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2718				Tryptophan synthase alpha chain (EC 4.2.1.20)	4.2.1.20	Tryptophan synthase	00260	Glycine, serine and threonine metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2718				Tryptophan synthase alpha chain (EC 4.2.1.20)	4.2.1.20	Tryptophan synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2779				Seryl-tRNA synthetase (EC 6.1.1.11)	6.1.1.11	Serine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2784				Methylglyoxal synthase (EC 4.2.3.3)	4.2.3.3	Methylglyoxal synthase	00620	Pyruvate metabolism
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2785				Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)	6.1.1.12	Aspartate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1519439.3	Oscillibacter sp. ER4	fig|1519439.3.peg.2785				Aspartyl-tRNA synthetase (EC 6.1.1.12) @ Aspartyl-tRNA(Asn) synthetase (EC 6.1.1.23)	6.1.1.23	Aspartate--tRNA(Asn) ligase	00970	Aminoacyl-tRNA biosynthesis

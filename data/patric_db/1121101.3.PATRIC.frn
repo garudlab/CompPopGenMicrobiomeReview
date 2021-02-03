@@ -1,0 +1,517 @@
+>fig|1121101.3.rna.1   tRNA-Ser-GCT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggaagtttgggtgagtggctgaaaccaccagtttgctaaactgacgtacgggtaaccgta
+ccgggggttcgaatcccccagcttccg
+>fig|1121101.3.rna.2   tRNA-Glu-CTC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtgggttcgtctaacggttaggacacatgcctctcacgcatgtaatacgagttcgattc
+tcgtacccacta
+>fig|1121101.3.rna.3|HMPREF1532_00184   tRNA-Thr-CGT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gccgctatagctcagttggtagagcaacgcattcgtaacgcgtaggtcgccagttcaagt
+ctggctagcggct
+>fig|1121101.3.rna.4   tRNA-Ser-TGA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggagaggtggcagagtggtcgattgcggcggtcttgaaaaccgttgtactgcgaggtacc
+cggggttcgaatccctgtctctccg
+>fig|1121101.3.rna.5   tRNA-Ser-GGA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggagaggtgctcgagtggttgaagaggcacgcctggaaagcgtgtatacccctaaagggt
+atcacgagttcgaatctcgttctctccg
+>fig|1121101.3.rna.6   tRNA-Ser-TGA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggagaggtggcagagtggtcgattgcggcggtcttgaaaaccgttgtactgcgaggtacc
+cggggttcgaatccctgtctctccg
+>fig|1121101.3.rna.7   tRNA-Thr-TGT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggct
+>fig|1121101.3.rna.8   tRNA-Trp-CCA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acgggagtagctcagttggtagagcaccggtctccaaaaccgggtgtcgggagttcgagc
+ctctcctcccgtg
+>fig|1121101.3.rna.9   tRNA-Tyr-GTA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggcaaataccagagtggccaaatggggcagactgtaaatctgctgtctttcgacttcgg
+tggttcgaatccatctttgccca
+>fig|1121101.3.rna.10|HMPREF1532_00880   tRNA-Gly-TCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaagtagctcagttgatagagcattagccttccaagctgagggtcgcgggtttgagc
+cccgtcttccgct
+>fig|1121101.3.rna.11   tRNA-Gln-CTG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tgggctatggtgtaatggtaacactacagattctggtcctgtcatttctggttcgagtcc
+agatagcccaa
+>fig|1121101.3.rna.12   tRNA-Pro-GGG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+cgggatgtagctcagcccggtagagtacgcgtctggggggcgtgtggtcgcaagttcgaa
+tcttgtcatcccga
+>fig|1121101.3.rna.13|HMPREF1532_01192   tRNA-Lys-TTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gattcgctagctcagcaggtagagcacaacacttttaatgttggggtcctgggttcgagc
+cccaggcggatca
+>fig|1121101.3.rna.14   tRNA-Met-CAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggcgggatagctcagctggttagagcgcatgattcataatcatgaggtccccggttcaat
+cccgggtcccgcta
+>fig|1121101.3.rna.15|HMPREF1532_01342   tRNA-Phe-GAA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtgccatagctcagttggtagagcaaaggactgaaaatccttgtgtccccggttcgatt
+cctggtggcacca
+>fig|1121101.3.rna.16|HMPREF1532_01343   tRNA-Pro-CGG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+cggaatgtagcgcagttggtagcgcactacgttcgggacgtaggggtcgggcgttcgagt
+cgcctcattccga
+>fig|1121101.3.rna.17   tRNA-Leu-TAA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gctcgaatggtggaatggtagacacgaaggacttaaaatcctttggccattgcggctgtg
+cgggttcaagtcccgcttcgagta
+>fig|1121101.3.rna.18|HMPREF1532_01410   tRNA-Gly-GCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|1121101.3.rna.19   tRNA-Leu-TAG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggatgtggcgtaattggtagccgcgccagacttaggatctggtgtcttgcgacgtgta
+ggttcgagtcctatcatccgca
+>fig|1121101.3.rna.20   tRNA-Glu-TTC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggcccgttcgtctatcggttaggacgcaagattttcattcttgaaaggggggttcgattc
+ccccacgggcta
+>fig|1121101.3.rna.21   tRNA-Gln-TTG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tgtcctatggtgtaatggtagcacaacagtttttggttctgtttgtctaagttcgaatct
+tggtaggacaa
+>fig|1121101.3.rna.22   tRNA-Met-CAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggacttgtagctcagttggttagagcaacagactcataatctggaggtccctggttcaag
+cccaggctggtcca
+>fig|1121101.3.rna.23|HMPREF1532_02091   tRNA-Arg-CCT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtcctgtagttcaacggatagaatagaagtttcctaaactttagataggggttcgattc
+ccctcgggacta
+>fig|1121101.3.rna.24   tRNA-Asn-GTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcttccttagctcagtcggttagagcatctgactgttaatcagagggtccttggttcaag
+tccaagaggaagag
+>fig|1121101.3.rna.25   tRNA-Asn-GTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcttccttagctcagtcggttagagcatctgactgttaatcagagggtccttggttcaag
+tccaagaggaagag
+>fig|1121101.3.rna.26   tRNA-Leu-CAA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcccagatggcggaatcggtagacgcgctggtctcaaacaccagtggattcacttccatc
+ccggttcgaccccgggtctgggta
+>fig|1121101.3.rna.27   tRNA-Thr-TGT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggct
+>fig|1121101.3.rna.28   tRNA-Tyr-GTA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggcaaataccagagtggccaaatggggcagactgtaaatctgctggcttacgccttcgg
+tggttcgaatccatctttgccca
+>fig|1121101.3.rna.29|HMPREF1532_02261   tRNA-Gly-TCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaagtagctcagttgatagagcattagccttccaagctgagggtcgcgggtttgagc
+cccgtcttccgct
+>fig|1121101.3.rna.30|HMPREF1532_02262   tRNA-Thr-GGT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gctgttatagctcagtggtagagcacttccttggtaaggaagaggtcccgggttcaaatc
+ccggtaacagct
+>fig|1121101.3.rna.31   tRNA-Trp-CCA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acgggagtagctcagttggtagagcaccggtctccaaaaccgggtgtcgggagttcgagc
+ctctcctcccgtg
+>fig|1121101.3.rna.32   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacac
+atgcaagtcgaggggcatcagggtgtagcaatacaccgctggcgaccggcgcacgggtga
+gtaacacgtatccaacctgccctttactcggggatagcctttcgaaagaaagattaatac
+ccgatggtataacatgacctcctggttttgttattaaagaatttcggtagaggatgggga
+tgcgttccattaggcagttggcggggtaacggcccaccaaaccttcgatggataggggtt
+ctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggaggcag
+cagtgaggaatattggtcaatgggcgagagcctgaaccagccaagtagcgtgaaggatga
+ccgccctatgggttgtaaacttcttttatatgggaataaagggtgccacgtgtggcattt
+tgtatgtaccatatgaataaggatcggctaactccgtgccagcagccgcggtaatacgga
+ggatccgagcgttatccggatttattgggtttaaagggagcgtaggtggacatgtaagtc
+agttgtgaaagtttgcggctcaaccgtaaaattgcagttgatactgcgtgtcttgagtac
+agtagaggtgggcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaactc
+cgattgcgaaggcagctcactggactgcaactgacactgatgctcgaaagtgtgggtatc
+aaacaggattagataccctggtagtccacacagtaaacgatgaatactcgctgtttgcga
+tatacagtaagcggccaagcgaaagcattaagtattccacctggggagtacgccggcaac
+ggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttaattc
+gatgatacgcgaggaaccttacccgggcttaaattgcaaatgaatatgccggaaacggca
+tagccgcaaggcatttgtgaaggtgctgcatggttgtcgtcagctcgtgccgtgaggtgt
+cggcttaagtgccataacgagcgcaacccttatcttcagttactaacaggttatgctgag
+gactctggagagactgccgtcgtaagatgtgaggaaggtggggatgacgtcaaatcagca
+cggcccttacgtccggggctacacacgtgttacaatggggggtacagaaggccgctacac
+agcgatgtgatgccaatccctaaagcccctctcagttcggatcgaagtctgcaacccgac
+ttcgtgaagctggattcgctagtaatcgcgcatcagccacggcgcggtgaatacgttccc
+gggccttgtacacaccgcccgtcaagccatgggagccgggggtacctgaagtacgtaacc
+gcaaggagcgtcctagggtaaaactggtgactggggctaagtcgtaacaaggtagccgta
+ccggaaggtgcggctggaacacctcctttct
+>fig|1121101.3.rna.33|HMPREF1532_02351   tRNA-Ile-GAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+agtcctatagctcagttggttagagcgctacactgataatgtagaggtcggcagttcaac
+tctgcctgggacta
+>fig|1121101.3.rna.34|HMPREF1532_02352   tRNA-Ala-TGC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggggattagctcagctggctagagcatctgccttgcacgcagagggtcaacggttcgaa
+tccgttattctcca
+>fig|1121101.3.rna.35|HMPREF1532_02353   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+aagaaagtaagaaagggcgcatggcggatgccttggctctcggaggcgatgaaggacgtg
+ataagctgcgataagctgcgggtaggtgcaaataacctttgatccgcggatttccgaatg
+ggacaacccaaccggttgaagaccggttatctatccaatgatagaggctaacgcagggaa
+ctgaaacatcttagtacctgcaggaaaagaaaataaacaatgattcccctagtagtggcg
+agcgaacggggattagcccaaaccatggatgtcacggcatccatggggttgtaggaccac
+gatgtcgcacgacatctgacgagtagaacgatctggaaagttcgaccatagacggtgata
+gtccggtacacgaagtcagacgaagcgtagtggtatcctgagtagcgcggagcacgagga
+attctgcgtgaaccagccgggaccatccggtaaggctaaatactcccgagagaccgatag
+cgaaccagtactgtgaaggaaaggtgaaaagcacttcgaatagaagagtgaaatagtccc
+tgaaaccgtgcgcctacaagcggtcggagctgttttaaacagtgacggcgtgccttttgc
+ataatgaacctacgagttacttttactggcaaggttaagcatcttgagatgtgtatccga
+agcgaaagcgagtctgaacagggcgtatagtcagtaggagtagacgcgaaaccaagtgat
+ctacccttgggcaggttgaaggttaggtaacactaactggaggaccgaaccgataagcgt
+tgaaaagcttccggatgacctgagggtgggggtgaaaggctaatcaaacttggagatagc
+tcgtactccccgaaatgcatttaggtgcagccttgtgagttactaatgtgaggtagagcg
+actgataagatgcgagggcttcgccgcctatcaagtcttgataaactccgaatgcgcatt
+agtcctatcacaggagtgagggcatgggtgctaaggtccatgtccgaaaggagaagaatc
+cagaccatcagctaaggtccccaaataaatgctaagttgaactaacgaagtcagattgct
+aagacagctaggatgttggcttggaagcagccattcatttaaagagtgcgtaacagctca
+ctagtcgaggagtttggcgtggataataatcgggcatcaagcattttaccgaagctatgg
+gatacgtaagtatcggtaggggagcattccactcggcgtcgaaggtgaagcgcgagcttt
+gctggagcgtgtggaaaagcaaatgtaggtataagtaacgataaagggggtgggaaaccc
+cctcgccgaaagactaaggtttcctgatcaacgctaatcggatcagggttagtcgggtcc
+taaggctcagccgaacggtgatgccgatggcagaacaggttaatattcctgtactacctt
+aaggagtgacgtggagacggagtcgtgacagcgccgcggactgacggaatagtccgttga
+agggtgtagatgttgattgcggcaggcaaatccaccgcaagagtcgaacctgatagtatg
+gagcgttcttctgaacaatccaatagtgcgtgtaagcatactcccaagaaaatccgctaa
+acttaatccttgaggtacccgtaccgtaaacggacacacgtagtcgggttgaatatacta
+aggcgcttgagtgattcacggttaaggaactaggcaaattgaccctgtaacttcgggata
+aagggtccctgctgagaggtagggcgcagagaataggtccaggcaactgtttaacaaaaa
+cacagggctgtgcaaaattgaaagatcacgtatacagcctgacacctgcccggtgctgga
+aggttaagaggagatgtcatcgcaagagaagcattgaattgaagccccagtaaacggcgg
+ccgtaactataacggtcctaaggtagcgaaattccttgtcgggtaagttccgacctgcac
+gaatggtgtaatgatctggacactgtctcaaccgtgagctcagtgaaattgtagtatcgg
+tgaagatgccgattacccgcgatgggacgaaaagaccccgtgaacctttactatagctta
+acattgaatttgggtaattgatgtgtaggataggccggagactttgaagcgggtacgcca
+gtatctgtggagtcgctgttgaaatacggccctttgattatttgagttctaactcgttgt
+tacgaggacactgtttggtgggtagtttgactggggtggtcgcctccaaaagtgtaacgg
+aggcttctaaaggtgccctcaggacgattggtaaccgtccgcagagtgtaatggcataag
+ggcgcttgactgggagactcacaagtcgatcaggtaggaaactagagcatagtgatccgg
+tgtttccgcatggaagggacatcgctcaaaggataaaaggtactccggggataacaggct
+gatccctcccaagagctcatatcgacggaggggtttggcacctcgatgtcggctcgtcac
+atcctggggctggagaaggtcccaaggg
+>fig|1121101.3.rna.36|HMPREF1532_02620   tRNA-Ala-GGC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggggggttagctcatctggctagagcgcgacactggcagtgtcgaggtgatcggttcgag
+tccgatactctcca
+>fig|1121101.3.rna.37   tRNA-His-GTG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gtggatgtagttcagttggttagagcgtcagattgtggttctgaatgtcgccggttcgag
+tccggtcttccacc
+>fig|1121101.3.rna.38   tRNA-Cys-GCA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggttccttggatgagtggcttagtcagtggtctgcaaaaccatgtacggcggttcgaatc
+cgccaggaacct
+>fig|1121101.3.rna.39|HMPREF1532_02691   tRNA-Thr-TGT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcctctttagctcagttggccagagcacgtgatttgtaatctcggggtcgttggttcgaa
+tccgacaagaggct
+>fig|1121101.3.rna.40   tRNA-Asp-GTC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtgcgttagttcagttggttagaatacatgcctgtcacgcatggggtcacgggttcgag
+tcccgtacgcaccg
+>fig|1121101.3.rna.41|HMPREF1532_02953   tRNA-Asp-GTC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtgcgttagttcagttggttagaatacatgcctgtcacgcatggggtcacgggttcgag
+tcccgtacgcaccg
+>fig|1121101.3.rna.42   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacac
+atgcaagtcgaggggcatcagggtgtagcaatacaccgctggcgaccggcgcacgggtga
+gtaacacgtatccaacctgccctttactcggggatagcctttcgaaagaaagattaatac
+ccgatggtataacatgacctcctggttttgttattaaagaatttcggtagaggatgggga
+tgcgttccattaggcagttggcggggtaacggcccaccaaaccttcgatggataggggtt
+ctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggaggcag
+cagtgaggaatattggtcaatgggcgagagcctgaaccagccaagtagcgtgaaggatga
+ccgccctatgggttgtaaacttcttttatatgggaataaagggtgccacgtgtggcattt
+tgtatgtaccatatgaataaggatcggctaactccgtgccagcagccgcggtaatacgga
+ggatccgagcgttatccggatttattgggtttaaagggagcgtaggtggacatgtaagtc
+agttgtgaaagtttgcggctcaaccgtaaaattgcagttgatactgcgtgtcttgagtac
+agtagaggtgggcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaactc
+cgattgcgaaggcagctcactggactgcaactgacactgatgctcgaaagtgtgggtatc
+aaacaggattagataccctggtagtccacacagtaaacgatgaatactcgctgtttgcga
+tatacagtaagcggccaagcgaaagcattaagtattccacctggggagtacgccggcaac
+ggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttaattc
+gatgatacgcgaggaaccttacccgggcttaaattgcaaatgaatatgccggaaacggca
+tagccgcaaggcatttgtgaaggtgctgcatggttgtcgtcagctcgtgccgtgaggtgt
+cggcttaagtgccataacgagcgcaacccttatcttcagttactaacaggttatgctgag
+gactctggagagactgccgtcgtaagatgtgaggaaggtggggatgacgtcaaatcagca
+cggcccttacgtccggggctacacacgtgttacaatggggggtacagaaggccgctacac
+agcgatgtgatgccaatccctaaagcccctctcagttcggatcgaagtctgcaacccgac
+ttcgtgaagctggattcgctagtaatcgcgcatcagccacggcgcggtgaatacgttccc
+gggccttgtacacaccgcccgtcaagccatgggagccgggggtacctgaagtacgtaacc
+gcaaggagcgtcctagggtaaaactggtgactggggctaagtcgtaacaaggtagccgta
+ccggaaggtgcggctggaacacctcctttct
+>fig|1121101.3.rna.43|HMPREF1532_03065   tRNA-Ile-GAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+agtcctatagctcagttggttagagcgctacactgataatgtagaggtcggcagttcaac
+tctgcctgggacta
+>fig|1121101.3.rna.44|HMPREF1532_03066   tRNA-Ala-TGC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggggattagctcagctggctagagcatctgccttgcacgcagagggtcaacggttcgaa
+tccgttattctcca
+>fig|1121101.3.rna.45   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+aagaaagtaagaaagggcgcatggcggatgccttggctctcggaggcgatgaaggacgtg
+ataagctgcgataagctgcgggtaggtgcaaataacctttgatccgcggatttccgaatg
+ggacaacccaaccggttgaagaccggttatctatccaatgatagaggctaacgcagggaa
+ctgaaacatcttagtacctgcaggaaaagaaaataaacaatgattcccctagtagtggcg
+agcgaacggggattagcccaaaccatggatgtcacggcatccatggggttgtaggaccac
+gatgtcgcacgacatctgacgagtagaacgatctggaaagttcgaccatagacggtgata
+gtccggtacacgaagtcagacgaagcgtagtggtatcctgagtagcgcggagcacgagga
+attctgcgtgacccagccgggaccatccggtaaggctaaatactcccgagagaccgatag
+cgaaccagtactgtgaaggaaaggtgaaaagcacttcgaatagaagagtgaaatagtccc
+tgaaaccgtgcgcctacaagcggtcggagctgttttaaacagtgacggcgtgccttttgc
+ataatgaacctacgagttacttttactggcaaggttaagcatcttgagatgtgtatccga
+agcgaaagcgagtctgaacagggcgtatagtcagtaggagtagacgcgaaaccaagtgat
+ctacccttgggcaggttgaaggttaggtaacactaactggaggaccgaaccgataagcgt
+tgaaaagcttccggatgacctgagggtgggggtgaaaggctaatcaaacttggagatagc
+tcgtactccccgaaatgcatttaggtgcagccttgtgagttactaatgtgaggtagagcg
+actgataagatgcgagggcttcgccgcctatcaagtcttgataaactccgaatgcgcatt
+agtcctatcacaggagtgagggcatgggtgctaaggtccatgtccgaaaggagaagaatc
+cagaccatcagctaaggtccccaaataaatgctaagttgaactaacgaagtcagattgct
+aagacagctaggatgttggcttggaagcagccattcatttaaagagtgcgtaacagctca
+ctagtcgaggagtttggcgtggataataatcgggcatcaagcattttaccgaagctatgg
+gatacgtaagtatcggtaggggagcattccactcggcgtcgaaggtgaagcgcgagcttt
+gctggagcgtgtggaaaagcaaatgtaggtataagtaacgataaagggggtgggaaaccc
+cctcgccgaaagactaaggtttcctgatcaacgctaatcggatcagggttagtcgggtcc
+taaggctcagccgaacggtgatgccgatggcagaacaggttaatattcctgtactacctt
+aaggagtgacgtggagacggagtcgtgacagcgccgcggactgacggaatagtccgttga
+agggtgtagatgttgattgcggcaggcaaatccaccgcaagagtcgaacctgatagtatg
+gagcgttcttctgaacaatccaatagtgcgtgtaagcatactcccaagaaaatccgctaa
+acttaatccttgaggtacccgtaccgtaaacggacacacgtagtcgggttgaatatacta
+aggcgcttgagtgattcacggttaaggaactaggcaaattgaccctgtaacttcgggata
+aagggtccctgctgagaggtagggcgcagagaataggtccaggcaactgtttaacaaaaa
+cacagggctgtgcaaaattgaaagatcacgtatacagcctgacacctgcccggtgctgga
+aggttaagaggagatgtcatcgcaagagaagcattgaattgaagccccagtaaacggcgg
+ccgtaactataacggtcctaaggtagcgaaattccttgtcgggtaagttccgacctgcac
+gaatggtgtaatgatctggacactgtctcaaccgtgagctcagtgaaattgtagtatcgg
+tgaagatgccgattacccgcgatgggacgaaaagaccccgtgaacctttactatagctta
+acattgaatttgggtaattgatgtgtaggataggccggagactttgaagcgggtacgcca
+gtatctgtggagtcgctgttgaaatacggccctttgattatttgagttctaactcgttgt
+tacgaggacactgtttggtgggtagtttgactggggtggtcgcctccaaaagtgtaacgg
+aggcttctaaaggtgccctcaggacgattggtaaccgtccgcagagtgtaatggcataag
+ggcgcttgactgggagactcacaagtcgatcaggtaggaaactagagcatagtgatccgg
+tgtttccgcatggaagggacatcgctcaaaggataaaaggtactccggggataacaggct
+gatccctcccaagagctcatatcgacggaggggtttggcacctcgatgtcggctcgtcac
+atcctggggctggagaaggtcccaagggttgggctgttcgcccattaaagtggcacgcga
+gctgggttcagaacgtcgtgagacagttcggtctctatctatcgtgggcgtatgaaattt
+gcgtggctctgacactagtacgagaggaccgtgttggactgacctctggtttaccggttg
+tgccgccaggtgcattgccgggtatctaagtcgggattggataagtgctgaaagcatcta
+agtacgaagccagccacaagattagatttctcagggtcgtcagagacgatgacgttgata
+ggaggcaggtgtaaaggtagtaatatcaaagccgagccttactaattgcccgttgacttt
+ctttttg
+>fig|1121101.3.rna.46   5S RNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcaggtgactatagcaccggggttccacctcttcccattccgaacagagaagttaagccc
+ggtcacgccgatggtactgcgtaacagtgggagagtaggtagtcgccgtt
+>fig|1121101.3.rna.47|HMPREF1532_03212   tRNA-Gly-GCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|1121101.3.rna.48   tRNA-Leu-CAG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcccaggtggcggaattggtagacgcgcacgtttcaggtgcgtgtgtcgagaggcatgca
+ggttcgagtcctgttctgggca
+>fig|1121101.3.rna.49|HMPREF1532_03214   tRNA-Pseudo-GAG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggagaggtggcggaattggtagacgcgctactttgagggggtagtgacagttatgtcgtg
+ggagttcgagtctccttctcttca
+>fig|1121101.3.rna.50|HMPREF1532_03215   tRNA-Gly-GCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|1121101.3.rna.51|HMPREF1532_03216   tRNA-Leu-CAG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcccaggtggcggaattggtagacgcgcacgtttcaggtgcgtgtgtcgagaggcatgca
+ggttcgagtcctgttctgggca
+>fig|1121101.3.rna.52   tRNA-Gly-GCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggaaatagctcagttggtagagcataaccttgccaaggttagggtcgcgagttcgagt
+ctcgttttccgct
+>fig|1121101.3.rna.53   tRNA-Gly-CCC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcggcagtagctcagttggtagagcatcagcttcccaagctgagggtcacgagttcgagt
+ctcgcttgccgct
+>fig|1121101.3.rna.54   tRNA-Arg-ACG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtcgcgtagctcaactgaatagagtagctgactacggatcagccggttacaggtttgaa
+tcctgtcgcgatca
+>fig|1121101.3.rna.55|HMPREF1532_03315   tRNA-Pro-TGG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+cggggtgtagcgcagtccggttagcgcacctgctttgggagcagggggtcgtgggttcga
+atcccgctaccccga
+>fig|1121101.3.rna.56   tRNA-Pro-TGG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+cggggtgtagcgcagtccggttagcgcacctgctttgggagcagggggtcgtgggttcga
+atcccgctaccccga
+>fig|1121101.3.rna.57|HMPREF1532_03346   tRNA-Lys-CTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcactcttagctcagttggtagagcaactgactcttaatcagtgggtccagggttcgaat
+ccctgagggtgta
+>fig|1121101.3.rna.58   tRNA-Lys-CTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gcactcttagctcagttggtagagcaactgactcttaatcagtgggtccagggttcgaat
+ccctgagggtgta
+>fig|1121101.3.rna.59   tRNA-Arg-TCT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggttccgtagctcagctggatagagcaacgcccttctaaggcgtgggtcaagcgttcgaa
+tcgcttcggaatca
+>fig|1121101.3.rna.60|HMPREF1532_03443   tRNA-Asp-GTC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggttcggtagttcagttggttagaatacatgcctgtcacgcatggggtcgcgggttcgag
+tcccgtccggaccg
+>fig|1121101.3.rna.61|HMPREF1532_03517   tRNA-Lys-TTT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gattcgctagctcagcaggtagagcacaacacttttaatgttggggtcctgggttcgagc
+cccaggcggatca
+>fig|1121101.3.rna.62   tRNA-Arg-CCT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggcagttagttcagctggtagaacaaactaaactcctataatggagaggttatggtccg
+cggttcgaatccgcgactgccca
+>fig|1121101.3.rna.63   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+aagaaagtaagaaagggcgcatggcggatgccttggctctcggaggcgatgaaggacgtg
+ataagctgcgataagctgcgggtaggtgcaaataacctttgatccgcggatttccgaatg
+ggacaacccaaccggttgaagaccggttatctatccaatgatagaggctaacgcagggaa
+ctgaaacatcttagtacctgcaggaaaagaaaataaacaatgattcccctagtagtggcg
+agcgaacggggattagcccaaaccatggatgtcacggcatccatggggttgtaggaccac
+gatgtcgcacgacatctgacgagtagaacgatctggaaagttcgaccatagacggtgata
+gtccggtacacgaagtcagacgaagcgtagtggtatcctgagtagcgcggagcacgagga
+attctgcgtgacccagccgggaccatccggtaaggctaaatactcccgagagaccgatag
+cgaaccagtactgtgaaggaaaggtgaaaagcacttcgaatagaagagtgaaatagtccc
+tgaaaccgtgcgcctacaagcggtcggagctgttttaaacagtgacggcgtgccttttgc
+ataatgaacctacgagttacttttactggcaaggttaagcatcttgagatgtgtatccga
+agcgaaagcgagtctgaacagggcgtatagtcagtaggagtagacgcgaaaccaagtgat
+ctacccttgggcaggttgaaggttaggtaacactaactggaggaccgaaccgataagcgt
+tgaaaagcttccggatgacctgagggtgggggtgaaaggctaatcaaacttggagatagc
+tcgtactccccgaaatgcatttaggtgcagccttgtgagttactaatgtgaggtagagcg
+actgataagatgcgagggcttcgccgcctatcaagtcttgataaactccgaatgcgcatt
+agtcctatcacaggagtgagggcatgggtgctaaggtccatgtccgaaaggagaagaatc
+cagaccatcagctaaggtccccaaataaatgctaagttgaactaacgaagtcagattgct
+aagacagctaggatgttggcttggaagcagccattcatttaaagagtgcgtaacagctca
+ctagtcgaggagtttggcgtggataataatcgggcatcaagcattttaccgaagctatgg
+gatacgtaagtatcggtaggggagcattccactcggcgtcgaaggtgaagcgcgagcttt
+gctggagcgtgtggaaaagcaaatgtaggtataagtaacgataaaggggg
+>fig|1121101.3.rna.64|HMPREF1532_03718   tRNA-Ala-TGC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggggattagctcagctggctagagcatctgccttgcacgcagagggtcaacggttcgaa
+tccgttattctcca
+>fig|1121101.3.rna.65|HMPREF1532_03719   tRNA-Ile-GAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+agtcctatagctcagttggttagagcgctacactgataatgtagaggtcggcagttcaac
+tctgcctgggacta
+>fig|1121101.3.rna.66   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacac
+atgcaagtcgaggggcatcagggtgtagcaatacaccgctggcgaccggcgcacgggtga
+gtaacacgtatccaacctgccctttactcggggatagcctttcgaaagaaagattaatac
+ccgatggtataacatgacctcctggttttgttattaaagaatttcggtagaggatgggga
+tgcgttccattaggcagttggcggggtaacggcccaccaaaccttcgatggataggggtt
+ctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggaggcag
+cagtgaggaatattggtcaatgggcgagagcctgaaccagccaagtagcgtgaaggatga
+ccgccctatgggttgtaaacttcttttatatgggaataaagggtgccacgtgtggcattt
+tgtatgtaccatatgaataaggatcggctaactccgtgccagcagccgcggtaatacgga
+ggatccgagcgttatccggatttattgggtttaaagggagcgtaggtggacatgtaagtc
+agttgtgaaagtttgcggctcaaccgtaaaattgcagttgatactgcgtgtcttgagtac
+agtagaggtgggcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaactc
+cgattgcgaaggcagctcactggactgcaactgacactgatgctcgaaagtgtgggtatc
+aaacaggattagataccctggtagtccacacagtaaacgatgaatactcgctgtttgcga
+tatacagtaagcggccaagcgaaagcattaagtattccacctggggagtacgccggcaac
+ggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttaattc
+gatgatacgcgaggaaccttacccgggcttaaattgcaaatgaatatgccggaaacggca
+tagccgcaaggcatttgtgaaggtgctgcatggttgtcgtcagctcgtgccgtgaggtgt
+cggcttaagtgccataacgagcgcaacccttatcttcagttactaacaggttatgctgag
+gactctggagagactgccgtcgtaagatgtgaggaaggtggggatgacgtcaaatcagca
+cggcccttacgtccggggctacacacgtgttacaatggggggtacagaaggccgctacac
+agcgatgtgatgccaatccctaaagcccctctcagttcggatcgaagtctgcaacccgac
+ttcgtgaagctggattcgctagtaatcgcgcatcagccacggcgcggtgaatacgttccc
+gggccttgtacacaccgcccgtcaagccatgggagccgggggtacctgaagtacgtaacc
+gcaaggagcgtcctagggtaaaactggtgactggggctaagtcgtaacaaggtagccgta
+ccggaaggtgcggctggaacacctcctttct
+>fig|1121101.3.rna.67|HMPREF1532_03816   tRNA-Ser-GGA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggagagatgctcgagtggttgaagaggcacgcctggaaagcgtgtatacgccaaaagtgt
+atcgcgggttcgaatcccgctctctccg
+>fig|1121101.3.rna.68|HMPREF1532_03866   tRNA-Arg-CCG   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggccctgtagttcaacgaatagaatgtaggtttccggtacctaagataagggtttgattc
+ccttcggggcta
+>fig|1121101.3.rna.69   5S RNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcaggtgactatagcaccggggttccacctcttcccattccgaacagagaagttaagccc
+ggtcacgccgatggtactgcgtaacagtgggagagtaggtagtcgccgtt
+>fig|1121101.3.rna.70   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ccccctcgccgaaagactaaggtttcctgatcaacgctaatcggatcagggttagtcggg
+tcctaaggctcagccgaacggtgatgccgatggcagaacaggttaatattcctgtactac
+cttaaggagtgacgtggagacggagtcgtgacagcgccgcggactgacggaatagtccgt
+tgaagggtgtagatgttgattgcggcaggcaaatccaccgcaagagtcgaacctgatagt
+atggagcgttcttctgaacaatccaatagtgcgtgtaagcatactcccaagaaaatccgc
+taaacttaatccttgaggtacccgtaccgtaaacggacacacgtagtcgggttgaatata
+ctaaggcgcttgagtgattcacggttaaggaactaggcaaattgaccctgtaacttcggg
+ataaagggtccctgctgagaggtagggcgcagagaataggtccaggcaactgtttaacaa
+aaacacagggctgtgcaaaattgaaagatcacgtatacagcctgacacctgcccggtgct
+ggaaggttaagaggagatgtcatcgcaagagaagcattgaattgaagccccagtaaacgg
+cggccgtaactataacggtcctaaggtagcgaaattccttgtcgggtaagttccgacctg
+cacgaatggtgtaatgatctggacactgtctcaaccgtgagctcagtgaaattgtagtat
+cggtgaagatgccgattacccgcgatgggacgaaaagaccccgtgaacctttactatagc
+ttaacattgaatttgggtaattgatgtgtaggataggccggagactttgaagcgggtacg
+ccagtatctgtggagtcgctgttgaaatacggccctttgattatttgagttctaactcgt
+tgttacgaggacactgtttggtgggtagtttgactggggtggtcgcctccaaaagtgtaa
+cggaggcttctaaaggtgccctcaggacgattggtaaccgtccgcagagtgtaatggcat
+aagggcgcttgactgggagactcacaagtcgatcaggtaggaaactagagcatagtgatc
+cggtgtttccgcatggaagggacatcgctcaaaggataaaaggtactccggggataacag
+gctgatccctcccaagagctcatatcgacggaggggtttggcacctcgatgtcggctcgt
+cacatcctggggctggagaaggtcccaagggttgggctgttcgcccattaaagtggcacg
+cgagctgggttcagaacgtcgtgagacagttcggtctctatctatcgtgggcgtatgaaa
+tttgcgtggctctgacactagtacgagaggaccgtgttggactgacctctggtttaccgg
+ttgtgccgccaggtgcattgccgggtatctaagtcgggattggataagtgctgaaagcat
+ctaagtacgaagccagccacaagattagatttctcagggtcgtcagagacgatgacgttg
+ataggaggcaggtgtaaaggtagtaatatcaaagccgagccttactaattgcccgttgac
+tttctttttg
+>fig|1121101.3.rna.71|HMPREF1532_03957   tRNA-Phe-GAA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ggtgccatagctcagttggtagagcaaaggactgaaaatccttgtgtccccggttcgatt
+cctggtggcacca
+>fig|1121101.3.rna.72   tRNA-Val-TAC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgccca
+>fig|1121101.3.rna.73   tRNA-Val-TAC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggcgtttagctcagctggttcagagcatctgccttacaagcagagggtcggcggttcga
+atccgtcaacgccca
+>fig|1121101.3.rna.74   5S RNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcaggtgactatagcaccggggttccacctcttcccattccgaacagagaagttaagccc
+ggtcacgccgatggtactgcgtaacagtgggagagtaggtagtcgccgtt
+>fig|1121101.3.rna.75   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+aagaaagtaagaaagggcgcatggcggatgccttggctctcggaggcgatgaaggacgtg
+ataagctgcgataagctgcgggtaggtgcaaataacctttgatccgcggatttccgaatg
+ggacaacccaaccggttgaagaccggttatctatccaatgatagaggctaacgcagggaa
+ctgaaacatcttagtacctgcaggaaaagaaaataaacaatgattcccctagtagtggcg
+agcgaacggggattagcccaaaccatggatgtcacggcatccatggggttgtaggaccac
+gatgtcgcacgacatctgacgagtagaacgatctggaaagttcgaccatagacggtgata
+gtccggtacacgaagtcagacgaagcgtagtggtatcctgagtagcgcggagcacgagga
+attctgcgtgaaccagccgggaccatccggtaaggctaaatactcccgagagaccgatag
+cgaaccagtactgtgaaggaaaggtgaaaagcacttcgaatagaagagtgaaatagtccc
+tgaaaccgtgcgcctacaagcggtcggagctgttttaaacagtgacggcgtgccttttgc
+ataatgaacctacgagttacttttactggcaaggttaagcatcttgagatgtgtatccga
+agcgaaagcgagtctgaacagggcgtatagtcagtaggagtagacgcgaaaccaagtgat
+ctacccttgggcaggttgaaggttaggtaacactaactggaggaccgaaccgataagcgt
+tgaaaagcttccggatgacctgagggtgggggtgaaaggctaatcaaacttggagatagc
+tcgtactccccgaaatgcatttaggtgcagccttgtgagttactaatgtgaggtagagcg
+actgataagatgcgagggcttcgccgcctatcaagtcttgataaactccgaatgcgcatt
+agtcctatcacaggagtgagggcatgggtgctaaggtccatgtccgaaaggagaagaatc
+cagaccatcagctaaggtccccaaataaatgctaagttgaactaacgaagtcagattgct
+aagacagctaggatgttggcttggaagcagccattcatttaaagagtgcgtaacagctca
+ctagtcgaggagtttggcgtggataataatcgggcatcaagcattttaccgaagctatgg
+gatacgtaagtatcggtaggggagcattccactcggcgtcgaaggtgaagcgcgagcttt
+gctggagcgtgtggaaaagcaaatgtaggtataagtaacgataaaggggg
+>fig|1121101.3.rna.76|HMPREF1532_04122   tRNA-Ala-TGC   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+gggggattagctcagctggctagagcatctgccttgcacgcagagggtcaacggttcgaa
+tccgttattctcca
+>fig|1121101.3.rna.77|HMPREF1532_04123   tRNA-Ile-GAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+agtcctatagctcagttggttagagcgctacactgataatgtagaggtcggcagttcaac
+tctgcctgggacta
+>fig|1121101.3.rna.78   Small Subunit Ribosomal RNA; ssuRNA; SSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+acttttacaatgaagagtttgatcctggctcaggatgaacgctagctacaggcttaacac
+atgcaagtcgaggggcatcagggtgtagcaatacaccgctggcgaccggcgcacgggtga
+gtaacacgtatccaacctgccctttactcggggatagcctttcgaaagaaagattaatac
+ccgatggtataacatgacctcctggttttgttattaaagaatttcggtagaggatgggga
+tgcgttccattaggcagttggcggggtaacggcccaccaaaccttcgatggataggggtt
+ctgagaggaaggtcccccacattggaactgagacacggtccaaactcctacgggaggcag
+cagtgaggaatattggtcaatgggcgagagcctgaaccagccaagtagcgtgaaggatga
+ccgccctatgggttgtaaacttcttttatatgggaataaagggtgccacgtgtggcattt
+tgtatgtaccatatgaataaggatcggctaactccgtgccagcagccgcggtaatacgga
+ggatccgagcgttatccggatttattgggtttaaagggagcgtaggtggacatgtaagtc
+agttgtgaaagtttgcggctcaaccgtaaaattgcagttgatactgcgtgtcttgagtac
+agtagaggtgggcggaattcgtggtgtagcggtgaaatgcttagatatcacgaagaactc
+cgattgcgaaggcagctcactggactgcaactgacactgatgctcgaaagtgtgggtatc
+aaacaggattagataccctggtagtccacacagtaaacgatgaatactcgctgtttgcga
+tatacagtaagcggccaagcgaaagcattaagtattccacctggggagtacgccggcaac
+ggtgaaactcaaaggaattgacgggggcccgcacaagcggaggaacatgtggtttaattc
+gatgatacgcgaggaaccttacccgggcttaaattgcaaatgaatatgccggaaacggca
+tagccgcaaggcatttgtgaaggtgctgcatggttgtcgtcagctcgtgccgtgaggtgt
+cggcttaagtgccataacgagcgcaacccttatcttcagttactaacaggttatgctgag
+gactctggagagactgccgtcgtaagatgtgaggaaggtggggatgacgtcaaatcagca
+cggcccttacgtccggggctacacacgtgttacaatggggggtacagaaggccgctacac
+agcgatgtgatgccaatccctaaagcccctctcagttcggatcgaagtctgcaacccgac
+ttcgtgaagctggattcgctagtaatcgcgcatcagccacggcgcggtgaatacgttccc
+gggccttgtacacaccgcccgtcaagccatgggagccgggggtacctgaagtacgtaacc
+gcaaggagcgtcctagggtaaaactggtgactggggctaagtcgtaacaaggtagccgta
+ccggaaggtgcggctggaacacctcctttct
+>fig|1121101.3.rna.79   tRNA-Met-CAT   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+cgcggagtggagcagttggtagctcgttgggctcataacccaaaggtcattcgttcgagt
+cggatctccgcaa
+>fig|1121101.3.rna.80   5S RNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+tcaggtgactatagcaccggggttccacctcttcccattccgaacagagaagttaagccc
+ggtcacgccgatggtactgcgtaacagtgggagagtaggtagtcgccgtt
+>fig|1121101.3.rna.81   Large Subunit Ribosomal RNA; lsuRNA; LSU rRNA   [Bacteroides salyersiae WAL 10018 = DSM 18765 = JCM 12988 | 1121101.3]
+ccccctcgccgaaagactaaggtttcctgatcaacgctaatcggatcagggttagtcggg
+tcctaaggctcagccgaacggtgatgccgatggcagaacaggttaatattcctgtactac
+cttaaggagtgacgtggagacggagtcgtgacagcgccgcggactgacggaatagtccgt
+tgaagggtgtagatgttgattgcggcaggcaaatccaccgcaagagtcgaacctgatagt
+atggagcgttcttctgaacaatccaatagtgcgtgtaagcatactcccaagaaaatccgc
+taaacttaatccttgaggtacccgtaccgtaaacggacacacgtagtcgggttgaatata
+ctaaggcgcttgagtgattcacggttaaggaactaggcaaattgaccctgtaacttcggg
+ataaagggtccctgctgagaggtagggcgcagagaataggtccaggcaactgtttaacaa
+aaacacagggctgtgcaaaattgaaagatcacgtatacagcctgacacctgcccggtgct
+ggaaggttaagaggagatgtcatcgcaagagaagcattgaattgaagccccagtaaacgg
+cggccgtaactataacggtcctaaggtagcgaaattccttgtcgggtaagttccgacctg
+cacgaatggtgtaatgatctggacactgtctcaaccgtgagctcagtgaaattgtagtat
+cggtgaagatgccgattacccgcgatgggacgaaaagaccccgtgaacctttactatagc
+ttaacattgaatttgggtaattgatgtgtaggataggccggagactttgaagcgggtacg
+ccagtatctgtggagtcgctgttgaaatacggccctttgattatttgagttctaactcgt
+tgttacgaggacactgtttggtgggtagtttgactggggtggtcgcctccaaaagtgtaa
+cggaggcttctaaaggtgccctcaggacgattggtaaccgtccgcagagtgtaatggcat
+aagggcgcttgactgggagactcacaagtcgatcaggtaggaaactagagcatagtgatc
+cggtgtttccgcatggaagggacatcgctcaaaggataaaaggtactccggggataacag
+gctgatccctcccaagagctcatatcgacggaggggtttggcacctcgatgtcggctcgt
+cacatcctggggctggagaaggtcccaagggttgggctgttcgcccattaaagtggcacg
+cgagctgggttcagaacgtcgtgagacagttcggtctctatctatcgtgggcgtatgaaa
+tttgcgtggctctgacactagtacgagaggaccgtgttggactgacctctggtttaccgg
+ttgtgccgccaggtgcattgccgggtatctaagtcgggattggataagtgctgaaagcat
+ctaagtacgaagccagccacaagattagatttctcagggtcgtcagagacgatgacgttg
+ataggaggcaggtgtaaaggtagtaatatcaaagccgagccttactaattgcccgttgac
+tttctttttg

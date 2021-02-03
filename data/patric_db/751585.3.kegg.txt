@@ -1,0 +1,2633 @@
+patric_id	pathway
+	
+fig|751585.3.rna.1	
+fig|751585.3.peg.1	
+fig|751585.3.peg.2	
+fig|751585.3.peg.3	
+fig|751585.3.peg.4	
+fig|751585.3.peg.5	
+fig|751585.3.peg.6	
+fig|751585.3.peg.7	
+fig|751585.3.peg.8	
+fig|751585.3.peg.9	
+fig|751585.3.peg.10	
+fig|751585.3.peg.11	
+fig|751585.3.peg.12	
+fig|751585.3.peg.13	
+fig|751585.3.peg.14	
+fig|751585.3.peg.15	
+fig|751585.3.peg.16	
+fig|751585.3.peg.17	
+fig|751585.3.peg.908	
+fig|751585.3.peg.909	
+fig|751585.3.peg.910	
+fig|751585.3.peg.911	
+fig|751585.3.peg.912	
+fig|751585.3.peg.913	
+fig|751585.3.peg.914	
+fig|751585.3.peg.915	
+fig|751585.3.peg.1787	
+fig|751585.3.peg.1788	
+fig|751585.3.peg.1789	
+fig|751585.3.peg.2099	
+fig|751585.3.peg.2100	
+fig|751585.3.peg.2101	
+fig|751585.3.peg.2102	
+fig|751585.3.peg.2103	
+fig|751585.3.peg.2231	
+fig|751585.3.peg.2232	
+fig|751585.3.peg.2233	
+fig|751585.3.peg.2234	
+fig|751585.3.peg.2235	
+fig|751585.3.peg.2236	
+fig|751585.3.peg.2271	
+fig|751585.3.peg.2272	
+fig|751585.3.peg.2273	
+fig|751585.3.peg.2274	
+fig|751585.3.peg.2275	
+fig|751585.3.peg.2276	
+fig|751585.3.peg.2277	
+fig|751585.3.peg.2386	
+fig|751585.3.peg.2387	
+fig|751585.3.peg.2388	
+fig|751585.3.peg.2389	
+fig|751585.3.peg.2390	
+fig|751585.3.peg.2391	
+fig|751585.3.peg.2392	
+fig|751585.3.peg.2393	
+fig|751585.3.peg.2394	00730|Thiamine metabolism
+fig|751585.3.peg.2395	
+fig|751585.3.peg.2396	
+fig|751585.3.peg.2397	
+fig|751585.3.peg.2482	
+fig|751585.3.peg.2483	
+fig|751585.3.peg.2484	
+fig|751585.3.peg.2485	
+fig|751585.3.peg.2486	
+fig|751585.3.peg.2487	
+fig|751585.3.peg.2488	
+fig|751585.3.peg.2489	
+fig|751585.3.peg.2490	
+fig|751585.3.peg.2530	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.2531	
+fig|751585.3.peg.2532	
+fig|751585.3.peg.18	
+fig|751585.3.peg.19	
+fig|751585.3.peg.20	
+fig|751585.3.peg.21	
+fig|751585.3.peg.22	
+fig|751585.3.peg.23	
+fig|751585.3.peg.24	
+fig|751585.3.peg.25	
+fig|751585.3.peg.26	04150|mTOR signaling pathway
+fig|751585.3.peg.27	
+fig|751585.3.peg.28	
+fig|751585.3.peg.29	
+fig|751585.3.peg.30	00790|Folate biosynthesis
+fig|751585.3.peg.31	00790|Folate biosynthesis
+fig|751585.3.peg.32	
+fig|751585.3.peg.33	
+fig|751585.3.peg.118	
+fig|751585.3.peg.119	
+fig|751585.3.peg.120	
+fig|751585.3.peg.121	
+fig|751585.3.peg.122	00473|D-Alanine metabolism
+fig|751585.3.peg.123	
+fig|751585.3.peg.124	
+fig|751585.3.peg.125	
+fig|751585.3.peg.126	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.127	00471|D-Glutamine and D-glutamate metabolism;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.128	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.129	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.195	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.196	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.197	
+fig|751585.3.peg.198	
+fig|751585.3.peg.199	
+fig|751585.3.peg.200	
+fig|751585.3.peg.308	
+fig|751585.3.peg.309	
+fig|751585.3.peg.310	
+fig|751585.3.peg.311	
+fig|751585.3.peg.312	
+fig|751585.3.peg.313	
+fig|751585.3.peg.314	
+fig|751585.3.peg.315	
+fig|751585.3.peg.316	
+fig|751585.3.peg.317	
+fig|751585.3.peg.318	
+fig|751585.3.peg.319	
+fig|751585.3.peg.320	
+fig|751585.3.peg.321	
+fig|751585.3.peg.322	
+fig|751585.3.peg.323	
+fig|751585.3.peg.324	
+fig|751585.3.peg.325	
+fig|751585.3.peg.326	
+fig|751585.3.peg.394	
+fig|751585.3.peg.473	
+fig|751585.3.peg.474	00010|Glycolysis / Gluconeogenesis;00020|Citrate cycle (TCA cycle);00620|Pyruvate metabolism;00633|Trinitrotoluene degradation;00640|Propanoate metabolism;00650|Butanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.475	00010|Glycolysis / Gluconeogenesis;00020|Citrate cycle (TCA cycle);00620|Pyruvate metabolism;00633|Trinitrotoluene degradation;00640|Propanoate metabolism;00650|Butanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.476	00010|Glycolysis / Gluconeogenesis;00020|Citrate cycle (TCA cycle);00620|Pyruvate metabolism;00633|Trinitrotoluene degradation;00640|Propanoate metabolism;00650|Butanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.477	00010|Glycolysis / Gluconeogenesis;00020|Citrate cycle (TCA cycle);00620|Pyruvate metabolism;00633|Trinitrotoluene degradation;00640|Propanoate metabolism;00650|Butanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.478	
+fig|751585.3.peg.479	
+fig|751585.3.peg.480	
+fig|751585.3.peg.481	
+fig|751585.3.peg.482	00500|Starch and sucrose metabolism
+fig|751585.3.peg.483	00051|Fructose and mannose metabolism;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.484	
+fig|751585.3.peg.485	00500|Starch and sucrose metabolism
+fig|751585.3.peg.486	
+fig|751585.3.peg.487	
+fig|751585.3.peg.571	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.572	
+fig|751585.3.peg.573	
+fig|751585.3.peg.574	
+fig|751585.3.peg.575	
+fig|751585.3.peg.576	
+fig|751585.3.peg.577	
+fig|751585.3.peg.578	
+fig|751585.3.peg.579	
+fig|751585.3.peg.580	
+fig|751585.3.peg.581	00330|Arginine and proline metabolism
+fig|751585.3.peg.582	00330|Arginine and proline metabolism
+fig|751585.3.peg.633	00250|Alanine, aspartate and glutamate metabolism;00330|Arginine and proline metabolism
+fig|751585.3.peg.634	00521|Streptomycin biosynthesis;00523|Polyketide sugar unit biosynthesis;01055|Biosynthesis of vancomycin group antibiotics
+fig|751585.3.peg.675	
+fig|751585.3.peg.676	
+fig|751585.3.peg.677	
+fig|751585.3.peg.678	
+fig|751585.3.peg.679	
+fig|751585.3.peg.680	
+fig|751585.3.peg.681	
+fig|751585.3.peg.682	
+fig|751585.3.peg.683	
+fig|751585.3.peg.684	
+fig|751585.3.peg.685	
+fig|751585.3.peg.726	
+fig|751585.3.peg.727	
+fig|751585.3.peg.728	
+fig|751585.3.peg.729	
+fig|751585.3.peg.730	
+fig|751585.3.peg.731	
+fig|751585.3.peg.916	
+fig|751585.3.peg.917	
+fig|751585.3.peg.918	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1036	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1037	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1038	
+fig|751585.3.peg.1039	
+fig|751585.3.peg.1040	
+fig|751585.3.peg.1041	
+fig|751585.3.peg.1042	
+fig|751585.3.peg.1043	00051|Fructose and mannose metabolism
+fig|751585.3.peg.1044	00250|Alanine, aspartate and glutamate metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.1045	00250|Alanine, aspartate and glutamate metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.1046	
+fig|751585.3.peg.1047	
+fig|751585.3.peg.1048	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1248	00970|Aminoacyl-tRNA biosynthesis;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1249	00970|Aminoacyl-tRNA biosynthesis;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1250	
+fig|751585.3.peg.1251	
+fig|751585.3.peg.1252	
+fig|751585.3.peg.1253	
+fig|751585.3.peg.1254	00620|Pyruvate metabolism
+fig|751585.3.peg.1255	00020|Citrate cycle (TCA cycle);00480|Glutathione metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1256	00780|Biotin metabolism
+fig|751585.3.peg.1257	
+fig|751585.3.peg.1258	
+fig|751585.3.peg.1259	
+fig|751585.3.peg.1260	
+fig|751585.3.peg.1261	
+fig|751585.3.peg.1262	
+fig|751585.3.peg.1263	
+fig|751585.3.peg.1264	
+fig|751585.3.peg.1265	
+fig|751585.3.peg.1266	
+fig|751585.3.peg.1267	
+fig|751585.3.peg.1472	
+fig|751585.3.peg.1473	
+fig|751585.3.peg.1474	00052|Galactose metabolism;00561|Glycerolipid metabolism;00600|Sphingolipid metabolism;00603|Glycosphingolipid biosynthesis - globo series
+fig|751585.3.peg.1526	00230|Purine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.1527	
+fig|751585.3.peg.1528	
+fig|751585.3.peg.1529	
+fig|751585.3.peg.1530	00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1531	
+fig|751585.3.peg.1532	
+fig|751585.3.peg.1533	
+fig|751585.3.peg.1534	
+fig|751585.3.peg.1588	
+fig|751585.3.peg.1589	
+fig|751585.3.peg.1590	
+fig|751585.3.peg.1591	
+fig|751585.3.peg.1592	
+fig|751585.3.peg.1593	
+fig|751585.3.peg.1594	
+fig|751585.3.peg.1595	
+fig|751585.3.peg.1596	
+fig|751585.3.peg.1597	
+fig|751585.3.peg.1598	
+fig|751585.3.peg.1599	
+fig|751585.3.peg.1600	
+fig|751585.3.peg.1601	
+fig|751585.3.peg.1602	
+fig|751585.3.peg.1603	
+fig|751585.3.peg.1604	
+fig|751585.3.peg.1605	
+fig|751585.3.peg.1606	
+fig|751585.3.peg.1607	
+fig|751585.3.peg.1608	
+fig|751585.3.peg.1609	
+fig|751585.3.peg.1610	
+fig|751585.3.peg.1611	
+fig|751585.3.peg.1612	
+fig|751585.3.peg.1613	
+fig|751585.3.peg.1614	
+fig|751585.3.peg.1615	00230|Purine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.1616	00230|Purine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.1617	
+fig|751585.3.peg.1618	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1619	
+fig|751585.3.peg.1620	00790|Folate biosynthesis
+fig|751585.3.peg.1621	00790|Folate biosynthesis
+fig|751585.3.peg.1622	00790|Folate biosynthesis
+fig|751585.3.peg.1623	00790|Folate biosynthesis
+fig|751585.3.peg.1624	00260|Glycine, serine and threonine metabolism;00750|Vitamin B6 metabolism
+fig|751585.3.peg.1625	
+fig|751585.3.peg.1626	
+fig|751585.3.peg.1627	00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1628	
+fig|751585.3.peg.1629	
+fig|751585.3.peg.1630	00300|Lysine biosynthesis
+fig|751585.3.peg.1631	
+fig|751585.3.peg.1632	
+fig|751585.3.peg.1633	
+fig|751585.3.peg.1634	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1635	
+fig|751585.3.rna.17	
+fig|751585.3.peg.1636	
+fig|751585.3.peg.1637	
+fig|751585.3.peg.1638	
+fig|751585.3.peg.1639	
+fig|751585.3.peg.1640	
+fig|751585.3.peg.1641	
+fig|751585.3.peg.1642	
+fig|751585.3.peg.1643	00010|Glycolysis / Gluconeogenesis;00052|Galactose metabolism;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism;00521|Streptomycin biosynthesis
+fig|751585.3.peg.1644	
+fig|751585.3.peg.1645	
+fig|751585.3.peg.1646	
+fig|751585.3.peg.1647	
+fig|751585.3.peg.1648	
+fig|751585.3.peg.1649	
+fig|751585.3.peg.1650	
+fig|751585.3.peg.1651	
+fig|751585.3.peg.1694	
+fig|751585.3.peg.1695	
+fig|751585.3.peg.1696	
+fig|751585.3.peg.1697	
+fig|751585.3.peg.1698	
+fig|751585.3.peg.1699	
+fig|751585.3.peg.1700	00300|Lysine biosynthesis
+fig|751585.3.peg.1724	
+fig|751585.3.peg.1725	
+fig|751585.3.peg.1726	00250|Alanine, aspartate and glutamate metabolism;00330|Arginine and proline metabolism;00630|Glyoxylate and dicarboxylate metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.1727	
+fig|751585.3.peg.1728	
+fig|751585.3.peg.1729	
+fig|751585.3.peg.1730	
+fig|751585.3.peg.1731	
+fig|751585.3.peg.1732	
+fig|751585.3.peg.1733	
+fig|751585.3.peg.1790	00010|Glycolysis / Gluconeogenesis;00020|Citrate cycle (TCA cycle);00620|Pyruvate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1791	
+fig|751585.3.peg.1792	
+fig|751585.3.peg.1793	
+fig|751585.3.peg.1794	
+fig|751585.3.peg.1795	
+fig|751585.3.peg.1796	
+fig|751585.3.peg.1843	
+fig|751585.3.peg.1844	00730|Thiamine metabolism
+fig|751585.3.peg.1845	
+fig|751585.3.peg.1846	
+fig|751585.3.peg.1878	
+fig|751585.3.peg.1879	
+fig|751585.3.peg.1880	
+fig|751585.3.peg.1881	
+fig|751585.3.peg.1882	
+fig|751585.3.peg.1883	
+fig|751585.3.peg.1951	
+fig|751585.3.peg.1952	
+fig|751585.3.peg.1953	
+fig|751585.3.peg.1954	
+fig|751585.3.peg.1988	
+fig|751585.3.peg.1989	
+fig|751585.3.peg.1990	
+fig|751585.3.pg.1	
+fig|751585.3.peg.1991	
+fig|751585.3.peg.1992	
+fig|751585.3.peg.1993	
+fig|751585.3.peg.2058	
+fig|751585.3.peg.2059	
+fig|751585.3.peg.2060	
+fig|751585.3.peg.2061	
+fig|751585.3.peg.2062	
+fig|751585.3.peg.2063	
+fig|751585.3.peg.2064	
+fig|751585.3.peg.2065	
+fig|751585.3.peg.2066	
+fig|751585.3.peg.2067	
+fig|751585.3.peg.2068	
+fig|751585.3.peg.2069	
+fig|751585.3.peg.2071	
+fig|751585.3.peg.2072	00362|Benzoate degradation via hydroxylation
+fig|751585.3.peg.2073	
+fig|751585.3.peg.2074	
+fig|751585.3.peg.2075	
+fig|751585.3.peg.2076	
+fig|751585.3.peg.2077	
+fig|751585.3.peg.2078	
+fig|751585.3.peg.2079	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.2080	
+fig|751585.3.peg.2081	
+fig|751585.3.peg.2082	
+fig|751585.3.peg.2083	
+fig|751585.3.peg.2084	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.2085	
+fig|751585.3.peg.2086	
+fig|751585.3.peg.2087	
+fig|751585.3.peg.2088	
+fig|751585.3.peg.2089	
+fig|751585.3.peg.2090	
+fig|751585.3.peg.2091	
+fig|751585.3.peg.2092	
+fig|751585.3.peg.2093	
+fig|751585.3.peg.2094	
+fig|751585.3.peg.2095	
+fig|751585.3.peg.2096	
+fig|751585.3.peg.2097	
+fig|751585.3.peg.2098	
+fig|751585.3.peg.2104	
+fig|751585.3.peg.2105	
+fig|751585.3.peg.2106	
+fig|751585.3.peg.2107	
+fig|751585.3.peg.2108	
+fig|751585.3.peg.2109	
+fig|751585.3.peg.2110	
+fig|751585.3.peg.2111	
+fig|751585.3.peg.2112	
+fig|751585.3.peg.2113	
+fig|751585.3.peg.2114	
+fig|751585.3.peg.2115	
+fig|751585.3.peg.2116	
+fig|751585.3.peg.2117	
+fig|751585.3.peg.2118	
+fig|751585.3.peg.2119	
+fig|751585.3.peg.2120	
+fig|751585.3.peg.2121	
+fig|751585.3.peg.2122	
+fig|751585.3.peg.2123	
+fig|751585.3.peg.2124	
+fig|751585.3.peg.2125	
+fig|751585.3.peg.2126	
+fig|751585.3.peg.2127	
+fig|751585.3.peg.2128	
+fig|751585.3.peg.2129	
+fig|751585.3.peg.2130	
+fig|751585.3.peg.2131	
+fig|751585.3.peg.2132	
+fig|751585.3.peg.2133	
+fig|751585.3.peg.2134	
+fig|751585.3.peg.2135	
+fig|751585.3.peg.2136	
+fig|751585.3.peg.2137	
+fig|751585.3.peg.2138	
+fig|751585.3.peg.2139	
+fig|751585.3.peg.2140	
+fig|751585.3.peg.2141	
+fig|751585.3.peg.2142	
+fig|751585.3.peg.2143	
+fig|751585.3.peg.2144	
+fig|751585.3.peg.2145	
+fig|751585.3.peg.2146	
+fig|751585.3.peg.2147	
+fig|751585.3.peg.2148	
+fig|751585.3.peg.2149	
+fig|751585.3.peg.2150	
+fig|751585.3.peg.2151	
+fig|751585.3.peg.2152	
+fig|751585.3.peg.2153	
+fig|751585.3.peg.2154	
+fig|751585.3.peg.2155	
+fig|751585.3.peg.2156	
+fig|751585.3.peg.2157	
+fig|751585.3.peg.2158	
+fig|751585.3.peg.2159	
+fig|751585.3.peg.2160	
+fig|751585.3.peg.2161	
+fig|751585.3.peg.2162	00362|Benzoate degradation via hydroxylation
+fig|751585.3.peg.2163	00362|Benzoate degradation via hydroxylation
+fig|751585.3.peg.2164	00362|Benzoate degradation via hydroxylation
+fig|751585.3.peg.2165	
+fig|751585.3.peg.2166	
+fig|751585.3.peg.2167	
+fig|751585.3.peg.2168	
+fig|751585.3.peg.2169	
+fig|751585.3.peg.2170	
+fig|751585.3.peg.2171	
+fig|751585.3.peg.2172	
+fig|751585.3.peg.2173	
+fig|751585.3.peg.2174	00290|Valine, leucine and isoleucine biosynthesis;00620|Pyruvate metabolism
+fig|751585.3.peg.2175	
+fig|751585.3.peg.2176	
+fig|751585.3.peg.2177	
+fig|751585.3.peg.2178	
+fig|751585.3.peg.2179	00230|Purine metabolism
+fig|751585.3.peg.2180	
+fig|751585.3.peg.2181	
+fig|751585.3.peg.2182	
+fig|751585.3.peg.2183	00380|Tryptophan metabolism;00630|Glyoxylate and dicarboxylate metabolism;00680|Methane metabolism
+fig|751585.3.peg.2184	
+fig|751585.3.peg.2185	
+fig|751585.3.peg.2186	00240|Pyrimidine metabolism
+fig|751585.3.peg.2187	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.2188	
+fig|751585.3.peg.2189	
+fig|751585.3.peg.2190	
+fig|751585.3.peg.2191	
+fig|751585.3.peg.2192	
+fig|751585.3.peg.2193	
+fig|751585.3.rna.25	
+fig|751585.3.peg.2194	
+fig|751585.3.peg.2195	
+fig|751585.3.peg.2196	
+fig|751585.3.peg.2197	
+fig|751585.3.peg.2198	
+fig|751585.3.peg.2199	
+fig|751585.3.peg.2200	
+fig|751585.3.peg.2201	
+fig|751585.3.peg.2202	
+fig|751585.3.peg.2203	00230|Purine metabolism
+fig|751585.3.rna.26	
+fig|751585.3.peg.2204	
+fig|751585.3.peg.2205	
+fig|751585.3.peg.2206	
+fig|751585.3.peg.2207	
+fig|751585.3.peg.2208	
+fig|751585.3.peg.2209	
+fig|751585.3.peg.2210	
+fig|751585.3.peg.2211	
+fig|751585.3.peg.2212	
+fig|751585.3.pg.2	
+fig|751585.3.peg.2213	
+fig|751585.3.peg.2214	
+fig|751585.3.peg.2215	
+fig|751585.3.peg.2216	
+fig|751585.3.peg.2217	00280|Valine, leucine and isoleucine degradation;00290|Valine, leucine and isoleucine biosynthesis;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2218	
+fig|751585.3.peg.2219	
+fig|751585.3.peg.2220	
+fig|751585.3.peg.2221	00260|Glycine, serine and threonine metabolism;00561|Glycerolipid metabolism;00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.2222	
+fig|751585.3.peg.2223	
+fig|751585.3.peg.2224	
+fig|751585.3.peg.2225	
+fig|751585.3.peg.2226	00051|Fructose and mannose metabolism;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2227	
+fig|751585.3.peg.2228	
+fig|751585.3.peg.2229	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.2230	
+fig|751585.3.peg.2237	
+fig|751585.3.peg.2238	
+fig|751585.3.peg.2239	
+fig|751585.3.peg.2240	
+fig|751585.3.peg.2241	
+fig|751585.3.peg.2242	
+fig|751585.3.peg.2243	
+fig|751585.3.peg.2244	
+fig|751585.3.peg.2245	
+fig|751585.3.peg.2246	
+fig|751585.3.peg.2247	
+fig|751585.3.peg.2248	
+fig|751585.3.peg.2249	
+fig|751585.3.peg.2250	
+fig|751585.3.peg.2251	
+fig|751585.3.peg.2252	
+fig|751585.3.peg.2253	
+fig|751585.3.peg.2254	
+fig|751585.3.peg.2255	
+fig|751585.3.peg.2256	
+fig|751585.3.peg.2257	
+fig|751585.3.peg.2258	
+fig|751585.3.peg.2259	
+fig|751585.3.peg.2260	
+fig|751585.3.peg.2261	
+fig|751585.3.peg.2262	
+fig|751585.3.peg.2263	
+fig|751585.3.peg.2264	
+fig|751585.3.peg.2265	
+fig|751585.3.peg.2266	
+fig|751585.3.peg.2267	
+fig|751585.3.peg.2269	
+fig|751585.3.peg.2270	
+fig|751585.3.peg.2278	
+fig|751585.3.peg.2279	
+fig|751585.3.peg.2280	
+fig|751585.3.peg.2281	
+fig|751585.3.peg.2282	
+fig|751585.3.peg.2283	00471|D-Glutamine and D-glutamate metabolism
+fig|751585.3.peg.2284	00330|Arginine and proline metabolism
+fig|751585.3.peg.2285	
+fig|751585.3.peg.2286	
+fig|751585.3.peg.2287	
+fig|751585.3.peg.2288	
+fig|751585.3.peg.2289	
+fig|751585.3.peg.2290	
+fig|751585.3.peg.2291	
+fig|751585.3.peg.2292	00330|Arginine and proline metabolism
+fig|751585.3.peg.2293	00051|Fructose and mannose metabolism;00053|Ascorbate and aldarate metabolism;00140|C21-Steroid hormone metabolism;00240|Pyrimidine metabolism;00253|Tetracycline biosynthesis;00260|Glycine, serine and threonine metabolism;00362|Benzoate degradation via hydroxylation;00363|Bisphenol A degradation;00520|Amino sugar and nucleotide sugar metabolism;00523|Polyketide sugar unit biosynthesis;00562|Inositol phosphate metabolism;00591|Linoleic acid metabolism;00622|Toluene and xylene degradation;00625|Tetrachloroethene degradation;00633|Trinitrotoluene degradation;00650|Butanoate metabolism;00720|Reductive carboxylate cycle (CO2 fixation);00830|Retinol metabolism;00950|Isoquinoline alkaloid biosynthesis;00981|Insect hormone biosynthesis;01056|Biosynthesis of type II polyketide backbone;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.2294	
+fig|751585.3.peg.2295	
+fig|751585.3.peg.2296	00260|Glycine, serine and threonine metabolism
+fig|751585.3.peg.2297	
+fig|751585.3.peg.2298	
+fig|751585.3.peg.2299	
+fig|751585.3.peg.2300	
+fig|751585.3.peg.2301	
+fig|751585.3.rna.27	
+fig|751585.3.peg.2302	
+fig|751585.3.peg.2303	
+fig|751585.3.peg.2304	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2305	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2306	
+fig|751585.3.peg.2307	
+fig|751585.3.peg.2308	
+fig|751585.3.peg.2309	
+fig|751585.3.peg.2310	
+fig|751585.3.peg.2311	
+fig|751585.3.peg.2312	
+fig|751585.3.peg.2313	00270|Cysteine and methionine metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.2314	
+fig|751585.3.peg.2315	
+fig|751585.3.peg.2316	
+fig|751585.3.peg.2317	
+fig|751585.3.rna.28	
+fig|751585.3.peg.2318	
+fig|751585.3.peg.2319	
+fig|751585.3.peg.2320	
+fig|751585.3.peg.2321	
+fig|751585.3.peg.2322	
+fig|751585.3.peg.2323	
+fig|751585.3.peg.2324	
+fig|751585.3.peg.2325	
+fig|751585.3.peg.2326	
+fig|751585.3.peg.2327	
+fig|751585.3.peg.2328	
+fig|751585.3.peg.2329	
+fig|751585.3.pg.3	
+fig|751585.3.peg.2330	
+fig|751585.3.peg.2331	
+fig|751585.3.peg.2332	
+fig|751585.3.peg.2333	
+fig|751585.3.peg.2334	
+fig|751585.3.peg.2335	
+fig|751585.3.peg.2336	
+fig|751585.3.peg.2337	
+fig|751585.3.peg.2338	
+fig|751585.3.peg.2339	
+fig|751585.3.peg.2340	00500|Starch and sucrose metabolism
+fig|751585.3.peg.2341	
+fig|751585.3.peg.2342	
+fig|751585.3.peg.2343	
+fig|751585.3.peg.2344	
+fig|751585.3.peg.2345	00260|Glycine, serine and threonine metabolism;00270|Cysteine and methionine metabolism;00300|Lysine biosynthesis
+fig|751585.3.peg.2346	00260|Glycine, serine and threonine metabolism;00680|Methane metabolism
+fig|751585.3.peg.2347	00260|Glycine, serine and threonine metabolism;00680|Methane metabolism;00750|Vitamin B6 metabolism
+fig|751585.3.peg.2348	00290|Valine, leucine and isoleucine biosynthesis;00650|Butanoate metabolism;00660|C5-Branched dibasic acid metabolism;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2349	
+fig|751585.3.peg.2350	00290|Valine, leucine and isoleucine biosynthesis;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2351	00290|Valine, leucine and isoleucine biosynthesis
+fig|751585.3.peg.2352	00290|Valine, leucine and isoleucine biosynthesis
+fig|751585.3.peg.2353	00290|Valine, leucine and isoleucine biosynthesis
+fig|751585.3.peg.2354	
+fig|751585.3.peg.2355	
+fig|751585.3.peg.2356	
+fig|751585.3.peg.2357	
+fig|751585.3.peg.2358	00230|Purine metabolism
+fig|751585.3.peg.2359	
+fig|751585.3.peg.2360	
+fig|751585.3.peg.2361	
+fig|751585.3.peg.2362	
+fig|751585.3.peg.2363	
+fig|751585.3.peg.2364	
+fig|751585.3.peg.2365	
+fig|751585.3.peg.2366	
+fig|751585.3.peg.2367	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.2368	
+fig|751585.3.peg.2369	00730|Thiamine metabolism;00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.2370	00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.2371	
+fig|751585.3.peg.2372	
+fig|751585.3.peg.2373	
+fig|751585.3.peg.2374	
+fig|751585.3.peg.2375	
+fig|751585.3.peg.2376	
+fig|751585.3.peg.2378	
+fig|751585.3.peg.2379	
+fig|751585.3.peg.2380	
+fig|751585.3.peg.2381	
+fig|751585.3.peg.2382	
+fig|751585.3.peg.2384	
+fig|751585.3.peg.2385	
+fig|751585.3.peg.2398	
+fig|751585.3.peg.2399	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.2400	
+fig|751585.3.peg.2401	
+fig|751585.3.peg.2402	
+fig|751585.3.rna.29	
+fig|751585.3.peg.2403	00270|Cysteine and methionine metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.2404	00052|Galactose metabolism;00500|Starch and sucrose metabolism
+fig|751585.3.peg.2405	
+fig|751585.3.peg.2406	
+fig|751585.3.peg.2407	
+fig|751585.3.peg.2408	
+fig|751585.3.peg.2409	
+fig|751585.3.peg.2410	
+fig|751585.3.peg.2411	
+fig|751585.3.peg.2412	
+fig|751585.3.peg.2413	
+fig|751585.3.peg.2414	
+fig|751585.3.peg.2415	
+fig|751585.3.peg.2416	
+fig|751585.3.peg.2417	
+fig|751585.3.peg.2418	
+fig|751585.3.peg.2419	
+fig|751585.3.peg.2420	
+fig|751585.3.peg.2421	
+fig|751585.3.peg.2422	
+fig|751585.3.peg.2423	
+fig|751585.3.peg.2424	
+fig|751585.3.peg.2425	
+fig|751585.3.peg.2426	
+fig|751585.3.peg.2427	
+fig|751585.3.peg.2428	
+fig|751585.3.peg.2429	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.2430	00230|Purine metabolism
+fig|751585.3.peg.2431	
+fig|751585.3.peg.2432	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.2433	
+fig|751585.3.peg.2434	
+fig|751585.3.peg.2435	
+fig|751585.3.peg.2436	00500|Starch and sucrose metabolism
+fig|751585.3.peg.2437	
+fig|751585.3.peg.2438	
+fig|751585.3.peg.2439	
+fig|751585.3.peg.2440	
+fig|751585.3.peg.2441	
+fig|751585.3.peg.2442	00750|Vitamin B6 metabolism
+fig|751585.3.peg.2443	
+fig|751585.3.peg.2444	
+fig|751585.3.peg.2445	
+fig|751585.3.peg.2446	
+fig|751585.3.peg.2447	
+fig|751585.3.peg.2448	
+fig|751585.3.peg.2449	
+fig|751585.3.peg.2450	
+fig|751585.3.peg.2451	
+fig|751585.3.peg.2452	
+fig|751585.3.peg.2453	
+fig|751585.3.peg.2454	00750|Vitamin B6 metabolism
+fig|751585.3.peg.2455	
+fig|751585.3.peg.2456	
+fig|751585.3.peg.2457	
+fig|751585.3.peg.2458	
+fig|751585.3.peg.2459	
+fig|751585.3.peg.2460	
+fig|751585.3.peg.2461	
+fig|751585.3.peg.2462	
+fig|751585.3.peg.2463	
+fig|751585.3.peg.2464	
+fig|751585.3.peg.2465	
+fig|751585.3.peg.2466	
+fig|751585.3.peg.2467	
+fig|751585.3.peg.2468	
+fig|751585.3.peg.2469	
+fig|751585.3.peg.2470	00260|Glycine, serine and threonine metabolism;00270|Cysteine and methionine metabolism;00300|Lysine biosynthesis
+fig|751585.3.peg.2471	
+fig|751585.3.peg.2472	
+fig|751585.3.peg.2473	
+fig|751585.3.peg.2474	
+fig|751585.3.peg.2475	
+fig|751585.3.peg.2476	
+fig|751585.3.peg.2477	
+fig|751585.3.peg.2478	
+fig|751585.3.peg.2479	
+fig|751585.3.peg.2480	
+fig|751585.3.peg.2481	
+fig|751585.3.peg.2491	
+fig|751585.3.peg.2492	
+fig|751585.3.peg.2493	
+fig|751585.3.peg.2494	
+fig|751585.3.peg.2495	
+fig|751585.3.peg.2496	
+fig|751585.3.peg.2497	
+fig|751585.3.peg.2498	
+fig|751585.3.peg.2499	
+fig|751585.3.peg.2500	
+fig|751585.3.peg.2501	
+fig|751585.3.peg.2502	
+fig|751585.3.peg.2503	
+fig|751585.3.peg.2504	
+fig|751585.3.peg.2505	
+fig|751585.3.peg.2506	
+fig|751585.3.peg.2507	
+fig|751585.3.peg.2508	
+fig|751585.3.peg.2509	
+fig|751585.3.peg.2510	
+fig|751585.3.peg.2511	
+fig|751585.3.peg.2512	
+fig|751585.3.peg.2513	
+fig|751585.3.peg.2514	
+fig|751585.3.peg.2515	
+fig|751585.3.peg.2516	
+fig|751585.3.peg.2517	
+fig|751585.3.peg.2518	
+fig|751585.3.peg.2519	
+fig|751585.3.peg.2520	
+fig|751585.3.peg.2521	
+fig|751585.3.peg.2522	
+fig|751585.3.peg.2523	
+fig|751585.3.peg.2524	
+fig|751585.3.peg.2525	
+fig|751585.3.peg.2526	
+fig|751585.3.peg.2527	
+fig|751585.3.peg.2528	
+fig|751585.3.peg.2529	00052|Galactose metabolism;00531|Glycosaminoglycan degradation;00600|Sphingolipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series
+fig|751585.3.peg.2533	
+fig|751585.3.peg.2534	
+fig|751585.3.peg.2535	
+fig|751585.3.peg.2536	
+fig|751585.3.peg.2537	
+fig|751585.3.peg.2538	
+fig|751585.3.peg.2539	00020|Citrate cycle (TCA cycle);00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.2540	
+fig|751585.3.peg.2541	00240|Pyrimidine metabolism
+fig|751585.3.peg.2542	
+fig|751585.3.peg.2543	
+fig|751585.3.peg.2544	
+fig|751585.3.peg.2545	
+fig|751585.3.peg.2546	00061|Fatty acid biosynthesis;00253|Tetracycline biosynthesis;00310|Lysine degradation;00330|Arginine and proline metabolism;00340|Histidine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00362|Benzoate degradation via hydroxylation;00540|Lipopolysaccharide biosynthesis;00564|Glycerophospholipid metabolism;00565|Ether lipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series;00623|2,4-Dichlorobenzoate degradation;00626|Naphthalene and anthracene degradation;00627|1,4-Dichlorobenzene degradation;00642|Ethylbenzene degradation;00650|Butanoate metabolism;00680|Methane metabolism;00903|Limonene and pinene degradation;00904|Diterpenoid biosynthesis;00906|Carotenoid biosynthesis;00942|Anthocyanin biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00950|Isoquinoline alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis;00965|Betalain biosynthesis;01056|Biosynthesis of type II polyketide backbone
+fig|751585.3.peg.2547	
+fig|751585.3.peg.2548	
+fig|751585.3.peg.2549	
+fig|751585.3.peg.2550	
+fig|751585.3.peg.2551	
+fig|751585.3.peg.2552	
+fig|751585.3.peg.2553	
+fig|751585.3.peg.2554	
+fig|751585.3.peg.2555	
+fig|751585.3.peg.2556	
+fig|751585.3.peg.2557	00564|Glycerophospholipid metabolism;00561|Glycerolipid metabolism
+fig|751585.3.peg.2558	
+fig|751585.3.peg.2559	00052|Galactose metabolism;00561|Glycerolipid metabolism;00600|Sphingolipid metabolism;00603|Glycosphingolipid biosynthesis - globo series
+fig|751585.3.peg.2560	
+fig|751585.3.peg.2561	
+fig|751585.3.peg.2562	00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2563	00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2564	00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2565	
+fig|751585.3.peg.2566	00520|Amino sugar and nucleotide sugar metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2567	
+fig|751585.3.peg.2568	
+fig|751585.3.peg.2569	00240|Pyrimidine metabolism
+fig|751585.3.peg.2570	
+fig|751585.3.peg.2571	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.2572	
+fig|751585.3.peg.2573	
+fig|751585.3.peg.2574	
+fig|751585.3.peg.2575	
+fig|751585.3.rna.30	
+fig|751585.3.peg.2576	
+fig|751585.3.peg.2577	
+fig|751585.3.peg.2578	
+fig|751585.3.peg.2579	
+fig|751585.3.peg.2580	
+fig|751585.3.peg.2581	
+fig|751585.3.peg.2582	
+fig|751585.3.peg.2583	00052|Galactose metabolism;00531|Glycosaminoglycan degradation;00600|Sphingolipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series
+fig|751585.3.peg.2584	
+fig|751585.3.peg.2585	
+fig|751585.3.peg.2586	
+fig|751585.3.peg.2587	
+fig|751585.3.peg.2588	
+fig|751585.3.peg.2589	
+fig|751585.3.peg.2590	
+fig|751585.3.peg.2591	
+fig|751585.3.peg.2592	
+fig|751585.3.peg.2593	00071|Fatty acid metabolism
+fig|751585.3.peg.2594	
+fig|751585.3.peg.2595	00061|Fatty acid biosynthesis;00253|Tetracycline biosynthesis;00310|Lysine degradation;00330|Arginine and proline metabolism;00340|Histidine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00362|Benzoate degradation via hydroxylation;00540|Lipopolysaccharide biosynthesis;00564|Glycerophospholipid metabolism;00565|Ether lipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series;00623|2,4-Dichlorobenzoate degradation;00626|Naphthalene and anthracene degradation;00627|1,4-Dichlorobenzene degradation;00642|Ethylbenzene degradation;00650|Butanoate metabolism;00680|Methane metabolism;00903|Limonene and pinene degradation;00904|Diterpenoid biosynthesis;00906|Carotenoid biosynthesis;00942|Anthocyanin biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00950|Isoquinoline alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis;00965|Betalain biosynthesis;01056|Biosynthesis of type II polyketide backbone
+fig|751585.3.peg.2596	
+fig|751585.3.peg.2597	
+fig|751585.3.peg.2598	
+fig|751585.3.rna.2	
+fig|751585.3.peg.34	
+fig|751585.3.peg.35	
+fig|751585.3.peg.36	
+fig|751585.3.peg.37	
+fig|751585.3.peg.38	
+fig|751585.3.peg.39	
+fig|751585.3.peg.40	
+fig|751585.3.peg.41	
+fig|751585.3.peg.42	
+fig|751585.3.peg.43	
+fig|751585.3.peg.44	
+fig|751585.3.peg.45	
+fig|751585.3.peg.46	
+fig|751585.3.peg.47	00270|Cysteine and methionine metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.48	00010|Glycolysis / Gluconeogenesis;00030|Pentose phosphate pathway;00051|Fructose and mannose metabolism;00052|Galactose metabolism;00680|Methane metabolism
+fig|751585.3.peg.49	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.50	
+fig|751585.3.peg.51	
+fig|751585.3.peg.52	
+fig|751585.3.peg.53	00330|Arginine and proline metabolism
+fig|751585.3.peg.54	00500|Starch and sucrose metabolism
+fig|751585.3.peg.55	
+fig|751585.3.peg.56	
+fig|751585.3.peg.57	
+fig|751585.3.peg.58	
+fig|751585.3.peg.59	
+fig|751585.3.peg.60	
+fig|751585.3.peg.61	
+fig|751585.3.peg.62	00010|Glycolysis / Gluconeogenesis;00680|Methane metabolism
+fig|751585.3.peg.63	
+fig|751585.3.peg.64	
+fig|751585.3.peg.65	00052|Galactose metabolism;00500|Starch and sucrose metabolism
+fig|751585.3.peg.66	
+fig|751585.3.peg.67	
+fig|751585.3.peg.68	
+fig|751585.3.peg.69	
+fig|751585.3.peg.70	
+fig|751585.3.peg.71	
+fig|751585.3.peg.72	
+fig|751585.3.peg.73	
+fig|751585.3.peg.74	
+fig|751585.3.peg.75	
+fig|751585.3.peg.76	
+fig|751585.3.peg.77	
+fig|751585.3.peg.78	
+fig|751585.3.peg.79	
+fig|751585.3.peg.80	
+fig|751585.3.peg.81	
+fig|751585.3.peg.82	
+fig|751585.3.peg.83	
+fig|751585.3.peg.84	
+fig|751585.3.peg.85	
+fig|751585.3.peg.86	00750|Vitamin B6 metabolism
+fig|751585.3.peg.87	
+fig|751585.3.peg.88	
+fig|751585.3.peg.89	
+fig|751585.3.peg.90	00190|Oxidative phosphorylation
+fig|751585.3.peg.91	
+fig|751585.3.peg.92	00790|Folate biosynthesis
+fig|751585.3.peg.93	00790|Folate biosynthesis
+fig|751585.3.peg.94	
+fig|751585.3.peg.95	
+fig|751585.3.peg.96	
+fig|751585.3.peg.97	
+fig|751585.3.peg.98	
+fig|751585.3.peg.99	
+fig|751585.3.peg.100	
+fig|751585.3.peg.101	
+fig|751585.3.peg.102	
+fig|751585.3.peg.103	
+fig|751585.3.peg.104	
+fig|751585.3.peg.105	
+fig|751585.3.peg.106	
+fig|751585.3.peg.107	00020|Citrate cycle (TCA cycle);00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.108	
+fig|751585.3.peg.109	
+fig|751585.3.peg.110	
+fig|751585.3.peg.111	
+fig|751585.3.peg.112	
+fig|751585.3.peg.113	
+fig|751585.3.peg.114	
+fig|751585.3.peg.115	
+fig|751585.3.peg.116	
+fig|751585.3.peg.117	
+fig|751585.3.peg.130	
+fig|751585.3.peg.131	
+fig|751585.3.peg.132	
+fig|751585.3.peg.133	
+fig|751585.3.peg.134	
+fig|751585.3.peg.135	
+fig|751585.3.peg.136	
+fig|751585.3.peg.137	
+fig|751585.3.peg.138	
+fig|751585.3.peg.139	
+fig|751585.3.peg.140	00230|Purine metabolism
+fig|751585.3.peg.141	
+fig|751585.3.peg.142	
+fig|751585.3.peg.143	
+fig|751585.3.peg.144	
+fig|751585.3.peg.145	
+fig|751585.3.peg.146	
+fig|751585.3.peg.147	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.148	
+fig|751585.3.peg.149	
+fig|751585.3.peg.150	
+fig|751585.3.peg.151	
+fig|751585.3.peg.152	
+fig|751585.3.peg.153	
+fig|751585.3.peg.154	
+fig|751585.3.peg.155	
+fig|751585.3.peg.156	
+fig|751585.3.peg.157	
+fig|751585.3.peg.158	
+fig|751585.3.peg.159	
+fig|751585.3.peg.160	
+fig|751585.3.peg.161	
+fig|751585.3.peg.162	
+fig|751585.3.peg.163	
+fig|751585.3.peg.164	
+fig|751585.3.peg.165	00500|Starch and sucrose metabolism
+fig|751585.3.peg.166	00500|Starch and sucrose metabolism
+fig|751585.3.peg.167	
+fig|751585.3.peg.168	
+fig|751585.3.peg.169	
+fig|751585.3.peg.170	00230|Purine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.171	
+fig|751585.3.peg.172	
+fig|751585.3.peg.173	
+fig|751585.3.peg.174	
+fig|751585.3.peg.175	
+fig|751585.3.peg.176	
+fig|751585.3.peg.177	
+fig|751585.3.peg.178	
+fig|751585.3.peg.179	
+fig|751585.3.peg.180	
+fig|751585.3.peg.181	
+fig|751585.3.peg.182	
+fig|751585.3.peg.183	
+fig|751585.3.peg.184	
+fig|751585.3.peg.185	
+fig|751585.3.peg.186	00230|Purine metabolism;00240|Pyrimidine metabolism;00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.187	00670|One carbon pool by folate;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.188	
+fig|751585.3.peg.189	
+fig|751585.3.peg.190	
+fig|751585.3.peg.191	
+fig|751585.3.peg.192	
+fig|751585.3.peg.193	
+fig|751585.3.peg.194	
+fig|751585.3.peg.201	
+fig|751585.3.peg.202	
+fig|751585.3.peg.203	
+fig|751585.3.peg.204	
+fig|751585.3.peg.205	
+fig|751585.3.peg.206	
+fig|751585.3.peg.207	
+fig|751585.3.peg.208	
+fig|751585.3.peg.209	
+fig|751585.3.peg.210	
+fig|751585.3.peg.211	
+fig|751585.3.peg.212	
+fig|751585.3.peg.213	
+fig|751585.3.peg.214	
+fig|751585.3.peg.215	
+fig|751585.3.peg.216	
+fig|751585.3.peg.217	
+fig|751585.3.peg.218	00030|Pentose phosphate pathway;00710|Carbon fixation in photosynthetic organisms;01051|Biosynthesis of ansamycins
+fig|751585.3.peg.219	00030|Pentose phosphate pathway;00710|Carbon fixation in photosynthetic organisms;01051|Biosynthesis of ansamycins
+fig|751585.3.peg.220	
+fig|751585.3.peg.221	00780|Biotin metabolism
+fig|751585.3.peg.222	
+fig|751585.3.peg.223	
+fig|751585.3.peg.224	
+fig|751585.3.peg.225	
+fig|751585.3.peg.226	
+fig|751585.3.peg.227	00010|Glycolysis / Gluconeogenesis;00230|Purine metabolism;00620|Pyruvate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.228	
+fig|751585.3.peg.229	
+fig|751585.3.peg.230	
+fig|751585.3.peg.231	
+fig|751585.3.peg.232	00260|Glycine, serine and threonine metabolism;00270|Cysteine and methionine metabolism;00300|Lysine biosynthesis
+fig|751585.3.peg.233	00260|Glycine, serine and threonine metabolism;00270|Cysteine and methionine metabolism;00300|Lysine biosynthesis
+fig|751585.3.peg.234	00240|Pyrimidine metabolism
+fig|751585.3.peg.235	
+fig|751585.3.peg.236	
+fig|751585.3.peg.237	
+fig|751585.3.peg.238	
+fig|751585.3.peg.239	
+fig|751585.3.peg.240	
+fig|751585.3.peg.241	00900|Terpenoid backbone biosynthesis
+fig|751585.3.rna.3	
+fig|751585.3.rna.4	
+fig|751585.3.peg.242	
+fig|751585.3.peg.243	
+fig|751585.3.peg.244	
+fig|751585.3.peg.245	
+fig|751585.3.peg.246	
+fig|751585.3.peg.247	
+fig|751585.3.peg.248	
+fig|751585.3.peg.249	
+fig|751585.3.peg.250	
+fig|751585.3.peg.251	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.252	
+fig|751585.3.peg.253	
+fig|751585.3.peg.254	
+fig|751585.3.peg.255	
+fig|751585.3.peg.256	
+fig|751585.3.peg.257	
+fig|751585.3.peg.258	
+fig|751585.3.peg.259	
+fig|751585.3.peg.260	
+fig|751585.3.peg.261	
+fig|751585.3.rna.5	
+fig|751585.3.rna.6	
+fig|751585.3.peg.262	
+fig|751585.3.peg.263	
+fig|751585.3.peg.264	
+fig|751585.3.peg.265	
+fig|751585.3.peg.266	00190|Oxidative phosphorylation
+fig|751585.3.peg.267	
+fig|751585.3.peg.268	00400|Phenylalanine, tyrosine and tryptophan biosynthesis;00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.269	00790|Folate biosynthesis
+fig|751585.3.peg.270	00790|Folate biosynthesis
+fig|751585.3.peg.271	
+fig|751585.3.peg.272	00790|Folate biosynthesis
+fig|751585.3.peg.273	00240|Pyrimidine metabolism;00260|Glycine, serine and threonine metabolism;00364|Fluorobenzoate degradation;00480|Glutathione metabolism;00520|Amino sugar and nucleotide sugar metabolism;00600|Sphingolipid metabolism;00760|Nicotinate and nicotinamide metabolism;00930|Caprolactam degradation
+fig|751585.3.peg.274	
+fig|751585.3.peg.275	
+fig|751585.3.peg.276	
+fig|751585.3.peg.277	
+fig|751585.3.peg.278	00260|Glycine, serine and threonine metabolism;00680|Methane metabolism
+fig|751585.3.peg.279	
+fig|751585.3.peg.280	
+fig|751585.3.peg.281	
+fig|751585.3.peg.282	
+fig|751585.3.peg.283	
+fig|751585.3.peg.284	
+fig|751585.3.peg.285	
+fig|751585.3.peg.286	
+fig|751585.3.peg.287	
+fig|751585.3.peg.288	00300|Lysine biosynthesis;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.289	
+fig|751585.3.peg.290	
+fig|751585.3.peg.291	
+fig|751585.3.peg.292	
+fig|751585.3.peg.293	
+fig|751585.3.peg.294	00740|Riboflavin metabolism
+fig|751585.3.peg.295	00740|Riboflavin metabolism;00740|Riboflavin metabolism
+fig|751585.3.peg.296	00740|Riboflavin metabolism
+fig|751585.3.peg.297	00740|Riboflavin metabolism;00740|Riboflavin metabolism
+fig|751585.3.peg.298	
+fig|751585.3.peg.299	
+fig|751585.3.peg.300	
+fig|751585.3.peg.301	
+fig|751585.3.peg.302	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.303	
+fig|751585.3.peg.304	
+fig|751585.3.peg.305	
+fig|751585.3.peg.306	
+fig|751585.3.peg.307	
+fig|751585.3.peg.327	
+fig|751585.3.peg.328	
+fig|751585.3.peg.329	
+fig|751585.3.peg.330	
+fig|751585.3.peg.331	
+fig|751585.3.peg.332	
+fig|751585.3.peg.333	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.334	
+fig|751585.3.peg.335	00130|Ubiquinone and other terpenoid-quinone biosynthesis;00253|Tetracycline biosynthesis;00340|Histidine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00380|Tryptophan metabolism;00450|Selenoamino acid metabolism;00522|Biosynthesis of 12-, 14- and 16-membered macrolides;00624|1- and 2-Methylnaphthalene degradation;00627|1,4-Dichlorobenzene degradation;00860|Porphyrin and chlorophyll metabolism;00940|Phenylpropanoid biosynthesis;00941|Flavonoid biosynthesis;00942|Anthocyanin biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00950|Isoquinoline alkaloid biosynthesis;00981|Insect hormone biosynthesis;01051|Biosynthesis of ansamycins;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.336	
+fig|751585.3.peg.337	
+fig|751585.3.peg.338	
+fig|751585.3.pg.4	
+fig|751585.3.peg.339	
+fig|751585.3.peg.340	
+fig|751585.3.peg.341	
+fig|751585.3.peg.342	
+fig|751585.3.peg.343	
+fig|751585.3.peg.344	
+fig|751585.3.peg.345	00970|Aminoacyl-tRNA biosynthesis;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.346	00970|Aminoacyl-tRNA biosynthesis;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.347	
+fig|751585.3.peg.348	
+fig|751585.3.peg.349	
+fig|751585.3.peg.350	
+fig|751585.3.peg.351	
+fig|751585.3.peg.352	00230|Purine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.353	
+fig|751585.3.rna.7	
+fig|751585.3.rna.8	
+fig|751585.3.peg.354	
+fig|751585.3.peg.355	
+fig|751585.3.peg.356	
+fig|751585.3.peg.357	
+fig|751585.3.peg.358	
+fig|751585.3.peg.359	
+fig|751585.3.peg.360	
+fig|751585.3.peg.361	
+fig|751585.3.peg.362	
+fig|751585.3.peg.363	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.364	
+fig|751585.3.peg.365	
+fig|751585.3.peg.366	
+fig|751585.3.peg.367	
+fig|751585.3.peg.368	
+fig|751585.3.peg.369	
+fig|751585.3.peg.370	
+fig|751585.3.peg.371	
+fig|751585.3.peg.372	
+fig|751585.3.peg.373	
+fig|751585.3.peg.374	
+fig|751585.3.peg.375	00240|Pyrimidine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.376	
+fig|751585.3.peg.377	
+fig|751585.3.peg.378	
+fig|751585.3.peg.379	
+fig|751585.3.peg.380	
+fig|751585.3.peg.381	
+fig|751585.3.peg.382	
+fig|751585.3.peg.383	
+fig|751585.3.peg.384	
+fig|751585.3.peg.385	
+fig|751585.3.peg.386	00260|Glycine, serine and threonine metabolism;00460|Cyanoamino acid metabolism;00630|Glyoxylate and dicarboxylate metabolism;00670|One carbon pool by folate;00680|Methane metabolism
+fig|751585.3.peg.387	
+fig|751585.3.peg.388	
+fig|751585.3.peg.389	
+fig|751585.3.peg.390	
+fig|751585.3.peg.391	00010|Glycolysis / Gluconeogenesis
+fig|751585.3.peg.392	
+fig|751585.3.peg.393	
+fig|751585.3.peg.395	
+fig|751585.3.peg.396	
+fig|751585.3.peg.397	
+fig|751585.3.peg.398	
+fig|751585.3.peg.399	
+fig|751585.3.peg.400	
+fig|751585.3.peg.401	
+fig|751585.3.peg.402	
+fig|751585.3.peg.403	
+fig|751585.3.peg.404	
+fig|751585.3.peg.405	
+fig|751585.3.peg.406	
+fig|751585.3.rna.9	
+fig|751585.3.peg.407	
+fig|751585.3.peg.408	
+fig|751585.3.peg.409	
+fig|751585.3.peg.410	
+fig|751585.3.peg.411	00650|Butanoate metabolism
+fig|751585.3.peg.412	
+fig|751585.3.peg.413	
+fig|751585.3.peg.414	
+fig|751585.3.peg.415	
+fig|751585.3.peg.416	
+fig|751585.3.peg.417	
+fig|751585.3.peg.418	
+fig|751585.3.peg.419	
+fig|751585.3.peg.420	
+fig|751585.3.peg.421	00230|Purine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.422	
+fig|751585.3.peg.423	
+fig|751585.3.peg.424	
+fig|751585.3.peg.425	
+fig|751585.3.peg.426	
+fig|751585.3.peg.427	
+fig|751585.3.peg.428	
+fig|751585.3.peg.429	
+fig|751585.3.peg.430	
+fig|751585.3.peg.431	
+fig|751585.3.peg.432	
+fig|751585.3.peg.433	
+fig|751585.3.peg.434	
+fig|751585.3.peg.435	
+fig|751585.3.peg.436	
+fig|751585.3.peg.437	00250|Alanine, aspartate and glutamate metabolism;00330|Arginine and proline metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.438	
+fig|751585.3.peg.439	
+fig|751585.3.peg.440	
+fig|751585.3.peg.441	
+fig|751585.3.peg.442	
+fig|751585.3.peg.443	
+fig|751585.3.peg.444	
+fig|751585.3.peg.445	
+fig|751585.3.peg.446	
+fig|751585.3.peg.447	
+fig|751585.3.peg.448	
+fig|751585.3.peg.449	00051|Fructose and mannose metabolism
+fig|751585.3.peg.450	
+fig|751585.3.peg.451	
+fig|751585.3.peg.452	00460|Cyanoamino acid metabolism;00500|Starch and sucrose metabolism;00940|Phenylpropanoid biosynthesis
+fig|751585.3.peg.453	
+fig|751585.3.peg.454	
+fig|751585.3.peg.455	00330|Arginine and proline metabolism
+fig|751585.3.peg.456	00860|Porphyrin and chlorophyll metabolism;00970|Aminoacyl-tRNA biosynthesis;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.457	
+fig|751585.3.peg.458	
+fig|751585.3.peg.459	00561|Glycerolipid metabolism;00564|Glycerophospholipid metabolism
+fig|751585.3.peg.460	
+fig|751585.3.peg.461	00360|Phenylalanine metabolism;00362|Benzoate degradation via hydroxylation;00621|Biphenyl degradation;00622|Toluene and xylene degradation
+fig|751585.3.peg.462	00010|Glycolysis / Gluconeogenesis
+fig|751585.3.peg.463	00540|Lipopolysaccharide biosynthesis;00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.464	00561|Glycerolipid metabolism
+fig|751585.3.peg.465	
+fig|751585.3.peg.466	
+fig|751585.3.peg.467	
+fig|751585.3.peg.468	
+fig|751585.3.peg.469	00270|Cysteine and methionine metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.470	00270|Cysteine and methionine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.471	
+fig|751585.3.peg.472	
+fig|751585.3.peg.488	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.489	
+fig|751585.3.peg.490	
+fig|751585.3.peg.491	
+fig|751585.3.peg.492	
+fig|751585.3.peg.493	
+fig|751585.3.peg.494	
+fig|751585.3.peg.495	
+fig|751585.3.peg.496	00620|Pyruvate metabolism
+fig|751585.3.peg.497	
+fig|751585.3.peg.498	
+fig|751585.3.peg.499	
+fig|751585.3.peg.500	
+fig|751585.3.peg.501	
+fig|751585.3.peg.502	
+fig|751585.3.peg.503	
+fig|751585.3.peg.504	
+fig|751585.3.peg.505	
+fig|751585.3.peg.506	
+fig|751585.3.peg.507	
+fig|751585.3.peg.508	
+fig|751585.3.peg.509	
+fig|751585.3.peg.510	
+fig|751585.3.peg.511	
+fig|751585.3.peg.512	
+fig|751585.3.peg.513	
+fig|751585.3.peg.514	
+fig|751585.3.peg.515	
+fig|751585.3.peg.516	
+fig|751585.3.peg.517	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.518	
+fig|751585.3.peg.519	
+fig|751585.3.peg.520	
+fig|751585.3.peg.521	
+fig|751585.3.peg.522	
+fig|751585.3.peg.523	
+fig|751585.3.peg.524	
+fig|751585.3.peg.525	
+fig|751585.3.peg.526	
+fig|751585.3.peg.527	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.528	
+fig|751585.3.peg.529	00051|Fructose and mannose metabolism;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.530	00052|Galactose metabolism;00500|Starch and sucrose metabolism
+fig|751585.3.peg.531	
+fig|751585.3.peg.532	
+fig|751585.3.peg.533	
+fig|751585.3.peg.534	
+fig|751585.3.peg.535	00120|Primary bile acid biosynthesis;00121|Secondary bile acid biosynthesis
+fig|751585.3.peg.536	
+fig|751585.3.peg.537	
+fig|751585.3.peg.538	
+fig|751585.3.peg.539	
+fig|751585.3.peg.540	
+fig|751585.3.peg.541	
+fig|751585.3.peg.542	
+fig|751585.3.peg.543	
+fig|751585.3.peg.544	
+fig|751585.3.peg.545	00230|Purine metabolism
+fig|751585.3.peg.546	
+fig|751585.3.peg.547	
+fig|751585.3.peg.548	
+fig|751585.3.peg.549	
+fig|751585.3.peg.550	
+fig|751585.3.peg.551	
+fig|751585.3.peg.552	
+fig|751585.3.peg.553	
+fig|751585.3.peg.554	
+fig|751585.3.peg.555	
+fig|751585.3.peg.556	
+fig|751585.3.peg.557	00330|Arginine and proline metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism
+fig|751585.3.peg.558	
+fig|751585.3.peg.559	
+fig|751585.3.peg.560	
+fig|751585.3.peg.561	
+fig|751585.3.peg.562	00627|1,4-Dichlorobenzene degradation;00640|Propanoate metabolism;00650|Butanoate metabolism
+fig|751585.3.peg.563	
+fig|751585.3.peg.564	
+fig|751585.3.peg.565	
+fig|751585.3.peg.566	
+fig|751585.3.peg.567	
+fig|751585.3.peg.568	
+fig|751585.3.peg.569	
+fig|751585.3.peg.570	
+fig|751585.3.peg.583	
+fig|751585.3.peg.584	
+fig|751585.3.peg.585	
+fig|751585.3.peg.586	
+fig|751585.3.peg.587	
+fig|751585.3.peg.588	
+fig|751585.3.peg.589	
+fig|751585.3.peg.590	
+fig|751585.3.peg.591	
+fig|751585.3.peg.592	
+fig|751585.3.peg.593	
+fig|751585.3.peg.594	
+fig|751585.3.peg.595	
+fig|751585.3.peg.596	
+fig|751585.3.peg.597	
+fig|751585.3.peg.598	
+fig|751585.3.peg.599	
+fig|751585.3.peg.600	
+fig|751585.3.peg.601	
+fig|751585.3.peg.602	
+fig|751585.3.peg.603	00230|Purine metabolism;00790|Folate biosynthesis
+fig|751585.3.peg.604	
+fig|751585.3.peg.605	
+fig|751585.3.peg.606	
+fig|751585.3.peg.607	
+fig|751585.3.peg.608	
+fig|751585.3.peg.609	
+fig|751585.3.peg.610	
+fig|751585.3.peg.611	
+fig|751585.3.peg.612	
+fig|751585.3.peg.613	
+fig|751585.3.peg.614	
+fig|751585.3.peg.615	
+fig|751585.3.peg.616	
+fig|751585.3.peg.617	
+fig|751585.3.peg.618	
+fig|751585.3.peg.619	
+fig|751585.3.peg.620	
+fig|751585.3.peg.621	
+fig|751585.3.peg.622	
+fig|751585.3.peg.623	00500|Starch and sucrose metabolism
+fig|751585.3.peg.624	
+fig|751585.3.peg.625	
+fig|751585.3.peg.626	
+fig|751585.3.peg.627	
+fig|751585.3.peg.628	
+fig|751585.3.peg.629	00040|Pentose and glucuronate interconversions;00053|Ascorbate and aldarate metabolism;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.630	
+fig|751585.3.peg.631	00521|Streptomycin biosynthesis;00523|Polyketide sugar unit biosynthesis;01055|Biosynthesis of vancomycin group antibiotics
+fig|751585.3.peg.632	
+fig|751585.3.peg.635	
+fig|751585.3.peg.636	
+fig|751585.3.peg.637	
+fig|751585.3.peg.638	
+fig|751585.3.peg.639	
+fig|751585.3.peg.640	
+fig|751585.3.peg.641	00620|Pyruvate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.642	00260|Glycine, serine and threonine metabolism
+fig|751585.3.peg.643	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.644	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.645	00750|Vitamin B6 metabolism
+fig|751585.3.peg.646	
+fig|751585.3.peg.647	
+fig|751585.3.peg.648	
+fig|751585.3.peg.649	
+fig|751585.3.peg.650	00240|Pyrimidine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.651	
+fig|751585.3.peg.652	
+fig|751585.3.peg.653	
+fig|751585.3.peg.654	
+fig|751585.3.peg.655	
+fig|751585.3.peg.656	
+fig|751585.3.peg.657	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.pg.5	
+fig|751585.3.peg.658	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.rna.10	
+fig|751585.3.peg.659	
+fig|751585.3.peg.660	
+fig|751585.3.peg.661	
+fig|751585.3.peg.662	
+fig|751585.3.peg.663	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.664	
+fig|751585.3.peg.665	
+fig|751585.3.peg.666	
+fig|751585.3.peg.667	
+fig|751585.3.peg.668	
+fig|751585.3.peg.669	
+fig|751585.3.peg.670	
+fig|751585.3.peg.671	00340|Histidine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00400|Phenylalanine, tyrosine and tryptophan biosynthesis;00401|Novobiocin biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis
+fig|751585.3.peg.672	
+fig|751585.3.peg.673	
+fig|751585.3.peg.674	
+fig|751585.3.peg.686	
+fig|751585.3.peg.687	
+fig|751585.3.peg.688	
+fig|751585.3.peg.689	
+fig|751585.3.peg.690	
+fig|751585.3.peg.691	
+fig|751585.3.peg.692	
+fig|751585.3.peg.693	
+fig|751585.3.peg.694	00650|Butanoate metabolism
+fig|751585.3.peg.695	00650|Butanoate metabolism
+fig|751585.3.peg.696	
+fig|751585.3.peg.697	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.698	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.699	
+fig|751585.3.peg.700	
+fig|751585.3.peg.701	
+fig|751585.3.peg.702	
+fig|751585.3.peg.703	00564|Glycerophospholipid metabolism
+fig|751585.3.peg.704	
+fig|751585.3.peg.705	
+fig|751585.3.peg.706	
+fig|751585.3.peg.707	
+fig|751585.3.peg.708	
+fig|751585.3.peg.709	00231|Puromycin biosynthesis;00592|alpha-Linolenic acid metabolism;00633|Trinitrotoluene degradation;00780|Biotin metabolism;00860|Porphyrin and chlorophyll metabolism;00950|Isoquinoline alkaloid biosynthesis;00981|Insect hormone biosynthesis;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.710	
+fig|751585.3.peg.711	00230|Purine metabolism
+fig|751585.3.peg.712	
+fig|751585.3.peg.713	
+fig|751585.3.peg.714	
+fig|751585.3.peg.715	
+fig|751585.3.peg.716	
+fig|751585.3.peg.717	
+fig|751585.3.peg.718	
+fig|751585.3.peg.719	
+fig|751585.3.peg.720	
+fig|751585.3.peg.721	00071|Fatty acid metabolism
+fig|751585.3.peg.722	
+fig|751585.3.peg.723	
+fig|751585.3.peg.724	
+fig|751585.3.peg.725	
+fig|751585.3.peg.732	
+fig|751585.3.peg.733	
+fig|751585.3.peg.734	
+fig|751585.3.peg.735	
+fig|751585.3.peg.736	
+fig|751585.3.peg.737	
+fig|751585.3.peg.738	
+fig|751585.3.peg.739	
+fig|751585.3.peg.740	
+fig|751585.3.peg.741	
+fig|751585.3.peg.742	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.743	
+fig|751585.3.peg.744	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.745	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.746	
+fig|751585.3.peg.747	
+fig|751585.3.peg.748	
+fig|751585.3.peg.749	
+fig|751585.3.peg.750	
+fig|751585.3.peg.751	
+fig|751585.3.peg.752	00410|beta-Alanine metabolism;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.753	
+fig|751585.3.peg.754	
+fig|751585.3.peg.755	
+fig|751585.3.peg.756	
+fig|751585.3.peg.757	
+fig|751585.3.peg.758	00620|Pyruvate metabolism
+fig|751585.3.peg.759	
+fig|751585.3.peg.760	
+fig|751585.3.peg.761	
+fig|751585.3.peg.762	
+fig|751585.3.peg.763	
+fig|751585.3.peg.764	
+fig|751585.3.peg.765	
+fig|751585.3.peg.766	
+fig|751585.3.peg.767	
+fig|751585.3.peg.768	
+fig|751585.3.peg.769	
+fig|751585.3.peg.770	
+fig|751585.3.peg.771	
+fig|751585.3.peg.772	
+fig|751585.3.peg.773	
+fig|751585.3.peg.774	
+fig|751585.3.peg.775	
+fig|751585.3.peg.776	
+fig|751585.3.peg.777	
+fig|751585.3.peg.778	
+fig|751585.3.peg.779	
+fig|751585.3.peg.780	00730|Thiamine metabolism;00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.781	
+fig|751585.3.peg.782	
+fig|751585.3.peg.783	
+fig|751585.3.peg.784	
+fig|751585.3.peg.785	
+fig|751585.3.peg.786	
+fig|751585.3.peg.787	
+fig|751585.3.peg.788	
+fig|751585.3.peg.789	
+fig|751585.3.peg.790	
+fig|751585.3.peg.791	
+fig|751585.3.peg.792	
+fig|751585.3.peg.793	
+fig|751585.3.peg.794	
+fig|751585.3.peg.795	
+fig|751585.3.peg.796	
+fig|751585.3.peg.797	
+fig|751585.3.peg.798	
+fig|751585.3.peg.799	
+fig|751585.3.peg.800	
+fig|751585.3.peg.801	
+fig|751585.3.peg.802	
+fig|751585.3.peg.803	
+fig|751585.3.peg.804	
+fig|751585.3.peg.805	
+fig|751585.3.peg.806	
+fig|751585.3.peg.807	
+fig|751585.3.peg.808	
+fig|751585.3.peg.809	
+fig|751585.3.peg.810	
+fig|751585.3.peg.811	
+fig|751585.3.peg.812	
+fig|751585.3.peg.813	
+fig|751585.3.peg.814	
+fig|751585.3.peg.815	
+fig|751585.3.peg.816	
+fig|751585.3.peg.817	
+fig|751585.3.peg.818	
+fig|751585.3.peg.819	
+fig|751585.3.peg.820	
+fig|751585.3.peg.821	
+fig|751585.3.peg.822	
+fig|751585.3.peg.823	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.824	
+fig|751585.3.peg.825	
+fig|751585.3.peg.826	
+fig|751585.3.peg.827	
+fig|751585.3.peg.828	
+fig|751585.3.peg.829	
+fig|751585.3.peg.830	
+fig|751585.3.peg.831	
+fig|751585.3.peg.832	
+fig|751585.3.peg.833	
+fig|751585.3.peg.834	
+fig|751585.3.peg.835	
+fig|751585.3.peg.836	
+fig|751585.3.peg.837	00052|Galactose metabolism;00500|Starch and sucrose metabolism
+fig|751585.3.peg.838	
+fig|751585.3.peg.839	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.840	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.841	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.842	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.843	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.844	
+fig|751585.3.peg.845	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.846	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.847	
+fig|751585.3.peg.848	00030|Pentose phosphate pathway;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.849	
+fig|751585.3.peg.850	
+fig|751585.3.peg.851	
+fig|751585.3.peg.852	
+fig|751585.3.peg.853	
+fig|751585.3.peg.854	
+fig|751585.3.peg.855	
+fig|751585.3.peg.856	
+fig|751585.3.peg.857	00010|Glycolysis / Gluconeogenesis;00030|Pentose phosphate pathway;00051|Fructose and mannose metabolism;00052|Galactose metabolism;00680|Methane metabolism
+fig|751585.3.peg.858	
+fig|751585.3.peg.859	
+fig|751585.3.peg.860	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.861	
+fig|751585.3.peg.862	
+fig|751585.3.peg.863	
+fig|751585.3.peg.864	
+fig|751585.3.peg.865	
+fig|751585.3.peg.866	
+fig|751585.3.peg.867	
+fig|751585.3.peg.868	
+fig|751585.3.peg.869	
+fig|751585.3.peg.870	
+fig|751585.3.peg.871	
+fig|751585.3.peg.872	
+fig|751585.3.peg.873	
+fig|751585.3.peg.874	
+fig|751585.3.peg.875	00340|Histidine metabolism
+fig|751585.3.peg.876	
+fig|751585.3.peg.877	
+fig|751585.3.peg.878	
+fig|751585.3.peg.879	
+fig|751585.3.peg.880	
+fig|751585.3.peg.881	
+fig|751585.3.peg.882	
+fig|751585.3.peg.883	
+fig|751585.3.peg.884	
+fig|751585.3.peg.885	
+fig|751585.3.peg.886	00250|Alanine, aspartate and glutamate metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.887	00450|Selenoamino acid metabolism;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.888	
+fig|751585.3.peg.889	
+fig|751585.3.peg.890	
+fig|751585.3.peg.891	00330|Arginine and proline metabolism
+fig|751585.3.peg.892	00240|Pyrimidine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.893	
+fig|751585.3.peg.894	00520|Amino sugar and nucleotide sugar metabolism;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.895	
+fig|751585.3.peg.896	
+fig|751585.3.peg.897	00270|Cysteine and methionine metabolism
+fig|751585.3.peg.898	
+fig|751585.3.peg.899	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.900	
+fig|751585.3.peg.901	
+fig|751585.3.peg.902	
+fig|751585.3.peg.903	
+fig|751585.3.peg.904	
+fig|751585.3.peg.905	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.906	
+fig|751585.3.peg.907	
+fig|751585.3.peg.919	
+fig|751585.3.peg.920	00230|Purine metabolism
+fig|751585.3.peg.921	00230|Purine metabolism
+fig|751585.3.peg.922	
+fig|751585.3.peg.923	00620|Pyruvate metabolism;00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.924	
+fig|751585.3.peg.925	
+fig|751585.3.peg.926	
+fig|751585.3.peg.927	
+fig|751585.3.peg.928	
+fig|751585.3.peg.929	
+fig|751585.3.peg.930	
+fig|751585.3.peg.931	
+fig|751585.3.peg.932	
+fig|751585.3.peg.933	
+fig|751585.3.peg.934	
+fig|751585.3.peg.935	
+fig|751585.3.peg.936	
+fig|751585.3.peg.937	
+fig|751585.3.peg.938	
+fig|751585.3.peg.939	
+fig|751585.3.peg.940	
+fig|751585.3.peg.941	
+fig|751585.3.peg.942	
+fig|751585.3.peg.943	
+fig|751585.3.peg.944	
+fig|751585.3.peg.945	
+fig|751585.3.peg.946	
+fig|751585.3.peg.947	
+fig|751585.3.peg.948	
+fig|751585.3.peg.949	
+fig|751585.3.peg.950	
+fig|751585.3.peg.951	
+fig|751585.3.peg.952	
+fig|751585.3.peg.953	
+fig|751585.3.peg.954	
+fig|751585.3.peg.955	
+fig|751585.3.peg.956	00300|Lysine biosynthesis
+fig|751585.3.peg.957	00071|Fatty acid metabolism
+fig|751585.3.peg.958	
+fig|751585.3.peg.959	
+fig|751585.3.peg.960	
+fig|751585.3.peg.961	
+fig|751585.3.peg.962	
+fig|751585.3.peg.963	
+fig|751585.3.peg.964	00473|D-Alanine metabolism
+fig|751585.3.peg.965	
+fig|751585.3.peg.966	
+fig|751585.3.peg.967	
+fig|751585.3.peg.968	
+fig|751585.3.peg.969	
+fig|751585.3.peg.970	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.971	00240|Pyrimidine metabolism
+fig|751585.3.peg.972	00310|Lysine degradation;00330|Arginine and proline metabolism;00330|Arginine and proline metabolism;00480|Glutathione metabolism;00960|Tropane, piperidine and pyridine alkaloid biosynthesis
+fig|751585.3.peg.973	
+fig|751585.3.peg.974	
+fig|751585.3.peg.975	
+fig|751585.3.peg.976	
+fig|751585.3.peg.977	
+fig|751585.3.peg.978	
+fig|751585.3.peg.979	
+fig|751585.3.peg.980	
+fig|751585.3.peg.981	
+fig|751585.3.peg.982	00250|Alanine, aspartate and glutamate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.983	
+fig|751585.3.peg.984	
+fig|751585.3.peg.985	
+fig|751585.3.peg.986	
+fig|751585.3.peg.987	
+fig|751585.3.peg.988	
+fig|751585.3.peg.989	
+fig|751585.3.peg.990	
+fig|751585.3.peg.991	
+fig|751585.3.peg.992	
+fig|751585.3.peg.993	
+fig|751585.3.peg.994	
+fig|751585.3.peg.995	
+fig|751585.3.peg.996	
+fig|751585.3.peg.997	
+fig|751585.3.peg.998	
+fig|751585.3.peg.999	
+fig|751585.3.peg.1000	
+fig|751585.3.peg.1001	
+fig|751585.3.peg.1002	
+fig|751585.3.peg.1003	
+fig|751585.3.peg.1004	
+fig|751585.3.peg.1005	
+fig|751585.3.peg.1006	
+fig|751585.3.peg.1007	
+fig|751585.3.peg.1008	00561|Glycerolipid metabolism
+fig|751585.3.pg.6	
+fig|751585.3.peg.1009	
+fig|751585.3.peg.1010	
+fig|751585.3.peg.1011	00010|Glycolysis / Gluconeogenesis;00030|Pentose phosphate pathway;00051|Fructose and mannose metabolism;00680|Methane metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1012	
+fig|751585.3.peg.1013	
+fig|751585.3.peg.1014	
+fig|751585.3.peg.1015	
+fig|751585.3.peg.1016	00260|Glycine, serine and threonine metabolism;00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1017	00260|Glycine, serine and threonine metabolism;00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1018	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1019	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1020	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1022	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1023	
+fig|751585.3.peg.1024	
+fig|751585.3.peg.1025	
+fig|751585.3.peg.1026	
+fig|751585.3.peg.1027	
+fig|751585.3.peg.1028	
+fig|751585.3.peg.1029	
+fig|751585.3.peg.1030	00330|Arginine and proline metabolism;00340|Histidine metabolism;00410|beta-Alanine metabolism
+fig|751585.3.rna.11	
+fig|751585.3.peg.1031	
+fig|751585.3.peg.1032	
+fig|751585.3.peg.1033	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1034	
+fig|751585.3.peg.1035	
+fig|751585.3.peg.1049	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1050	
+fig|751585.3.rna.12	
+fig|751585.3.peg.1051	
+fig|751585.3.peg.1052	
+fig|751585.3.peg.1053	
+fig|751585.3.peg.1054	
+fig|751585.3.peg.1055	
+fig|751585.3.peg.1056	
+fig|751585.3.peg.1057	
+fig|751585.3.peg.1058	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1059	
+fig|751585.3.peg.1060	
+fig|751585.3.peg.1061	
+fig|751585.3.peg.1062	
+fig|751585.3.peg.1063	
+fig|751585.3.peg.1064	00020|Citrate cycle (TCA cycle);00720|Reductive carboxylate cycle (CO2 fixation);00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.1065	00020|Citrate cycle (TCA cycle);00720|Reductive carboxylate cycle (CO2 fixation);00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.1066	
+fig|751585.3.rna.13	
+fig|751585.3.rna.14	
+fig|751585.3.rna.15	
+fig|751585.3.peg.1067	
+fig|751585.3.peg.1068	
+fig|751585.3.peg.1069	
+fig|751585.3.peg.1070	
+fig|751585.3.peg.1071	
+fig|751585.3.peg.1072	
+fig|751585.3.peg.1073	
+fig|751585.3.peg.1074	
+fig|751585.3.peg.1075	
+fig|751585.3.peg.1076	
+fig|751585.3.peg.1077	
+fig|751585.3.peg.1078	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1079	
+fig|751585.3.peg.1080	
+fig|751585.3.peg.1081	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1082	
+fig|751585.3.peg.1083	00051|Fructose and mannose metabolism;00512|O-Glycan biosynthesis;00513|High-mannose type N-glycan biosynthesis;00522|Biosynthesis of 12-, 14- and 16-membered macrolides;00540|Lipopolysaccharide biosynthesis;00550|Peptidoglycan biosynthesis;00561|Glycerolipid metabolism;00563|Glycosylphosphatidylinositol(GPI)-anchor biosynthesis;00600|Sphingolipid metabolism;00601|Glycosphingolipid biosynthesis - lacto and neolacto series;00603|Glycosphingolipid biosynthesis - globo series;00604|Glycosphingolipid biosynthesis - ganglio series;00906|Carotenoid biosynthesis;00908|Zeatin biosynthesis;00941|Flavonoid biosynthesis;00942|Anthocyanin biosynthesis;00944|Flavone and flavonol biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00965|Betalain biosynthesis;01051|Biosynthesis of ansamycins;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.1084	
+fig|751585.3.peg.1085	
+fig|751585.3.peg.1086	
+fig|751585.3.peg.1087	
+fig|751585.3.peg.1088	
+fig|751585.3.peg.1089	
+fig|751585.3.peg.1090	
+fig|751585.3.peg.1091	
+fig|751585.3.peg.1092	
+fig|751585.3.peg.1093	00052|Galactose metabolism;00561|Glycerolipid metabolism;00600|Sphingolipid metabolism;00603|Glycosphingolipid biosynthesis - globo series
+fig|751585.3.peg.1094	
+fig|751585.3.peg.1095	
+fig|751585.3.peg.1096	
+fig|751585.3.peg.1097	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1098	
+fig|751585.3.peg.1099	
+fig|751585.3.peg.1100	
+fig|751585.3.peg.1101	
+fig|751585.3.peg.1102	
+fig|751585.3.peg.1103	
+fig|751585.3.peg.1104	
+fig|751585.3.peg.1105	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1106	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1107	
+fig|751585.3.peg.1108	
+fig|751585.3.peg.1109	
+fig|751585.3.peg.1110	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1111	
+fig|751585.3.peg.1112	
+fig|751585.3.peg.1113	
+fig|751585.3.peg.1114	
+fig|751585.3.peg.1115	
+fig|751585.3.peg.1116	
+fig|751585.3.peg.1117	
+fig|751585.3.peg.1118	
+fig|751585.3.peg.1119	
+fig|751585.3.peg.1120	00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.1121	
+fig|751585.3.peg.1122	
+fig|751585.3.peg.1123	
+fig|751585.3.peg.1124	
+fig|751585.3.peg.1125	00473|D-Alanine metabolism;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1126	
+fig|751585.3.peg.1127	
+fig|751585.3.peg.1128	
+fig|751585.3.peg.1129	
+fig|751585.3.peg.1130	00561|Glycerolipid metabolism;00564|Glycerophospholipid metabolism
+fig|751585.3.peg.1131	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1132	
+fig|751585.3.peg.1133	
+fig|751585.3.peg.1134	
+fig|751585.3.peg.1135	00250|Alanine, aspartate and glutamate metabolism;00270|Cysteine and methionine metabolism;00270|Cysteine and methionine metabolism;00300|Lysine biosynthesis;00330|Arginine and proline metabolism;00350|Tyrosine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00360|Phenylalanine metabolism;00400|Phenylalanine, tyrosine and tryptophan biosynthesis;00400|Phenylalanine, tyrosine and tryptophan biosynthesis;00401|Novobiocin biosynthesis;00401|Novobiocin biosynthesis;00710|Carbon fixation in photosynthetic organisms;00950|Isoquinoline alkaloid biosynthesis;00950|Isoquinoline alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis
+fig|751585.3.peg.1136	
+fig|751585.3.peg.1137	
+fig|751585.3.peg.1138	
+fig|751585.3.peg.1139	
+fig|751585.3.peg.1140	
+fig|751585.3.peg.1141	
+fig|751585.3.peg.1142	
+fig|751585.3.peg.1143	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1144	
+fig|751585.3.peg.1145	
+fig|751585.3.peg.1146	
+fig|751585.3.peg.1147	
+fig|751585.3.peg.1148	
+fig|751585.3.peg.1149	
+fig|751585.3.peg.1150	00010|Glycolysis / Gluconeogenesis;00030|Pentose phosphate pathway;00500|Starch and sucrose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1151	
+fig|751585.3.peg.1152	
+fig|751585.3.peg.1153	
+fig|751585.3.peg.1154	00061|Fatty acid biosynthesis
+fig|751585.3.peg.1155	00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.1156	
+fig|751585.3.peg.1157	
+fig|751585.3.peg.1158	
+fig|751585.3.peg.1159	
+fig|751585.3.peg.1160	
+fig|751585.3.peg.1161	
+fig|751585.3.peg.1162	
+fig|751585.3.peg.1163	00061|Fatty acid biosynthesis;00780|Biotin metabolism
+fig|751585.3.peg.1164	00061|Fatty acid biosynthesis;00253|Tetracycline biosynthesis;00620|Pyruvate metabolism;00640|Propanoate metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1165	
+fig|751585.3.peg.1166	00061|Fatty acid biosynthesis
+fig|751585.3.peg.1167	00061|Fatty acid biosynthesis
+fig|751585.3.peg.1168	
+fig|751585.3.peg.1169	00020|Citrate cycle (TCA cycle);00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.1170	
+fig|751585.3.peg.1171	
+fig|751585.3.peg.1172	
+fig|751585.3.peg.1173	
+fig|751585.3.peg.1174	
+fig|751585.3.peg.1175	
+fig|751585.3.peg.1176	00240|Pyrimidine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.1177	
+fig|751585.3.peg.1178	
+fig|751585.3.peg.1179	
+fig|751585.3.peg.1180	00260|Glycine, serine and threonine metabolism;00680|Methane metabolism
+fig|751585.3.peg.1181	
+fig|751585.3.peg.1182	
+fig|751585.3.peg.1183	
+fig|751585.3.peg.1184	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1185	
+fig|751585.3.peg.1186	00670|One carbon pool by folate;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1187	
+fig|751585.3.peg.1188	00620|Pyruvate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1189	
+fig|751585.3.peg.1190	
+fig|751585.3.peg.1191	
+fig|751585.3.peg.1192	
+fig|751585.3.peg.1193	
+fig|751585.3.peg.1194	
+fig|751585.3.peg.1195	
+fig|751585.3.peg.1196	
+fig|751585.3.peg.1197	
+fig|751585.3.peg.1198	
+fig|751585.3.peg.1199	
+fig|751585.3.peg.1200	
+fig|751585.3.peg.1201	
+fig|751585.3.peg.1202	
+fig|751585.3.peg.1203	
+fig|751585.3.peg.1204	
+fig|751585.3.peg.1205	
+fig|751585.3.peg.1206	
+fig|751585.3.peg.1207	
+fig|751585.3.peg.1208	
+fig|751585.3.peg.1209	
+fig|751585.3.peg.1210	
+fig|751585.3.peg.1211	
+fig|751585.3.peg.1212	
+fig|751585.3.peg.1213	
+fig|751585.3.peg.1214	
+fig|751585.3.peg.1215	
+fig|751585.3.peg.1216	
+fig|751585.3.peg.1217	00030|Pentose phosphate pathway;00230|Purine metabolism
+fig|751585.3.peg.1218	
+fig|751585.3.peg.1219	
+fig|751585.3.peg.1220	00471|D-Glutamine and D-glutamate metabolism;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1221	
+fig|751585.3.peg.1222	00680|Methane metabolism
+fig|751585.3.peg.1223	
+fig|751585.3.peg.1224	00010|Glycolysis / Gluconeogenesis;00620|Pyruvate metabolism;00640|Propanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1225	
+fig|751585.3.peg.1226	
+fig|751585.3.peg.1227	
+fig|751585.3.peg.1228	
+fig|751585.3.peg.1229	
+fig|751585.3.peg.1230	
+fig|751585.3.peg.1231	
+fig|751585.3.peg.1232	
+fig|751585.3.peg.1233	
+fig|751585.3.peg.1234	
+fig|751585.3.peg.1235	
+fig|751585.3.peg.1236	
+fig|751585.3.peg.1237	
+fig|751585.3.peg.1238	00270|Cysteine and methionine metabolism;00450|Selenoamino acid metabolism
+fig|751585.3.peg.1239	
+fig|751585.3.peg.1240	
+fig|751585.3.peg.1241	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1242	00052|Galactose metabolism;00531|Glycosaminoglycan degradation;00600|Sphingolipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series
+fig|751585.3.peg.1243	
+fig|751585.3.peg.1244	
+fig|751585.3.peg.1245	
+fig|751585.3.peg.1246	
+fig|751585.3.peg.1247	
+fig|751585.3.peg.1268	
+fig|751585.3.peg.1269	00052|Galactose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1270	00052|Galactose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1271	00052|Galactose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1272	
+fig|751585.3.peg.1273	
+fig|751585.3.peg.1274	
+fig|751585.3.peg.1275	
+fig|751585.3.peg.1276	
+fig|751585.3.peg.1277	
+fig|751585.3.peg.1278	
+fig|751585.3.peg.1279	
+fig|751585.3.peg.1280	00061|Fatty acid biosynthesis;00253|Tetracycline biosynthesis;00310|Lysine degradation;00330|Arginine and proline metabolism;00340|Histidine metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00362|Benzoate degradation via hydroxylation;00540|Lipopolysaccharide biosynthesis;00564|Glycerophospholipid metabolism;00565|Ether lipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series;00623|2,4-Dichlorobenzoate degradation;00626|Naphthalene and anthracene degradation;00627|1,4-Dichlorobenzene degradation;00642|Ethylbenzene degradation;00650|Butanoate metabolism;00680|Methane metabolism;00903|Limonene and pinene degradation;00904|Diterpenoid biosynthesis;00906|Carotenoid biosynthesis;00942|Anthocyanin biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00950|Isoquinoline alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis;00965|Betalain biosynthesis;01056|Biosynthesis of type II polyketide backbone
+fig|751585.3.peg.1281	
+fig|751585.3.peg.1282	
+fig|751585.3.peg.1283	00330|Arginine and proline metabolism
+fig|751585.3.peg.1284	
+fig|751585.3.peg.1285	
+fig|751585.3.peg.1286	
+fig|751585.3.peg.1287	
+fig|751585.3.peg.1288	
+fig|751585.3.peg.1289	
+fig|751585.3.peg.1290	
+fig|751585.3.peg.1291	
+fig|751585.3.peg.1292	
+fig|751585.3.peg.1293	
+fig|751585.3.peg.1294	
+fig|751585.3.peg.1295	
+fig|751585.3.peg.1296	
+fig|751585.3.peg.1297	
+fig|751585.3.peg.1298	
+fig|751585.3.peg.1299	00230|Purine metabolism;00983|Drug metabolism - other enzymes
+fig|751585.3.peg.1300	
+fig|751585.3.peg.1301	
+fig|751585.3.peg.1302	
+fig|751585.3.peg.1303	
+fig|751585.3.peg.1304	
+fig|751585.3.peg.1305	
+fig|751585.3.peg.1306	
+fig|751585.3.peg.1307	
+fig|751585.3.peg.1308	00061|Fatty acid biosynthesis
+fig|751585.3.peg.1309	00061|Fatty acid biosynthesis;00780|Biotin metabolism
+fig|751585.3.peg.1310	
+fig|751585.3.peg.1311	
+fig|751585.3.peg.1312	
+fig|751585.3.peg.1313	00061|Fatty acid biosynthesis;00780|Biotin metabolism
+fig|751585.3.peg.1314	
+fig|751585.3.peg.1315	
+fig|751585.3.peg.1316	
+fig|751585.3.peg.1317	
+fig|751585.3.peg.1318	
+fig|751585.3.peg.1319	
+fig|751585.3.peg.1320	
+fig|751585.3.peg.1321	
+fig|751585.3.peg.1322	
+fig|751585.3.peg.1323	
+fig|751585.3.peg.1324	
+fig|751585.3.peg.1325	
+fig|751585.3.peg.1326	
+fig|751585.3.peg.1327	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.1328	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.1329	
+fig|751585.3.peg.1330	
+fig|751585.3.peg.1331	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.1332	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.1333	00190|Oxidative phosphorylation;00195|Photosynthesis;00680|Methane metabolism
+fig|751585.3.peg.1334	
+fig|751585.3.peg.1335	00561|Glycerolipid metabolism;00564|Glycerophospholipid metabolism
+fig|751585.3.peg.1336	
+fig|751585.3.peg.1337	
+fig|751585.3.peg.1338	
+fig|751585.3.peg.1339	
+fig|751585.3.peg.1340	
+fig|751585.3.peg.1341	
+fig|751585.3.peg.1342	
+fig|751585.3.peg.1343	
+fig|751585.3.peg.1344	
+fig|751585.3.peg.1345	
+fig|751585.3.peg.1346	
+fig|751585.3.peg.1347	
+fig|751585.3.peg.1348	
+fig|751585.3.peg.1349	
+fig|751585.3.peg.1350	
+fig|751585.3.peg.1351	
+fig|751585.3.peg.1352	
+fig|751585.3.peg.1353	
+fig|751585.3.peg.1354	
+fig|751585.3.peg.1355	
+fig|751585.3.peg.1356	
+fig|751585.3.peg.1357	
+fig|751585.3.peg.1358	
+fig|751585.3.peg.1359	
+fig|751585.3.peg.1360	
+fig|751585.3.peg.1361	
+fig|751585.3.peg.1362	
+fig|751585.3.peg.1363	
+fig|751585.3.peg.1364	
+fig|751585.3.peg.1365	
+fig|751585.3.peg.1366	
+fig|751585.3.peg.1367	
+fig|751585.3.peg.1368	
+fig|751585.3.peg.1369	
+fig|751585.3.peg.1370	
+fig|751585.3.peg.1371	
+fig|751585.3.peg.1372	
+fig|751585.3.peg.1373	
+fig|751585.3.peg.1374	
+fig|751585.3.peg.1375	
+fig|751585.3.peg.1376	
+fig|751585.3.peg.1377	
+fig|751585.3.peg.1378	
+fig|751585.3.peg.1379	
+fig|751585.3.peg.1380	
+fig|751585.3.peg.1381	
+fig|751585.3.peg.1382	
+fig|751585.3.peg.1383	
+fig|751585.3.peg.1384	
+fig|751585.3.peg.1385	
+fig|751585.3.peg.1386	
+fig|751585.3.peg.1387	
+fig|751585.3.peg.1389	
+fig|751585.3.peg.1390	
+fig|751585.3.peg.1391	
+fig|751585.3.peg.1392	
+fig|751585.3.peg.1393	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1394	
+fig|751585.3.peg.1395	
+fig|751585.3.peg.1396	
+fig|751585.3.peg.1397	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1398	
+fig|751585.3.peg.1399	00052|Galactose metabolism;00561|Glycerolipid metabolism;00600|Sphingolipid metabolism;00603|Glycosphingolipid biosynthesis - globo series
+fig|751585.3.peg.1400	
+fig|751585.3.peg.1401	
+fig|751585.3.peg.1402	
+fig|751585.3.peg.1403	
+fig|751585.3.peg.1404	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1405	
+fig|751585.3.peg.1406	
+fig|751585.3.peg.1407	00051|Fructose and mannose metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.1408	
+fig|751585.3.peg.1409	
+fig|751585.3.peg.1410	
+fig|751585.3.peg.1411	
+fig|751585.3.peg.1412	
+fig|751585.3.peg.1413	
+fig|751585.3.peg.1414	00730|Thiamine metabolism
+fig|751585.3.peg.1415	
+fig|751585.3.peg.1416	
+fig|751585.3.peg.1417	
+fig|751585.3.peg.1418	
+fig|751585.3.peg.1419	
+fig|751585.3.peg.1420	
+fig|751585.3.peg.1421	
+fig|751585.3.peg.1422	
+fig|751585.3.peg.1423	00270|Cysteine and methionine metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1424	
+fig|751585.3.peg.1425	
+fig|751585.3.peg.1426	
+fig|751585.3.peg.1427	
+fig|751585.3.peg.1428	00920|Sulfur metabolism
+fig|751585.3.peg.1429	00920|Sulfur metabolism
+fig|751585.3.peg.1430	00230|Purine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1431	00230|Purine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1432	
+fig|751585.3.peg.1433	
+fig|751585.3.peg.1434	00270|Cysteine and methionine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1435	
+fig|751585.3.peg.1436	
+fig|751585.3.peg.1437	
+fig|751585.3.peg.1438	
+fig|751585.3.peg.1439	00730|Thiamine metabolism
+fig|751585.3.peg.1440	
+fig|751585.3.peg.1441	
+fig|751585.3.peg.1442	
+fig|751585.3.peg.1443	00860|Porphyrin and chlorophyll metabolism
+fig|751585.3.peg.1444	
+fig|751585.3.peg.1445	00860|Porphyrin and chlorophyll metabolism
+fig|751585.3.peg.1446	00860|Porphyrin and chlorophyll metabolism
+fig|751585.3.peg.1447	00240|Pyrimidine metabolism;00450|Selenoamino acid metabolism
+fig|751585.3.peg.1448	
+fig|751585.3.peg.1449	
+fig|751585.3.peg.1450	
+fig|751585.3.peg.1451	
+fig|751585.3.peg.1452	00270|Cysteine and methionine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1453	
+fig|751585.3.peg.1454	
+fig|751585.3.peg.1455	
+fig|751585.3.peg.1456	
+fig|751585.3.peg.1457	
+fig|751585.3.peg.1458	
+fig|751585.3.peg.1459	00052|Galactose metabolism;00500|Starch and sucrose metabolism
+fig|751585.3.peg.1460	00052|Galactose metabolism;00561|Glycerolipid metabolism;00600|Sphingolipid metabolism;00603|Glycosphingolipid biosynthesis - globo series
+fig|751585.3.peg.1461	
+fig|751585.3.peg.1462	00270|Cysteine and methionine metabolism;00450|Selenoamino acid metabolism;00920|Sulfur metabolism
+fig|751585.3.peg.1463	
+fig|751585.3.peg.1464	
+fig|751585.3.peg.1465	
+fig|751585.3.peg.1466	
+fig|751585.3.peg.1467	
+fig|751585.3.peg.1468	
+fig|751585.3.peg.1469	04660|T cell receptor signaling pathway
+fig|751585.3.peg.1470	
+fig|751585.3.peg.1471	
+fig|751585.3.peg.1475	00051|Fructose and mannose metabolism;00512|O-Glycan biosynthesis;00513|High-mannose type N-glycan biosynthesis;00522|Biosynthesis of 12-, 14- and 16-membered macrolides;00540|Lipopolysaccharide biosynthesis;00550|Peptidoglycan biosynthesis;00561|Glycerolipid metabolism;00563|Glycosylphosphatidylinositol(GPI)-anchor biosynthesis;00600|Sphingolipid metabolism;00601|Glycosphingolipid biosynthesis - lacto and neolacto series;00603|Glycosphingolipid biosynthesis - globo series;00604|Glycosphingolipid biosynthesis - ganglio series;00906|Carotenoid biosynthesis;00908|Zeatin biosynthesis;00941|Flavonoid biosynthesis;00942|Anthocyanin biosynthesis;00944|Flavone and flavonol biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00965|Betalain biosynthesis;01051|Biosynthesis of ansamycins;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.1476	
+fig|751585.3.peg.1477	00521|Streptomycin biosynthesis;00523|Polyketide sugar unit biosynthesis;01055|Biosynthesis of vancomycin group antibiotics
+fig|751585.3.peg.1478	
+fig|751585.3.peg.1479	
+fig|751585.3.peg.1480	
+fig|751585.3.peg.1481	
+fig|751585.3.peg.1482	00010|Glycolysis / Gluconeogenesis;00270|Cysteine and methionine metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism
+fig|751585.3.peg.1483	
+fig|751585.3.peg.1484	
+fig|751585.3.peg.1485	
+fig|751585.3.peg.1486	
+fig|751585.3.peg.1487	
+fig|751585.3.peg.1488	
+fig|751585.3.peg.1489	
+fig|751585.3.peg.1490	
+fig|751585.3.peg.1491	
+fig|751585.3.peg.1492	
+fig|751585.3.peg.1493	
+fig|751585.3.peg.1494	00240|Pyrimidine metabolism
+fig|751585.3.peg.1495	00240|Pyrimidine metabolism
+fig|751585.3.peg.1496	00240|Pyrimidine metabolism
+fig|751585.3.peg.1497	00240|Pyrimidine metabolism
+fig|751585.3.peg.1498	
+fig|751585.3.peg.1499	
+fig|751585.3.peg.1500	
+fig|751585.3.peg.1501	
+fig|751585.3.peg.1502	
+fig|751585.3.peg.1503	
+fig|751585.3.peg.1504	
+fig|751585.3.peg.1505	
+fig|751585.3.peg.1506	
+fig|751585.3.peg.1507	00620|Pyruvate metabolism;00627|1,4-Dichlorobenzene degradation
+fig|751585.3.peg.1508	00240|Pyrimidine metabolism
+fig|751585.3.peg.1509	00240|Pyrimidine metabolism
+fig|751585.3.peg.1510	
+fig|751585.3.peg.1511	
+fig|751585.3.peg.1512	
+fig|751585.3.peg.1513	
+fig|751585.3.peg.1514	
+fig|751585.3.peg.1515	00052|Galactose metabolism;00531|Glycosaminoglycan degradation;00600|Sphingolipid metabolism;00604|Glycosphingolipid biosynthesis - ganglio series
+fig|751585.3.peg.1516	
+fig|751585.3.peg.1517	
+fig|751585.3.peg.1518	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.1519	00250|Alanine, aspartate and glutamate metabolism;00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.1520	
+fig|751585.3.peg.1521	
+fig|751585.3.peg.1522	
+fig|751585.3.peg.1523	
+fig|751585.3.peg.1524	
+fig|751585.3.peg.1525	
+fig|751585.3.peg.1535	
+fig|751585.3.peg.1536	
+fig|751585.3.peg.1537	
+fig|751585.3.peg.1538	
+fig|751585.3.peg.1539	
+fig|751585.3.peg.1540	
+fig|751585.3.peg.1541	
+fig|751585.3.peg.1542	
+fig|751585.3.peg.1543	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1544	
+fig|751585.3.peg.1545	
+fig|751585.3.peg.1546	00230|Purine metabolism
+fig|751585.3.peg.1547	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1548	
+fig|751585.3.peg.1549	00300|Lysine biosynthesis;00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1550	
+fig|751585.3.peg.1551	
+fig|751585.3.peg.1552	00670|One carbon pool by folate;00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1553	
+fig|751585.3.peg.1554	
+fig|751585.3.peg.1555	
+fig|751585.3.peg.1556	
+fig|751585.3.peg.1557	
+fig|751585.3.peg.1558	00030|Pentose phosphate pathway;00040|Pentose and glucuronate interconversions;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1559	00730|Thiamine metabolism
+fig|751585.3.peg.1560	
+fig|751585.3.peg.1561	
+fig|751585.3.peg.1562	
+fig|751585.3.peg.1563	
+fig|751585.3.peg.1564	
+fig|751585.3.peg.1565	00240|Pyrimidine metabolism
+fig|751585.3.peg.1566	
+fig|751585.3.peg.1567	00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.1568	00564|Glycerophospholipid metabolism;04070|Phosphatidylinositol signaling system
+fig|751585.3.peg.1569	00900|Terpenoid backbone biosynthesis
+fig|751585.3.peg.1570	
+fig|751585.3.peg.1571	
+fig|751585.3.peg.1572	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.rna.16	
+fig|751585.3.peg.1573	
+fig|751585.3.peg.1574	
+fig|751585.3.peg.1575	
+fig|751585.3.peg.1576	
+fig|751585.3.peg.1577	
+fig|751585.3.peg.1578	
+fig|751585.3.peg.1579	
+fig|751585.3.peg.1580	
+fig|751585.3.peg.1581	
+fig|751585.3.peg.1582	
+fig|751585.3.peg.1583	00740|Riboflavin metabolism
+fig|751585.3.peg.1584	
+fig|751585.3.peg.1585	
+fig|751585.3.peg.1586	
+fig|751585.3.peg.1587	
+fig|751585.3.peg.1652	
+fig|751585.3.peg.1653	
+fig|751585.3.peg.1654	
+fig|751585.3.peg.1655	
+fig|751585.3.peg.1656	
+fig|751585.3.peg.1657	
+fig|751585.3.peg.1658	
+fig|751585.3.peg.1659	
+fig|751585.3.peg.1660	
+fig|751585.3.peg.1661	
+fig|751585.3.peg.1662	
+fig|751585.3.peg.1663	
+fig|751585.3.peg.1664	
+fig|751585.3.peg.1665	
+fig|751585.3.peg.1666	
+fig|751585.3.peg.1667	
+fig|751585.3.peg.1668	
+fig|751585.3.peg.1669	
+fig|751585.3.peg.1670	
+fig|751585.3.peg.1671	
+fig|751585.3.peg.1672	
+fig|751585.3.peg.1673	
+fig|751585.3.peg.1674	
+fig|751585.3.peg.1675	
+fig|751585.3.peg.1676	
+fig|751585.3.peg.1677	
+fig|751585.3.peg.1678	
+fig|751585.3.peg.1679	
+fig|751585.3.peg.1680	
+fig|751585.3.peg.1681	
+fig|751585.3.peg.1682	
+fig|751585.3.peg.1683	
+fig|751585.3.peg.1684	
+fig|751585.3.peg.1685	
+fig|751585.3.peg.1686	
+fig|751585.3.peg.1687	
+fig|751585.3.peg.1688	
+fig|751585.3.peg.1689	
+fig|751585.3.peg.1690	
+fig|751585.3.peg.1691	
+fig|751585.3.peg.1692	
+fig|751585.3.peg.1693	
+fig|751585.3.peg.1701	
+fig|751585.3.peg.1702	00500|Starch and sucrose metabolism
+fig|751585.3.peg.1703	
+fig|751585.3.peg.1704	
+fig|751585.3.peg.1705	
+fig|751585.3.peg.1706	
+fig|751585.3.peg.1707	
+fig|751585.3.peg.1708	
+fig|751585.3.peg.1709	
+fig|751585.3.peg.1710	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1711	00051|Fructose and mannose metabolism;00512|O-Glycan biosynthesis;00513|High-mannose type N-glycan biosynthesis;00522|Biosynthesis of 12-, 14- and 16-membered macrolides;00540|Lipopolysaccharide biosynthesis;00550|Peptidoglycan biosynthesis;00561|Glycerolipid metabolism;00563|Glycosylphosphatidylinositol(GPI)-anchor biosynthesis;00600|Sphingolipid metabolism;00601|Glycosphingolipid biosynthesis - lacto and neolacto series;00603|Glycosphingolipid biosynthesis - globo series;00604|Glycosphingolipid biosynthesis - ganglio series;00906|Carotenoid biosynthesis;00908|Zeatin biosynthesis;00941|Flavonoid biosynthesis;00942|Anthocyanin biosynthesis;00944|Flavone and flavonol biosynthesis;00945|Stilbenoid, diarylheptanoid and gingerol biosynthesis;00965|Betalain biosynthesis;01051|Biosynthesis of ansamycins;01057|Biosynthesis of type II polyketide products
+fig|751585.3.peg.1712	
+fig|751585.3.peg.1713	
+fig|751585.3.peg.1714	
+fig|751585.3.peg.1715	00670|One carbon pool by folate;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1716	00670|One carbon pool by folate;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1717	
+fig|751585.3.peg.1718	00564|Glycerophospholipid metabolism
+fig|751585.3.peg.1719	00061|Fatty acid biosynthesis;00253|Tetracycline biosynthesis;00620|Pyruvate metabolism;00640|Propanoate metabolism;00720|Reductive carboxylate cycle (CO2 fixation);00280|Valine, leucine and isoleucine degradation;00630|Glyoxylate and dicarboxylate metabolism
+fig|751585.3.peg.1720	
+fig|751585.3.peg.1721	00330|Arginine and proline metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism
+fig|751585.3.peg.1722	00330|Arginine and proline metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism
+fig|751585.3.peg.1723	
+fig|751585.3.peg.1734	
+fig|751585.3.peg.1735	
+fig|751585.3.peg.1736	
+fig|751585.3.peg.1737	
+fig|751585.3.peg.1738	
+fig|751585.3.peg.1739	
+fig|751585.3.peg.1740	
+fig|751585.3.peg.1741	
+fig|751585.3.peg.1742	
+fig|751585.3.peg.1743	
+fig|751585.3.peg.1744	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1745	
+fig|751585.3.rna.18	
+fig|751585.3.peg.1746	
+fig|751585.3.peg.1747	
+fig|751585.3.peg.1748	
+fig|751585.3.peg.1749	
+fig|751585.3.peg.1750	
+fig|751585.3.peg.1751	00260|Glycine, serine and threonine metabolism;00564|Glycerophospholipid metabolism
+fig|751585.3.peg.1752	
+fig|751585.3.peg.1753	00230|Purine metabolism;00670|One carbon pool by folate
+fig|751585.3.peg.1754	
+fig|751585.3.peg.1755	00230|Purine metabolism
+fig|751585.3.peg.1756	
+fig|751585.3.peg.1757	
+fig|751585.3.peg.1758	
+fig|751585.3.peg.1759	
+fig|751585.3.peg.1760	
+fig|751585.3.peg.1761	00340|Histidine metabolism
+fig|751585.3.peg.1762	00340|Histidine metabolism
+fig|751585.3.peg.1763	00340|Histidine metabolism
+fig|751585.3.peg.1764	00970|Aminoacyl-tRNA biosynthesis
+fig|751585.3.peg.1765	
+fig|751585.3.peg.1766	
+fig|751585.3.peg.1767	
+fig|751585.3.peg.1768	
+fig|751585.3.peg.1769	
+fig|751585.3.peg.1770	
+fig|751585.3.peg.1771	
+fig|751585.3.peg.1772	
+fig|751585.3.peg.1773	
+fig|751585.3.peg.1774	00330|Arginine and proline metabolism
+fig|751585.3.peg.1775	
+fig|751585.3.peg.1776	00670|One carbon pool by folate
+fig|751585.3.peg.1777	
+fig|751585.3.peg.1778	
+fig|751585.3.peg.1779	
+fig|751585.3.peg.1780	
+fig|751585.3.peg.1781	00908|Zeatin biosynthesis
+fig|751585.3.peg.1782	
+fig|751585.3.peg.1783	
+fig|751585.3.peg.1784	
+fig|751585.3.peg.1785	
+fig|751585.3.peg.1786	
+fig|751585.3.peg.1797	
+fig|751585.3.peg.1798	
+fig|751585.3.peg.1799	
+fig|751585.3.peg.1800	
+fig|751585.3.peg.1801	
+fig|751585.3.peg.1802	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1803	
+fig|751585.3.peg.1804	
+fig|751585.3.peg.1805	
+fig|751585.3.peg.1806	
+fig|751585.3.peg.1807	
+fig|751585.3.peg.1808	
+fig|751585.3.peg.1809	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1810	
+fig|751585.3.peg.1811	
+fig|751585.3.peg.1812	
+fig|751585.3.peg.1813	
+fig|751585.3.peg.1814	
+fig|751585.3.peg.1815	
+fig|751585.3.peg.1816	
+fig|751585.3.peg.1817	
+fig|751585.3.peg.1818	
+fig|751585.3.peg.1819	
+fig|751585.3.peg.1820	
+fig|751585.3.peg.1821	
+fig|751585.3.peg.1822	
+fig|751585.3.peg.1823	
+fig|751585.3.peg.1824	
+fig|751585.3.peg.1825	
+fig|751585.3.peg.1826	
+fig|751585.3.peg.1827	00260|Glycine, serine and threonine metabolism;00290|Valine, leucine and isoleucine biosynthesis;00270|Cysteine and methionine metabolism
+fig|751585.3.peg.1828	
+fig|751585.3.peg.1829	
+fig|751585.3.peg.1830	
+fig|751585.3.peg.1831	
+fig|751585.3.peg.1832	
+fig|751585.3.peg.1833	
+fig|751585.3.peg.1834	
+fig|751585.3.peg.1835	
+fig|751585.3.peg.1836	00430|Taurine and hypotaurine metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1837	00430|Taurine and hypotaurine metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1838	00430|Taurine and hypotaurine metabolism;00620|Pyruvate metabolism;00640|Propanoate metabolism;00680|Methane metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1839	00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1840	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1841	00230|Purine metabolism;00240|Pyrimidine metabolism
+fig|751585.3.peg.1842	
+fig|751585.3.peg.1847	
+fig|751585.3.peg.1848	00290|Valine, leucine and isoleucine biosynthesis;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1849	00290|Valine, leucine and isoleucine biosynthesis;00650|Butanoate metabolism;00660|C5-Branched dibasic acid metabolism;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1850	00270|Cysteine and methionine metabolism;00670|One carbon pool by folate
+fig|751585.3.peg.1851	
+fig|751585.3.peg.1852	00230|Purine metabolism;00240|Pyrimidine metabolism;00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.1853	
+fig|751585.3.peg.1854	
+fig|751585.3.peg.1855	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1856	00400|Phenylalanine, tyrosine and tryptophan biosynthesis
+fig|751585.3.peg.1857	
+fig|751585.3.peg.1858	
+fig|751585.3.peg.1859	
+fig|751585.3.peg.1860	00290|Valine, leucine and isoleucine biosynthesis;00650|Butanoate metabolism;00660|C5-Branched dibasic acid metabolism;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.1861	
+fig|751585.3.peg.1862	
+fig|751585.3.peg.1863	00250|Alanine, aspartate and glutamate metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.1864	
+fig|751585.3.peg.1865	
+fig|751585.3.peg.1866	
+fig|751585.3.peg.1867	
+fig|751585.3.peg.1868	
+fig|751585.3.peg.1869	
+fig|751585.3.peg.1870	
+fig|751585.3.peg.1871	
+fig|751585.3.peg.1872	00550|Peptidoglycan biosynthesis
+fig|751585.3.peg.1873	
+fig|751585.3.peg.1874	
+fig|751585.3.peg.1875	
+fig|751585.3.peg.1876	
+fig|751585.3.peg.1877	
+fig|751585.3.peg.1884	00564|Glycerophospholipid metabolism
+fig|751585.3.pg.7	
+fig|751585.3.peg.1885	00564|Glycerophospholipid metabolism
+fig|751585.3.peg.1886	
+fig|751585.3.peg.1887	
+fig|751585.3.peg.1888	
+fig|751585.3.peg.1889	
+fig|751585.3.peg.1890	
+fig|751585.3.peg.1891	
+fig|751585.3.peg.1892	
+fig|751585.3.peg.1893	
+fig|751585.3.peg.1894	
+fig|751585.3.peg.1895	
+fig|751585.3.peg.1896	
+fig|751585.3.peg.1897	
+fig|751585.3.peg.1898	
+fig|751585.3.peg.1899	
+fig|751585.3.peg.1900	
+fig|751585.3.peg.1901	
+fig|751585.3.peg.1902	
+fig|751585.3.peg.1903	00730|Thiamine metabolism
+fig|751585.3.peg.1904	00730|Thiamine metabolism
+fig|751585.3.peg.1905	
+fig|751585.3.peg.1906	
+fig|751585.3.peg.1907	
+fig|751585.3.peg.1908	
+fig|751585.3.peg.1909	
+fig|751585.3.peg.1910	00010|Glycolysis / Gluconeogenesis;00051|Fructose and mannose metabolism;00562|Inositol phosphate metabolism;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1911	00010|Glycolysis / Gluconeogenesis;00710|Carbon fixation in photosynthetic organisms
+fig|751585.3.peg.1912	00340|Histidine metabolism
+fig|751585.3.peg.1913	
+fig|751585.3.peg.1914	
+fig|751585.3.peg.1915	
+fig|751585.3.peg.1916	00730|Thiamine metabolism
+fig|751585.3.peg.1917	
+fig|751585.3.peg.1918	
+fig|751585.3.peg.1919	
+fig|751585.3.peg.1920	
+fig|751585.3.peg.1921	
+fig|751585.3.peg.1922	00360|Phenylalanine metabolism;00362|Benzoate degradation via hydroxylation;00650|Butanoate metabolism
+fig|751585.3.peg.1923	00630|Glyoxylate and dicarboxylate metabolism;00650|Butanoate metabolism;00720|Reductive carboxylate cycle (CO2 fixation)
+fig|751585.3.peg.1924	
+fig|751585.3.peg.1925	
+fig|751585.3.peg.1926	
+fig|751585.3.peg.1927	
+fig|751585.3.peg.1928	00670|One carbon pool by folate;00790|Folate biosynthesis
+fig|751585.3.peg.1929	00240|Pyrimidine metabolism;00670|One carbon pool by folate
+fig|751585.3.peg.1930	
+fig|751585.3.peg.1931	
+fig|751585.3.peg.1932	
+fig|751585.3.peg.1933	00190|Oxidative phosphorylation
+fig|751585.3.peg.1934	00240|Pyrimidine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.1935	00240|Pyrimidine metabolism;00250|Alanine, aspartate and glutamate metabolism
+fig|751585.3.peg.1936	
+fig|751585.3.peg.1937	00900|Terpenoid backbone biosynthesis
+fig|751585.3.rna.19	
+fig|751585.3.rna.20	
+fig|751585.3.peg.1938	
+fig|751585.3.peg.1939	
+fig|751585.3.peg.1940	
+fig|751585.3.peg.1941	00250|Alanine, aspartate and glutamate metabolism;00330|Arginine and proline metabolism
+fig|751585.3.peg.1942	
+fig|751585.3.peg.1943	
+fig|751585.3.peg.1944	
+fig|751585.3.peg.1945	
+fig|751585.3.peg.1946	
+fig|751585.3.peg.1947	
+fig|751585.3.peg.1948	
+fig|751585.3.peg.1949	
+fig|751585.3.peg.1950	
+fig|751585.3.peg.1955	
+fig|751585.3.peg.1956	
+fig|751585.3.peg.1957	
+fig|751585.3.peg.1958	
+fig|751585.3.peg.1959	
+fig|751585.3.peg.1960	
+fig|751585.3.peg.1961	
+fig|751585.3.peg.1962	
+fig|751585.3.peg.1963	
+fig|751585.3.peg.1964	
+fig|751585.3.peg.1965	00250|Alanine, aspartate and glutamate metabolism;00270|Cysteine and methionine metabolism;00330|Arginine and proline metabolism;00350|Tyrosine metabolism;00360|Phenylalanine metabolism;00400|Phenylalanine, tyrosine and tryptophan biosynthesis;00401|Novobiocin biosynthesis;00710|Carbon fixation in photosynthetic organisms;00950|Isoquinoline alkaloid biosynthesis;00960|Tropane, piperidine and pyridine alkaloid biosynthesis
+fig|751585.3.peg.1966	
+fig|751585.3.peg.1967	
+fig|751585.3.pg.8	
+fig|751585.3.peg.1968	
+fig|751585.3.peg.1969	
+fig|751585.3.peg.1970	
+fig|751585.3.peg.1971	
+fig|751585.3.peg.1972	
+fig|751585.3.peg.1973	
+fig|751585.3.peg.1974	
+fig|751585.3.peg.1975	
+fig|751585.3.peg.1976	
+fig|751585.3.peg.1977	
+fig|751585.3.peg.1978	
+fig|751585.3.peg.1979	
+fig|751585.3.peg.1980	
+fig|751585.3.peg.1981	
+fig|751585.3.peg.1982	
+fig|751585.3.peg.1983	
+fig|751585.3.peg.1984	
+fig|751585.3.peg.1985	
+fig|751585.3.peg.1986	
+fig|751585.3.peg.1987	
+fig|751585.3.peg.1994	
+fig|751585.3.peg.1995	
+fig|751585.3.peg.1996	
+fig|751585.3.peg.1997	
+fig|751585.3.peg.1998	00620|Pyruvate metabolism;00640|Propanoate metabolism;00650|Butanoate metabolism
+fig|751585.3.peg.1999	00620|Pyruvate metabolism;00640|Propanoate metabolism;00650|Butanoate metabolism
+fig|751585.3.peg.2000	
+fig|751585.3.peg.2001	
+fig|751585.3.rna.21	
+fig|751585.3.rna.22	
+fig|751585.3.peg.2002	
+fig|751585.3.peg.2003	
+fig|751585.3.peg.2004	
+fig|751585.3.peg.2005	
+fig|751585.3.peg.2006	
+fig|751585.3.peg.2007	
+fig|751585.3.peg.2008	
+fig|751585.3.peg.2009	
+fig|751585.3.peg.2010	
+fig|751585.3.peg.2011	
+fig|751585.3.peg.2012	
+fig|751585.3.peg.2013	
+fig|751585.3.peg.2014	
+fig|751585.3.peg.2015	
+fig|751585.3.peg.2016	
+fig|751585.3.peg.2017	
+fig|751585.3.peg.2018	
+fig|751585.3.peg.2019	
+fig|751585.3.peg.2020	
+fig|751585.3.peg.2021	
+fig|751585.3.peg.2022	
+fig|751585.3.peg.2023	
+fig|751585.3.peg.2024	
+fig|751585.3.peg.2025	
+fig|751585.3.peg.2026	00250|Alanine, aspartate and glutamate metabolism;00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2027	
+fig|751585.3.rna.23	
+fig|751585.3.rna.24	
+fig|751585.3.peg.2028	
+fig|751585.3.peg.2029	
+fig|751585.3.peg.2030	
+fig|751585.3.peg.2031	
+fig|751585.3.peg.2032	00230|Purine metabolism
+fig|751585.3.peg.2033	00230|Purine metabolism;00670|One carbon pool by folate
+fig|751585.3.peg.2034	00230|Purine metabolism
+fig|751585.3.peg.2035	
+fig|751585.3.peg.2036	
+fig|751585.3.peg.2037	
+fig|751585.3.peg.2038	
+fig|751585.3.peg.2039	00770|Pantothenate and CoA biosynthesis;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2040	00410|beta-Alanine metabolism;00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2041	00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2042	00770|Pantothenate and CoA biosynthesis
+fig|751585.3.peg.2043	00230|Purine metabolism
+fig|751585.3.peg.2044	
+fig|751585.3.peg.2045	
+fig|751585.3.peg.2046	
+fig|751585.3.peg.2047	
+fig|751585.3.peg.2048	
+fig|751585.3.peg.2049	
+fig|751585.3.peg.2050	
+fig|751585.3.peg.2051	
+fig|751585.3.peg.2052	00520|Amino sugar and nucleotide sugar metabolism
+fig|751585.3.peg.2053	
+fig|751585.3.peg.2054	00250|Alanine, aspartate and glutamate metabolism;00330|Arginine and proline metabolism;00630|Glyoxylate and dicarboxylate metabolism;00910|Nitrogen metabolism
+fig|751585.3.peg.2055	
+fig|751585.3.peg.2056	00760|Nicotinate and nicotinamide metabolism
+fig|751585.3.peg.2057	
+fig|751585.3.peg.2070	

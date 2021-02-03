@@ -1,0 +1,1126 @@
+genome_id	genome_name	patric_id	refseq_locus_tag	alt_locus_tag	gene	product	ec_number	ec_description	pathway_id	pathway_name
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.8		VBIButVir287785_0008			6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.8		VBIButVir287785_0008			6.3.5.2	GMP synthase (glutamine-hydrolyzing)	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.14		VBIButVir287785_0014			3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.14		VBIButVir287785_0014			3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.14		VBIButVir287785_0014			3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.21		VBIButVir287785_0021			3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.34		VBIButVir287785_0034			2.1.2.5	Glutamate formimidoyltransferase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.34		VBIButVir287785_0034			2.1.2.5	Glutamate formimidoyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.34		VBIButVir287785_0034			4.3.1.4	Formimidoyltetrahydrofolate cyclodeaminase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.35		VBIButVir287785_0035			3.5.2.7	Imidazolonepropionase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.37		VBIButVir287785_0037		Peptidoglycan D,D-transpeptidase MrdA (EC 3.4.16.4)	3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.41		VBIButVir287785_0041			2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.41		VBIButVir287785_0041			2.1.2.3	Phosphoribosylaminoimidazolecarboxamide formyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.41		VBIButVir287785_0041			3.5.4.10	IMP cyclohydrolase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.49		VBIButVir287785_0049			1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.50		VBIButVir287785_0050			1.3.1.14	Dihydroorotate dehydrogenase (NAD(+))	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.64		VBIButVir287785_0064			2.7.4.7	Phosphomethylpyrimidine kinase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.77		VBIButVir287785_0077			3.1.3.45	3-deoxy-manno-octulosonate-8-phosphatase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.78		VBIButVir287785_0078		Ketopantoate reductase PanG (EC 1.1.1.169)	1.1.1.169	2-dehydropantoate 2-reductase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.82		VBIButVir287785_0082			2.7.1.31	Glycerate 3-kinase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.82		VBIButVir287785_0082			2.7.1.31	Glycerate 3-kinase	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.82		VBIButVir287785_0082			2.7.1.31	Glycerate 3-kinase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.87		VBIButVir287785_0087			2.4.2.22	Xanthine phosphoribosyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.88		VBIButVir287785_0088			6.3.5.3	Phosphoribosylformylglycinamidine synthase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.93		VBIButVir287785_0093			4.2.1.1	Carbonate dehydratase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.94		VBIButVir287785_0094			5.1.3.1	Ribulose-phosphate 3-epimerase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.94		VBIButVir287785_0094			5.1.3.1	Ribulose-phosphate 3-epimerase	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.94		VBIButVir287785_0094			5.1.3.1	Ribulose-phosphate 3-epimerase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.109		VBIButVir287785_0109			2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.109		VBIButVir287785_0109			2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.109		VBIButVir287785_0109			2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.127		VBIButVir287785_0127			2.1.1.37	DNA (cytosine-5-)-methyltransferase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00140	C21-Steroid hormone metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00253	Tetracycline biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00363	Bisphenol A degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00562	Inositol phosphate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00591	Linoleic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00622	Toluene and xylene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00625	Tetrachloroethene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00633	Trinitrotoluene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00830	Retinol metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	00981	Insect hormone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01056	Biosynthesis of type II polyketide backbone
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.154		VBIButVir287785_0154		NADH-dependent butanol dehydrogenase A (EC 1.1.1.-)	1.1.1.-	With NAD(+) or NADP(+) as acceptor	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.159		VBIButVir287785_0159		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.159		VBIButVir287785_0159		3-oxoacyl-[acyl-carrier protein] reductase (EC 1.1.1.100), FadG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.163		VBIButVir287785_0163			2.3.1.8	Phosphate acetyltransferase	00430	Taurine and hypotaurine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.163		VBIButVir287785_0163			2.3.1.8	Phosphate acetyltransferase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.163		VBIButVir287785_0163			2.3.1.8	Phosphate acetyltransferase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.163		VBIButVir287785_0163			2.3.1.8	Phosphate acetyltransferase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.163		VBIButVir287785_0163			2.3.1.8	Phosphate acetyltransferase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.164		VBIButVir287785_0164			2.7.2.1	Acetate kinase	00430	Taurine and hypotaurine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.164		VBIButVir287785_0164			2.7.2.1	Acetate kinase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.164		VBIButVir287785_0164			2.7.2.1	Acetate kinase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.164		VBIButVir287785_0164			2.7.2.1	Acetate kinase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.164		VBIButVir287785_0164			2.7.2.1	Acetate kinase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.179		VBIButVir287785_0179		Dethiobiotin synthase BioD (EC 6.3.3.3)	6.3.3.3	Dethiobiotin synthase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.181		VBIButVir287785_0181		Pimeloyl-[acyl-carrier protein] methyl ester esterase BioG (EC 3.1.1.85)	3.1.1.85	Pimeloyl-[acyl-carrier protein] methyl ester esterase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.182		VBIButVir287785_0182			2.3.1.47	8-amino-7-oxononanoate synthase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.183		VBIButVir287785_0183			2.6.1.62	Adenosylmethionine--8-amino-7-oxononanoate transaminase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.184		VBIButVir287785_0184			2.8.1.6	Biotin synthase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.226		VBIButVir287785_0226			6.3.4.20	7-cyano-7-deazaguanine synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.227		VBIButVir287785_0227			4.1.2.50	6-carboxytetrahydropterin synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.228		VBIButVir287785_0228		7-carboxy-7-deazaguanine synthase (EC 4.3.99.3)	4.3.99.3	7-carboxy-7-deazaguanine synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.302		VBIButVir287785_0302			4.1.1.44	4-carboxymuconolactone decarboxylase	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.312		VBIButVir287785_0312			1.4.3.16	L-aspartate oxidase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.312		VBIButVir287785_0312			1.4.3.16	L-aspartate oxidase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.313		VBIButVir287785_0313			2.4.2.19	Nicotinate-nucleotide diphosphorylase (carboxylating)	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.315		VBIButVir287785_0315			6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.319		VBIButVir287785_0319			4.3.2.2	Adenylosuccinate lyase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.319		VBIButVir287785_0319			4.3.2.2	Adenylosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.321		VBIButVir287785_0321		NADPH-dependent 7-cyano-7-deazaguanine reductase (EC 1.7.1.13)	1.7.1.13	PreQ(1) synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.343		VBIButVir287785_0343			2.7.7.73	Sulfur carrier protein ThiS adenylyltransferase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.344		VBIButVir287785_0344			5.3.1.9	Glucose-6-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.344		VBIButVir287785_0344			5.3.1.9	Glucose-6-phosphate isomerase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.344		VBIButVir287785_0344			5.3.1.9	Glucose-6-phosphate isomerase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.344		VBIButVir287785_0344			5.3.1.9	Glucose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.346		VBIButVir287785_0346			4.3.1.17	L-serine ammonia-lyase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.346		VBIButVir287785_0346			4.3.1.17	L-serine ammonia-lyase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.350		VBIButVir287785_0350			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.350		VBIButVir287785_0350			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00363	Bisphenol A degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00623	2,4-Dichlorobenzoate degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00830	Retinol metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351			3.1.1.-	Carboxylic ester hydrolases	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.351		VBIButVir287785_0351		D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase (EC 3.1.3.82)	3.1.3.82	D-glycero-beta-D-manno-heptose 1,7-bisphosphate 7-phosphatase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.353		VBIButVir287785_0353			1.4.1.1	Alanine dehydrogenase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.353		VBIButVir287785_0353			1.4.1.1	Alanine dehydrogenase	00430	Taurine and hypotaurine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.374		VBIButVir287785_0374			6.1.1.15	Proline--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.381		VBIButVir287785_0381			6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.381		VBIButVir287785_0381			6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.381		VBIButVir287785_0381			6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.381		VBIButVir287785_0381			6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.426		VBIButVir287785_0426			1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.429		VBIButVir287785_0429			3.1.3.25	Inositol-phosphate phosphatase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.429		VBIButVir287785_0429			3.1.3.25	Inositol-phosphate phosphatase	00562	Inositol phosphate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.429		VBIButVir287785_0429			3.1.3.25	Inositol-phosphate phosphatase	04070	Phosphatidylinositol signaling system
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.434		VBIButVir287785_0434			6.1.1.19	Arginine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.439		VBIButVir287785_0439			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.439		VBIButVir287785_0439			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.459		VBIButVir287785_0459			2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.459		VBIButVir287785_0459			2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.462		VBIButVir287785_0462			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.462		VBIButVir287785_0462			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.463		VBIButVir287785_0463			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.463		VBIButVir287785_0463			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.464		VBIButVir287785_0464			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.464		VBIButVir287785_0464			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.465		VBIButVir287785_0465			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.465		VBIButVir287785_0465			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.466		VBIButVir287785_0466			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.466		VBIButVir287785_0466			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.467		VBIButVir287785_0467			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.467		VBIButVir287785_0467			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.468		VBIButVir287785_0468			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.468		VBIButVir287785_0468			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.469		VBIButVir287785_0469			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.469		VBIButVir287785_0469			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.470		VBIButVir287785_0470			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.470		VBIButVir287785_0470			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.471		VBIButVir287785_0471			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.471		VBIButVir287785_0471			1.6.5.3	NADH:ubiquinone reductase (H(+)-translocating)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.498		VBIButVir287785_0498		Inactive (p)ppGpp 3'-pyrophosphohydrolase domain / GTP pyrophosphokinase (EC 2.7.6.5), (p)ppGpp synthetase I	2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.507		VBIButVir287785_0507			2.7.1.40	Pyruvate kinase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.507		VBIButVir287785_0507			2.7.1.40	Pyruvate kinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.507		VBIButVir287785_0507			2.7.1.40	Pyruvate kinase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.507		VBIButVir287785_0507			2.7.1.40	Pyruvate kinase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.508		VBIButVir287785_0508			4.2.1.10	3-dehydroquinate dehydratase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.511		VBIButVir287785_0511			2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.520		VBIButVir287785_0520		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.529		VBIButVir287785_0529			1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.539		VBIButVir287785_0539			2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.551		VBIButVir287785_0551			4.1.1.35	UDP-glucuronate decarboxylase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.551		VBIButVir287785_0551			4.1.1.35	UDP-glucuronate decarboxylase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.553		VBIButVir287785_0553			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.553		VBIButVir287785_0553			1.1.1.133	dTDP-4-dehydrorhamnose reductase	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.555		VBIButVir287785_0555			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.555		VBIButVir287785_0555			5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.556		VBIButVir287785_0556			4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.556		VBIButVir287785_0556			4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.556		VBIButVir287785_0556			4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.559		VBIButVir287785_0559			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.559		VBIButVir287785_0559			2.7.7.24	Glucose-1-phosphate thymidylyltransferase	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.560		VBIButVir287785_0560		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.562		VBIButVir287785_0562			1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.7.7.15	Choline-phosphate cytidylyltransferase	00440	Phosphonate and phosphinate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.568		VBIButVir287785_0568			2.7.7.15	Choline-phosphate cytidylyltransferase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.573		VBIButVir287785_0573			2.-.-.-	Transferases	00231	Puromycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.584		VBIButVir287785_0584			3.4.13.18	Cytosol nonspecific dipeptidase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.584		VBIButVir287785_0584			3.4.13.18	Cytosol nonspecific dipeptidase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.584		VBIButVir287785_0584			3.4.13.18	Cytosol nonspecific dipeptidase	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.585		VBIButVir287785_0585			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.589		VBIButVir287785_0589			2.7.1.71	Shikimate kinase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.592		VBIButVir287785_0592			6.3.4.10	Biotin--[propionyl-CoA-carboxylase (ATP-hydrolyzing)] ligase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.592		VBIButVir287785_0592			6.3.4.11	Biotin--[methylcrotonoyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.592		VBIButVir287785_0592			6.3.4.15	Biotin--[acetyl-CoA-carboxylase] ligase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.592		VBIButVir287785_0592			6.3.4.9	Biotin--[methylmalonyl-CoA-carboxytransferase] ligase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.605		VBIButVir287785_0605			3.5.4.5	Cytidine deaminase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.605		VBIButVir287785_0605			3.5.4.5	Cytidine deaminase	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.617		VBIButVir287785_0617			1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.617		VBIButVir287785_0617			1.5.1.5	Methylenetetrahydrofolate dehydrogenase (NADP(+))	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.617		VBIButVir287785_0617			3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.617		VBIButVir287785_0617			3.5.4.9	Methenyltetrahydrofolate cyclohydrolase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.622		VBIButVir287785_0622			2.7.9.1	Pyruvate, phosphate dikinase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.622		VBIButVir287785_0622			2.7.9.1	Pyruvate, phosphate dikinase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.627		VBIButVir287785_0627			5.-.-.-	Isomerases	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.627		VBIButVir287785_0627			5.-.-.-	Isomerases	00100	Steroid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.628		VBIButVir287785_0628			3.2.2.4	AMP nucleosidase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.632		VBIButVir287785_0632			2.7.1.24	Dephospho-CoA kinase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00401	Novobiocin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.651		VBIButVir287785_0651			2.6.1.57	Aromatic-amino-acid transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.652		VBIButVir287785_0652			2.7.7.15	Choline-phosphate cytidylyltransferase	00440	Phosphonate and phosphinate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.652		VBIButVir287785_0652			2.7.7.15	Choline-phosphate cytidylyltransferase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.655		VBIButVir287785_0655			1.5.1.3	Dihydrofolate reductase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.655		VBIButVir287785_0655			1.5.1.3	Dihydrofolate reductase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.656		VBIButVir287785_0656			2.1.1.45	Thymidylate synthase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.656		VBIButVir287785_0656			2.1.1.45	Thymidylate synthase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.667		VBIButVir287785_0667			6.3.3.2	5-formyltetrahydrofolate cyclo-ligase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.669		VBIButVir287785_0669			6.3.1.5	NAD(+) synthase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.675		VBIButVir287785_0675			5.1.1.1	Alanine racemase	00473	D-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.675		VBIButVir287785_0675			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.675		VBIButVir287785_0675			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.706		VBIButVir287785_0706			6.1.1.10	Methionine--tRNA ligase	00450	Selenoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.706		VBIButVir287785_0706			6.1.1.10	Methionine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.714		VBIButVir287785_0714			6.3.2.4	D-alanine--D-alanine ligase	00473	D-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.714		VBIButVir287785_0714			6.3.2.4	D-alanine--D-alanine ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.716		VBIButVir287785_0716			1.1.1.37	Malate dehydrogenase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.725		VBIButVir287785_0725		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.728		VBIButVir287785_0728		[FeFe] hydrogenase (EC 1.12.7.2)	1.12.7.2	Ferredoxin hydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.736		VBIButVir287785_0736			6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00401	Novobiocin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.747		VBIButVir287785_0747			2.6.1.1	Aspartate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.748		VBIButVir287785_0748		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, delta subunit, ferredoxin-like 4Fe-4S binding protein (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.748		VBIButVir287785_0748			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.748		VBIButVir287785_0748			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.749		VBIButVir287785_0749		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.749		VBIButVir287785_0749			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.749		VBIButVir287785_0749			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.750		VBIButVir287785_0750		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.750		VBIButVir287785_0750			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.750		VBIButVir287785_0750			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.751		VBIButVir287785_0751		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.751		VBIButVir287785_0751			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.751		VBIButVir287785_0751			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.760		VBIButVir287785_0760			2.7.1.6	Galactokinase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.760		VBIButVir287785_0760			2.7.1.6	Galactokinase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.761		VBIButVir287785_0761			5.1.3.3	Aldose 1-epimerase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.779		VBIButVir287785_0779			4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.780		VBIButVir287785_0780			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.780		VBIButVir287785_0780			6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.782		VBIButVir287785_0782			3.5.2.3	Dihydroorotase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.784		VBIButVir287785_0784			6.3.4.13	Phosphoribosylamine--glycine ligase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.789		VBIButVir287785_0789			2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.793		VBIButVir287785_0793			4.3.1.1	Aspartate ammonia-lyase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.793		VBIButVir287785_0793			4.3.1.1	Aspartate ammonia-lyase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.822		VBIButVir287785_0822			1.11.1.6	Catalase	00380	Tryptophan metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.822		VBIButVir287785_0822			1.11.1.6	Catalase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.822		VBIButVir287785_0822			1.11.1.6	Catalase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.851		VBIButVir287785_0851		Class A beta-lactamase (EC 3.5.2.6)	3.5.2.6	Beta-lactamase	00311	Penicillin and cephalosporin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.851		VBIButVir287785_0851		Class A beta-lactamase (EC 3.5.2.6)	3.5.2.6	Beta-lactamase	00312	beta-Lactam resistance
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.860		VBIButVir287785_0860			1.1.1.267	1-deoxy-D-xylulose-5-phosphate reductoisomerase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.866		VBIButVir287785_0866			3.5.3.1	Arginase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.867		VBIButVir287785_0867			3.5.3.1	Arginase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.889		VBIButVir287785_0889			2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.889		VBIButVir287785_0889			2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.889		VBIButVir287785_0889			2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.889		VBIButVir287785_0889			2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.889		VBIButVir287785_0889			2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.900		VBIButVir287785_0900			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.900		VBIButVir287785_0900			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.32	Phospholipase A(1)	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.32	Phospholipase A(1)	00592	alpha-Linolenic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.4	Phospholipase A(2)	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.4	Phospholipase A(2)	00565	Ether lipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.4	Phospholipase A(2)	00590	Arachidonic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.4	Phospholipase A(2)	00591	Linoleic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.908		VBIButVir287785_0908			3.1.1.4	Phospholipase A(2)	00592	alpha-Linolenic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1019		VBIButVir287785_1019		Bacterioferritin (EC 1.16.3.1)	1.16.3.1	Ferroxidase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1055		VBIButVir287785_1055			6.1.1.3	Threonine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1069		VBIButVir287785_1069			6.1.1.11	Serine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1074		VBIButVir287785_1074		Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1074		VBIButVir287785_1074		Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1074		VBIButVir287785_1074		Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00380	Tryptophan metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1074		VBIButVir287785_1074		Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00627	1,4-Dichlorobenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1074		VBIButVir287785_1074		Aliphatic amidase AmiE (EC 3.5.1.4)	3.5.1.4	Amidase	00643	Styrene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1089		VBIButVir287785_1089			2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1089		VBIButVir287785_1089			3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1201		VBIButVir287785_1201			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1215		VBIButVir287785_1215			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1215		VBIButVir287785_1215			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1215		VBIButVir287785_1215			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1215		VBIButVir287785_1215			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1217		VBIButVir287785_1217			2.7.4.3	Adenylate kinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230		Branched-chain phosphotransacylase (EC 2.3.1.- )	2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1230		VBIButVir287785_1230			2.3.1.19	Phosphate butyryltransferase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1233		VBIButVir287785_1233			2.8.1.8	Lipoyl synthase	00785	Lipoic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1234		VBIButVir287785_1234			2.3.1.181	Lipoyl(octanoyl) transferase	00785	Lipoic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1238		VBIButVir287785_1238			4.2.1.33	3-isopropylmalate dehydratase	00290	Valine, leucine and isoleucine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1242		VBIButVir287785_1242			3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1242		VBIButVir287785_1242			3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1242		VBIButVir287785_1242			3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1251		VBIButVir287785_1251			1.3.1.9	Enoyl-[acyl-carrier-protein] reductase (NADH)	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1252		VBIButVir287785_1252			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1252		VBIButVir287785_1252			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1258		VBIButVir287785_1258			6.3.4.3	Formate--tetrahydrofolate ligase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1258		VBIButVir287785_1258			6.3.4.3	Formate--tetrahydrofolate ligase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1264		VBIButVir287785_1264			2.7.1.50	Hydroxyethylthiazole kinase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1265		VBIButVir287785_1265			2.5.1.3	Thiamine-phosphate diphosphorylase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1290		VBIButVir287785_1290			2.7.7.41	Phosphatidate cytidylyltransferase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1290		VBIButVir287785_1290			2.7.7.41	Phosphatidate cytidylyltransferase	04070	Phosphatidylinositol signaling system
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1291		VBIButVir287785_1291			4.1.1.65	Phosphatidylserine decarboxylase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1292		VBIButVir287785_1292			2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1304		VBIButVir287785_1304			3.5.1.19	Nicotinamidase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1316		VBIButVir287785_1316			2.7.7.3	Pantetheine-phosphate adenylyltransferase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1317		VBIButVir287785_1317		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1317		VBIButVir287785_1317		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1317		VBIButVir287785_1317		Pyruvate carboxylase subunit B (biotin-containing) (EC 6.4.1.1)	6.4.1.1	Pyruvate carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1327		VBIButVir287785_1327			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1327		VBIButVir287785_1327			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1327		VBIButVir287785_1327			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1328		VBIButVir287785_1328			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1328		VBIButVir287785_1328			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1328		VBIButVir287785_1328			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1329		VBIButVir287785_1329			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1329		VBIButVir287785_1329			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1329		VBIButVir287785_1329			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1330		VBIButVir287785_1330		ATP synthase F0 sector subunit b (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1330		VBIButVir287785_1330		ATP synthase F0 sector subunit b (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1330		VBIButVir287785_1330		ATP synthase F0 sector subunit b (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1331		VBIButVir287785_1331			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1331		VBIButVir287785_1331			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1331		VBIButVir287785_1331			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1332		VBIButVir287785_1332			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1332		VBIButVir287785_1332			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1332		VBIButVir287785_1332			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1334		VBIButVir287785_1334			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1334		VBIButVir287785_1334			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1334		VBIButVir287785_1334			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1346		VBIButVir287785_1346			3.1.1.31	6-phosphogluconolactonase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1351		VBIButVir287785_1351			3.1.1.5	Lysophospholipase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1356		VBIButVir287785_1356		Tyrosine-protein kinase (EC 2.7.10.2)	2.7.10.2	Non-specific protein-tyrosine kinase	04660	T cell receptor signaling pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1369		VBIButVir287785_1369			5.1.99.1	Methylmalonyl-CoA epimerase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1369		VBIButVir287785_1369			5.1.99.1	Methylmalonyl-CoA epimerase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1369		VBIButVir287785_1369			5.1.99.1	Methylmalonyl-CoA epimerase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1369		VBIButVir287785_1369			5.1.99.1	Methylmalonyl-CoA epimerase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1370		VBIButVir287785_1370		Methylmalonyl-CoA decarboxylase, alpha chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1373		VBIButVir287785_1373		Methylmalonyl-CoA decarboxylase, beta chain (EC 4.1.1.41)	4.1.1.41	Methylmalonyl-CoA decarboxylase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1402		VBIButVir287785_1402			1.4.1.13	Glutamate synthase (NADPH)	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1402		VBIButVir287785_1402			1.4.1.13	Glutamate synthase (NADPH)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1404		VBIButVir287785_1404			2.4.1.1	Glycogen phosphorylase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1405		VBIButVir287785_1405			3.2.1.1	Alpha-amylase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1408		VBIButVir287785_1408			2.4.1.18	1,4-alpha-glucan branching enzyme	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1415		VBIButVir287785_1415			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1415		VBIButVir287785_1415			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1415		VBIButVir287785_1415			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1446		VBIButVir287785_1446			2.5.1.74	1,4-dihydroxy-2-naphthoate polyprenyltransferase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1450		VBIButVir287785_1450			3.6.1.8	ATP diphosphatase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1450		VBIButVir287785_1450			3.6.1.8	ATP diphosphatase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1452		VBIButVir287785_1452			6.3.2.6	Phosphoribosylaminoimidazolesuccinocarboxamide synthase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1460		VBIButVir287785_1460			1.17.4.2	Ribonucleoside-triphosphate reductase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1460		VBIButVir287785_1460			1.17.4.2	Ribonucleoside-triphosphate reductase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1464		VBIButVir287785_1464			1.1.1.61	4-hydroxybutyrate dehydrogenase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1467		VBIButVir287785_1467			4.2.1.120	4-hydroxybutanoyl-CoA dehydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1467		VBIButVir287785_1467			5.3.3.3	Vinylacetyl-CoA Delta-isomerase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1467		VBIButVir287785_1467			5.3.3.3	Vinylacetyl-CoA Delta-isomerase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1469		VBIButVir287785_1469			2.7.2.3	Phosphoglycerate kinase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1469		VBIButVir287785_1469			2.7.2.3	Phosphoglycerate kinase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1479		VBIButVir287785_1479		Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1479		VBIButVir287785_1479		Ribose-5-phosphate isomerase B (EC 5.3.1.6)	5.3.1.6	Ribose-5-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1480		VBIButVir287785_1480			1.1.1.40	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1480		VBIButVir287785_1480			1.1.1.40	Malate dehydrogenase (oxaloacetate-decarboxylating) (NADP(+))	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1489		VBIButVir287785_1489			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1489		VBIButVir287785_1489			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1490		VBIButVir287785_1490			6.1.1.12	Aspartate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1492		VBIButVir287785_1492			6.1.1.1	Tyrosine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1507		VBIButVir287785_1507			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1507		VBIButVir287785_1507			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1507		VBIButVir287785_1507			1.2.1.11	Aspartate-semialdehyde dehydrogenase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1510		VBIButVir287785_1510			2.1.1.151	Cobalt-factor II C(20)-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1517		VBIButVir287785_1517		Cobalt-precorrin-6A reductase (EC 1.3.1.106) / Cobalt-precorrin-5B (C1)-methyltransferase (EC 2.1.1.195)	2.1.1.195	Cobalt-precorrin-5B (C(1))-methyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1519		VBIButVir287785_1519			3.7.1.12	Cobalt-precorrin 5A hydrolase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1520		VBIButVir287785_1520			2.1.1.196	Cobalt-precorrin-6B (C(15))-methyltransferase (decarboxylating)	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1523		VBIButVir287785_1523			4.99.1.3	Sirohydrochlorin cobaltochelatase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1523		VBIButVir287785_1523			4.99.1.4	Sirohydrochlorin ferrochelatase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00253	Tetracycline biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00565	Ether lipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00623	2,4-Dichlorobenzoate degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00626	Naphthalene and anthracene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00627	1,4-Dichlorobenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00642	Ethylbenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00903	Limonene and pinene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00904	Diterpenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1529		VBIButVir287785_1529			2.3.1.-	Transferring groups other than amino-acyl groups	01056	Biosynthesis of type II polyketide backbone
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1530		VBIButVir287785_1530		D-alanine--poly(phosphoribitol) ligase ACP subunit (EC 6.1.1.13)	6.1.1.13	D-alanine--poly(phosphoribitol) ligase	00473	D-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1531		VBIButVir287785_1531			6.1.1.13	D-alanine--poly(phosphoribitol) ligase	00473	D-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1532		VBIButVir287785_1532			6.3.5.11	Cobyrinate a,c-diamide synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1534		VBIButVir287785_1534			6.3.1.10	Adenosylcobinamide-phosphate synthase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1535		VBIButVir287785_1535			4.1.1.81	Threonine-phosphate decarboxylase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1536		VBIButVir287785_1536			6.3.5.10	Adenosylcobyric acid synthase (glutamine-hydrolyzing)	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1537		VBIButVir287785_1537			2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1540		VBIButVir287785_1540			2.7.1.156	Adenosylcobinamide kinase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1540		VBIButVir287785_1540			2.7.7.62	Adenosylcobinamide-phosphate guanylyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1541		VBIButVir287785_1541			2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1542		VBIButVir287785_1542			2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1556		VBIButVir287785_1556			3.1.3.73	Adenosylcobalamin/alpha-ribazole phosphatase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1559		VBIButVir287785_1559			4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1559		VBIButVir287785_1559			4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1559		VBIButVir287785_1559			4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1559		VBIButVir287785_1559			4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1559		VBIButVir287785_1559			4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1562		VBIButVir287785_1562			6.1.1.16	Cysteine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1591		VBIButVir287785_1591			6.1.1.9	Valine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1597		VBIButVir287785_1597			6.1.1.7	Alanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1605		VBIButVir287785_1605			4.3.1.3	Histidine ammonia-lyase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1606		VBIButVir287785_1606			6.1.1.21	Histidine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1618		VBIButVir287785_1618			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1618		VBIButVir287785_1618			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1618		VBIButVir287785_1618			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1618		VBIButVir287785_1618			4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1619		VBIButVir287785_1619			2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1620		VBIButVir287785_1620		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1620		VBIButVir287785_1620		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1620		VBIButVir287785_1620		UDP-3-O-[3-hydroxymyristoyl] N-acetylglucosamine deacetylase (EC 3.5.1.108) / 3-hydroxyacyl-[acyl-carrier-protein] dehydratase, FabZ form (EC 4.2.1.59)	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1621		VBIButVir287785_1621			2.3.1.191	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1627		VBIButVir287785_1627			4.2.3.3	Methylglyoxal synthase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1658		VBIButVir287785_1658			1.4.4.2	Glycine dehydrogenase (aminomethyl-transferring)	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1671		VBIButVir287785_1671			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1671		VBIButVir287785_1671			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1675		VBIButVir287785_1675			2.7.1.33	Pantothenate kinase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1677		VBIButVir287785_1677			5.-.-.-	Isomerases	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1677		VBIButVir287785_1677			5.-.-.-	Isomerases	00100	Steroid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1679		VBIButVir287785_1679			3.6.1.27	Undecaprenyl-diphosphate phosphatase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1696		VBIButVir287785_1696		S-methyl-5-thioribose-1-phosphate isomerase (EC 5.3.1.23)	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1700		VBIButVir287785_1700			3.5.1.24	Choloylglycine hydrolase	00120	Primary bile acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1700		VBIButVir287785_1700			3.5.1.24	Choloylglycine hydrolase	00121	Secondary bile acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1709		VBIButVir287785_1709			2.4.99.12	Lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1709		VBIButVir287785_1709			2.4.99.13	(KDO)-lipid IV(A) 3-deoxy-D-manno-octulosonic acid transferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1758		VBIButVir287785_1758			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1758		VBIButVir287785_1758			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1758		VBIButVir287785_1758			1.4.1.4	Glutamate dehydrogenase (NADP(+))	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1759		VBIButVir287785_1759		3-phosphoshikimate 1-carboxyvinyltransferase (EC 2.5.1.19)	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1760		VBIButVir287785_1760			4.2.3.4	3-dehydroquinate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1779		VBIButVir287785_1779			3.5.1.1	Asparaginase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1779		VBIButVir287785_1779			3.5.1.1	Asparaginase	00460	Cyanoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1779		VBIButVir287785_1779			3.5.1.1	Asparaginase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1787		VBIButVir287785_1787			4.3.2.1	Argininosuccinate lyase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1787		VBIButVir287785_1787			4.3.2.1	Argininosuccinate lyase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1792		VBIButVir287785_1792			6.3.4.5	Argininosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1792		VBIButVir287785_1792			6.3.4.5	Argininosuccinate synthase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1854		VBIButVir287785_1854			2.7.1.26	Riboflavin kinase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1854		VBIButVir287785_1854			2.7.7.2	FAD synthetase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1924		VBIButVir287785_1924			1.17.4.1	Ribonucleoside-diphosphate reductase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1924		VBIButVir287785_1924			1.17.4.1	Ribonucleoside-diphosphate reductase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1924		VBIButVir287785_1924			1.17.4.1	Ribonucleoside-diphosphate reductase	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1939		VBIButVir287785_1939			3.1.3.11	Fructose-bisphosphatase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1939		VBIButVir287785_1939			3.1.3.11	Fructose-bisphosphatase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1939		VBIButVir287785_1939			3.1.3.11	Fructose-bisphosphatase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1939		VBIButVir287785_1939			3.1.3.11	Fructose-bisphosphatase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1939		VBIButVir287785_1939			3.1.3.11	Fructose-bisphosphatase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1941		VBIButVir287785_1941			2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1941		VBIButVir287785_1941			2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1941		VBIButVir287785_1941			2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1950		VBIButVir287785_1950			6.1.1.4	Leucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1975		VBIButVir287785_1975			3.5.4.12	dCMP deaminase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1976		VBIButVir287785_1976			2.5.1.29	Geranylgeranyl diphosphate synthase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00401	Novobiocin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1986		VBIButVir287785_1986			2.6.1.57	Aromatic-amino-acid transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.1998		VBIButVir287785_1998			4.1.2.4	Deoxyribose-phosphate aldolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2006		VBIButVir287785_2006			6.1.1.22	Asparagine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2014		VBIButVir287785_2014			3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2024		VBIButVir287785_2024			2.4.1.182	Lipid-A-disaccharide synthase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2025		VBIButVir287785_2025			2.4.1.83	Dolichyl-phosphate beta-D-mannosyltransferase	00510	N-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2026		VBIButVir287785_2026		Uridylate kinase (EC 2.7.4.22)	2.7.4.22	UMP kinase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2027		VBIButVir287785_2027			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2027		VBIButVir287785_2027			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2031		VBIButVir287785_2031		Alanine transaminase (EC 2.6.1.2)	2.6.1.2	Alanine transaminase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2031		VBIButVir287785_2031		Alanine transaminase (EC 2.6.1.2)	2.6.1.2	Alanine transaminase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2035		VBIButVir287785_2035			6.1.1.17	Glutamate--tRNA ligase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2035		VBIButVir287785_2035			6.1.1.17	Glutamate--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2037		VBIButVir287785_2037			2.7.1.30	Glycerol kinase	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00231	Puromycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00592	alpha-Linolenic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00633	Trinitrotoluene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00950	Isoquinoline alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	00981	Insect hormone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2039		VBIButVir287785_2039			1.-.-.-	Oxidoreductases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2042		VBIButVir287785_2042			3.6.1.-	In phosphorous-containing anhydrides	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2042		VBIButVir287785_2042			3.6.1.-	In phosphorous-containing anhydrides	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2063		VBIButVir287785_2063			5.4.2.2	Phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2067		VBIButVir287785_2067			2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2067		VBIButVir287785_2067			2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2067		VBIButVir287785_2067			2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2083		VBIButVir287785_2083			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2083		VBIButVir287785_2083			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2084		VBIButVir287785_2084			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2084		VBIButVir287785_2084			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2103		VBIButVir287785_2103		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, gamma subunit (EC 1.2.7.-) / 2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, alpha subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2103		VBIButVir287785_2103			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2103		VBIButVir287785_2103			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2104		VBIButVir287785_2104		2-oxoglutarate/2-oxoacid ferredoxin oxidoreductase, beta subunit (EC 1.2.7.-)	1.2.7.-	With an iron-sulfur protein as acceptor	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2104		VBIButVir287785_2104			1.2.7.3	2-oxoglutarate synthase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2104		VBIButVir287785_2104			1.2.7.3	2-oxoglutarate synthase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2124		VBIButVir287785_2124		Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)	1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2124		VBIButVir287785_2124		Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)	1.11.1.9	Glutathione peroxidase	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2124		VBIButVir287785_2124		Glutathione peroxidase (EC 1.11.1.9) @ Thioredoxin peroxidase (EC 1.11.1.15)	1.11.1.9	Glutathione peroxidase	00590	Arachidonic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2152		VBIButVir287785_2152			3.5.1.24	Choloylglycine hydrolase	00120	Primary bile acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2152		VBIButVir287785_2152			3.5.1.24	Choloylglycine hydrolase	00121	Secondary bile acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2177		VBIButVir287785_2177			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2177		VBIButVir287785_2177			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2183		VBIButVir287785_2183			2.1.2.2	Phosphoribosylglycinamide formyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2183		VBIButVir287785_2183			2.1.2.2	Phosphoribosylglycinamide formyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2185		VBIButVir287785_2185			2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2185		VBIButVir287785_2185			2.3.1.179	Beta-ketoacyl-[acyl-carrier-protein] synthase II	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2193		VBIButVir287785_2193			1.4.1.16	Diaminopimelate dehydrogenase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2195		VBIButVir287785_2195			5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2195		VBIButVir287785_2195			5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2195		VBIButVir287785_2195			5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2195		VBIButVir287785_2195			5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2196		VBIButVir287785_2196			5.4.99.2	Methylmalonyl-CoA mutase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2196		VBIButVir287785_2196			5.4.99.2	Methylmalonyl-CoA mutase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2196		VBIButVir287785_2196			5.4.99.2	Methylmalonyl-CoA mutase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2196		VBIButVir287785_2196			5.4.99.2	Methylmalonyl-CoA mutase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2197		VBIButVir287785_2197		Ser/Thr protein phosphatase family protein, UDP-2,3-diacylglucosamine hydrolase (EC 3.6.1.54) homolog	3.6.1.54	UDP-2,3-diacylglucosamine diphosphatase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2198		VBIButVir287785_2198		Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2198		VBIButVir287785_2198		Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00450	Selenoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2198		VBIButVir287785_2198		Cystathionine beta-lyase (EC 4.4.1.8)	4.4.1.8	Cystathionine beta-lyase	00920	Sulfur metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2209		VBIButVir287785_2209			2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2214		VBIButVir287785_2214			4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2223		VBIButVir287785_2223			4.2.1.113	o-succinylbenzoate synthase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2224		VBIButVir287785_2224			6.2.1.26	o-succinylbenzoate--CoA ligase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2225		VBIButVir287785_2225			3.5.1.2	Glutaminase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2225		VBIButVir287785_2225			3.5.1.2	Glutaminase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2225		VBIButVir287785_2225			3.5.1.2	Glutaminase	00471	D-Glutamine and D-glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2225		VBIButVir287785_2225			3.5.1.2	Glutaminase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2230		VBIButVir287785_2230			4.2.1.46	dTDP-glucose 4,6-dehydratase	00521	Streptomycin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2230		VBIButVir287785_2230			4.2.1.46	dTDP-glucose 4,6-dehydratase	00523	Polyketide sugar unit biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2230		VBIButVir287785_2230			4.2.1.46	dTDP-glucose 4,6-dehydratase	01055	Biosynthesis of vancomycin group antibiotics
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2233		VBIButVir287785_2233			2.4.1.182	Lipid-A-disaccharide synthase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2243		VBIButVir287785_2243			1.7.99.1	Hydroxylamine reductase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2259		VBIButVir287785_2259			1.8.1.9	Thioredoxin-disulfide reductase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2259		VBIButVir287785_2259			1.8.1.9	Thioredoxin-disulfide reductase	00450	Selenoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2262		VBIButVir287785_2262			4.2.1.49	Urocanate hydratase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2269		VBIButVir287785_2269			2.4.2.17	ATP phosphoribosyltransferase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2270		VBIButVir287785_2270			1.1.1.23	Histidinol dehydrogenase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00350	Tyrosine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00401	Novobiocin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2271		VBIButVir287785_2271			2.6.1.9	Histidinol-phosphate transaminase	00960	Tropane, piperidine and pyridine alkaloid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2272		VBIButVir287785_2272			3.1.3.15	Histidinol-phosphatase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2272		VBIButVir287785_2272			4.2.1.19	Imidazoleglycerol-phosphate dehydratase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2274		VBIButVir287785_2274			5.3.1.16	1-(5-phosphoribosyl)-5-((5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2276		VBIButVir287785_2276			3.5.4.19	Phosphoribosyl-AMP cyclohydrolase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2276		VBIButVir287785_2276			3.6.1.31	Phosphoribosyl-ATP diphosphatase	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2278		VBIButVir287785_2278			5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2279		VBIButVir287785_2279			2.4.2.8	Hypoxanthine phosphoribosyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2279		VBIButVir287785_2279			2.4.2.8	Hypoxanthine phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2282		VBIButVir287785_2282			2.1.1.163	Demethylmenaquinone methyltransferase	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2283		VBIButVir287785_2283			3.5.3.6	Arginine deiminase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2293		VBIButVir287785_2293			2.7.7.8	Polyribonucleotide nucleotidyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2293		VBIButVir287785_2293			2.7.7.8	Polyribonucleotide nucleotidyltransferase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2300		VBIButVir287785_2300			1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase	00750	Vitamin B6 metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00281	Geraniol degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00626	Naphthalene and anthracene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2301		VBIButVir287785_2301		Fe-S oxidoreductase (Ferredoxin) (EC 1.3.99.-)	1.3.99.-	With other acceptors	00930	Caprolactam degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2322		VBIButVir287785_2322		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2325		VBIButVir287785_2325			5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2325		VBIButVir287785_2325			5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2331		VBIButVir287785_2331			1.6.99.3	NADH dehydrogenase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2333		VBIButVir287785_2333			3.1.4.14	[Acyl-carrier-protein] phosphodiesterase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2336		VBIButVir287785_2336			2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2336		VBIButVir287785_2336			4.1.3.27	Anthranilate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2339		VBIButVir287785_2339			2.6.1.85	Aminodeoxychorismate synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2344		VBIButVir287785_2344			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2345		VBIButVir287785_2345		UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2345		VBIButVir287785_2345		UDP-N-acetylmuramoyl-dipeptide--2,6-diaminopimelate ligase (EC 6.3.2.13)	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2346		VBIButVir287785_2346			2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2347		VBIButVir287785_2347		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00471	D-Glutamine and D-glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2347		VBIButVir287785_2347		UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase (EC 6.3.2.9)	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2348		VBIButVir287785_2348		Peptidoglycan glycosyltransferase FtsW (EC 2.4.1.129)	2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2349		VBIButVir287785_2349			2.4.1.227	Undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2350		VBIButVir287785_2350		UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00471	D-Glutamine and D-glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2350		VBIButVir287785_2350		UDP-N-acetylmuramate--L-alanine ligase (EC 6.3.2.8)	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2359		VBIButVir287785_2359			3.4.16.4	Serine-type D-Ala-D-Ala carboxypeptidase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2367		VBIButVir287785_2367			1.1.1.205	IMP dehydrogenase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2367		VBIButVir287785_2367			1.1.1.205	IMP dehydrogenase	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2383		VBIButVir287785_2383			2.7.1.148	4-(cytidine 5'-diphospho)-2-C-methyl-D-erythritol kinase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2397		VBIButVir287785_2397		NADH pyrophosphatase (EC 3.6.1.22), decaps 5'-NAD modified RNA	3.6.1.22	NAD(+) diphosphatase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2435		VBIButVir287785_2435			1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2444		VBIButVir287785_2444			1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2444		VBIButVir287785_2444			1.5.1.20	Methylenetetrahydrofolate reductase (NAD(P)H)	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2445		VBIButVir287785_2445			2.1.1.13	Methionine synthase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2445		VBIButVir287785_2445			2.1.1.13	Methionine synthase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2476		VBIButVir287785_2476			2.1.2.1	Glycine hydroxymethyltransferase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2476		VBIButVir287785_2476			2.1.2.1	Glycine hydroxymethyltransferase	00460	Cyanoamino acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2476		VBIButVir287785_2476			2.1.2.1	Glycine hydroxymethyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2476		VBIButVir287785_2476			2.1.2.1	Glycine hydroxymethyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2476		VBIButVir287785_2476			2.1.2.1	Glycine hydroxymethyltransferase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2487		VBIButVir287785_2487			6.3.2.12	Dihydrofolate synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2487		VBIButVir287785_2487			6.3.2.17	Tetrahydrofolate synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00340	Histidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00380	Tryptophan metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00625	Tetrachloroethene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2492		VBIButVir287785_2492			1.2.1.3	Aldehyde dehydrogenase (NAD(+))	00903	Limonene and pinene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2494		VBIButVir287785_2494			4.2.1.2	Fumarate hydratase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2494		VBIButVir287785_2494			4.2.1.2	Fumarate hydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2497		VBIButVir287785_2497			3.5.1.42	Nicotinamide-nucleotide amidase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2497		VBIButVir287785_2497			3.6.1.13	ADP-ribose diphosphatase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2501		VBIButVir287785_2501			4.2.3.5	Chorismate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2510		VBIButVir287785_2510			5.3.1.1	Triose-phosphate isomerase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2510		VBIButVir287785_2510			5.3.1.1	Triose-phosphate isomerase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2510		VBIButVir287785_2510			5.3.1.1	Triose-phosphate isomerase	00562	Inositol phosphate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2510		VBIButVir287785_2510			5.3.1.1	Triose-phosphate isomerase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2513		VBIButVir287785_2513			2.5.1.15	Dihydropteroate synthase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2518		VBIButVir287785_2518			1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2519		VBIButVir287785_2519		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2520		VBIButVir287785_2520			2.7.7.33	Glucose-1-phosphate cytidylyltransferase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2520		VBIButVir287785_2520			2.7.7.33	Glucose-1-phosphate cytidylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2521		VBIButVir287785_2521			4.2.1.45	CDP-glucose 4,6-dehydratase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2523		VBIButVir287785_2523			2.2.1.1	Transketolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2523		VBIButVir287785_2523			2.2.1.1	Transketolase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2523		VBIButVir287785_2523			2.2.1.1	Transketolase	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2535		VBIButVir287785_2535			5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2542		VBIButVir287785_2542			2.4.2.9	Uracil phosphoribosyltransferase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2546		VBIButVir287785_2546			3.5.4.3	Guanine deaminase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2547		VBIButVir287785_2547			5.4.3.2	Lysine 2,3-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2562		VBIButVir287785_2562			3.2.1.52	Beta-N-acetylhexosaminidase	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2562		VBIButVir287785_2562			3.2.1.52	Beta-N-acetylhexosaminidase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2562		VBIButVir287785_2562			3.2.1.52	Beta-N-acetylhexosaminidase	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2562		VBIButVir287785_2562			3.2.1.52	Beta-N-acetylhexosaminidase	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2562		VBIButVir287785_2562			3.2.1.52	Beta-N-acetylhexosaminidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2577		VBIButVir287785_2577			2.1.3.2	Aspartate carbamoyltransferase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2577		VBIButVir287785_2577			2.1.3.2	Aspartate carbamoyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2579		VBIButVir287785_2579			4.1.1.36	Phosphopantothenoylcysteine decarboxylase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2579		VBIButVir287785_2579			6.3.2.5	Phosphopantothenate--cysteine ligase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2580		VBIButVir287785_2580			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2580		VBIButVir287785_2580			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2582		VBIButVir287785_2582			2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2598		VBIButVir287785_2598			6.3.4.4	Adenylosuccinate synthase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2598		VBIButVir287785_2598			6.3.4.4	Adenylosuccinate synthase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2600		VBIButVir287785_2600			2.7.6.5	GTP diphosphokinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2600		VBIButVir287785_2600			3.1.7.2	Guanosine-3',5'-bis(diphosphate) 3'-diphosphatase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2601		VBIButVir287785_2601			5.1.1.3	Glutamate racemase	00471	D-Glutamine and D-glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2604		VBIButVir287785_2604			2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2605		VBIButVir287785_2605			2.7.1.23	NAD(+) kinase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2610		VBIButVir287785_2610			1.1.1.25	Shikimate dehydrogenase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2637		VBIButVir287785_2637			2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2638		VBIButVir287785_2638			2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2638		VBIButVir287785_2638			2.7.8.8	CDP-diacylglycerol--serine O-phosphatidyltransferase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2640		VBIButVir287785_2640			5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2640		VBIButVir287785_2640			5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2641		VBIButVir287785_2641		Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2641		VBIButVir287785_2641		Glutamine--fructose-6-phosphate aminotransferase [isomerizing] (EC 2.6.1.16)	2.6.1.16	Glutamine--fructose-6-phosphate transaminase (isomerizing)	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2642		VBIButVir287785_2642			2.4.1.21	Starch synthase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2648		VBIButVir287785_2648			4.1.1.23	Orotidine-5'-phosphate decarboxylase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2661		VBIButVir287785_2661			2.7.1.35	Pyridoxal kinase	00750	Vitamin B6 metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2662		VBIButVir287785_2662			6.3.1.2	Glutamate--ammonia ligase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2662		VBIButVir287785_2662			6.3.1.2	Glutamate--ammonia ligase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2662		VBIButVir287785_2662			6.3.1.2	Glutamate--ammonia ligase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2662		VBIButVir287785_2662			6.3.1.2	Glutamate--ammonia ligase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2667		VBIButVir287785_2667			1.8.1.4	Dihydrolipoyl dehydrogenase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2667		VBIButVir287785_2667			1.8.1.4	Dihydrolipoyl dehydrogenase	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2667		VBIButVir287785_2667			1.8.1.4	Dihydrolipoyl dehydrogenase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2667		VBIButVir287785_2667			1.8.1.4	Dihydrolipoyl dehydrogenase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2667		VBIButVir287785_2667			1.8.1.4	Dihydrolipoyl dehydrogenase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2675		VBIButVir287785_2675			2.5.1.55	3-deoxy-8-phosphooctulonate synthase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2677		VBIButVir287785_2677			5.3.1.8	Mannose-6-phosphate isomerase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2677		VBIButVir287785_2677			5.3.1.8	Mannose-6-phosphate isomerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2680		VBIButVir287785_2680			1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2680		VBIButVir287785_2680			1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2681		VBIButVir287785_2681			1.3.5.1	Succinate dehydrogenase (quinone)	00020	Citrate cycle (TCA cycle)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2681		VBIButVir287785_2681			1.3.5.1	Succinate dehydrogenase (quinone)	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2683		VBIButVir287785_2683			3.2.1.52	Beta-N-acetylhexosaminidase	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2683		VBIButVir287785_2683			3.2.1.52	Beta-N-acetylhexosaminidase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2683		VBIButVir287785_2683			3.2.1.52	Beta-N-acetylhexosaminidase	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2683		VBIButVir287785_2683			3.2.1.52	Beta-N-acetylhexosaminidase	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2683		VBIButVir287785_2683			3.2.1.52	Beta-N-acetylhexosaminidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2699		VBIButVir287785_2699			2.4.2.10	Orotate phosphoribosyltransferase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2699		VBIButVir287785_2699			2.4.2.10	Orotate phosphoribosyltransferase	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2702		VBIButVir287785_2702			6.1.1.2	Tryptophan--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2713		VBIButVir287785_2713			5.1.3.2	UDP-glucose 4-epimerase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2713		VBIButVir287785_2713			5.1.3.2	UDP-glucose 4-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2714		VBIButVir287785_2714		UDP-N-acetyl-D-glucosamine 6-dehydrogenase (EC 1.1.1.136)	1.1.1.136	UDP-N-acetylglucosamine 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2715		VBIButVir287785_2715			1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2716		VBIButVir287785_2716			5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolyzing)	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2731		VBIButVir287785_2731			2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2732		VBIButVir287785_2732		Serine acetyltransferase (EC 2.3.1.30)	2.3.1.30	Serine O-acetyltransferase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2732		VBIButVir287785_2732		Serine acetyltransferase (EC 2.3.1.30)	2.3.1.30	Serine O-acetyltransferase	00920	Sulfur metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2736		VBIButVir287785_2736			4.2.1.47	GDP-mannose 4,6-dehydratase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2736		VBIButVir287785_2736			4.2.1.47	GDP-mannose 4,6-dehydratase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2737		VBIButVir287785_2737			1.1.1.271	GDP-L-fucose synthase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2737		VBIButVir287785_2737			1.1.1.271	GDP-L-fucose synthase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2741		VBIButVir287785_2741			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2741		VBIButVir287785_2741			2.7.7.13	Mannose-1-phosphate guanylyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2748		VBIButVir287785_2748			2.7.6.1	Ribose-phosphate diphosphokinase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2748		VBIButVir287785_2748			2.7.6.1	Ribose-phosphate diphosphokinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2749		VBIButVir287785_2749			3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2753		VBIButVir287785_2753			6.1.1.20	Phenylalanine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2762		VBIButVir287785_2762			4.1.1.19	Arginine decarboxylase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2763		VBIButVir287785_2763			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2763		VBIButVir287785_2763			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2765		VBIButVir287785_2765			3.5.3.11	Agmatinase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2810		VBIButVir287785_2810			3.5.1.2	Glutaminase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2810		VBIButVir287785_2810			3.5.1.2	Glutaminase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2810		VBIButVir287785_2810			3.5.1.2	Glutaminase	00471	D-Glutamine and D-glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2810		VBIButVir287785_2810			3.5.1.2	Glutaminase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2813		VBIButVir287785_2813			4.1.1.15	Glutamate decarboxylase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2813		VBIButVir287785_2813			4.1.1.15	Glutamate decarboxylase	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2813		VBIButVir287785_2813			4.1.1.15	Glutamate decarboxylase	00430	Taurine and hypotaurine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2813		VBIButVir287785_2813			4.1.1.15	Glutamate decarboxylase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2815		VBIButVir287785_2815			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2817		VBIButVir287785_2817			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2833		VBIButVir287785_2833			2.6.1.13	Ornithine aminotransferase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2836		VBIButVir287785_2836			1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2836		VBIButVir287785_2836			1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2844		VBIButVir287785_2844			1.1.1.103	L-threonine 3-dehydrogenase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2865		VBIButVir287785_2865			1.16.3.1	Ferroxidase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2871		VBIButVir287785_2871			4.1.2.17	L-fuculose-phosphate aldolase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2901		VBIButVir287785_2901		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.1.167	D-glycero-beta-D-manno-heptose-7-phosphate kinase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2901		VBIButVir287785_2901		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2910		VBIButVir287785_2910		Pyruvate dehydrogenase (quinone) (EC 1.2.5.1)	1.2.5.1	Pyruvate dehydrogenase (quinone)	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2912		VBIButVir287785_2912			4.1.2.13	Fructose-bisphosphate aldolase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2912		VBIButVir287785_2912			4.1.2.13	Fructose-bisphosphate aldolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2912		VBIButVir287785_2912			4.1.2.13	Fructose-bisphosphate aldolase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2912		VBIButVir287785_2912			4.1.2.13	Fructose-bisphosphate aldolase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2912		VBIButVir287785_2912			4.1.2.13	Fructose-bisphosphate aldolase	00710	Carbon fixation in photosynthetic organisms
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2928		VBIButVir287785_2928			3.2.1.52	Beta-N-acetylhexosaminidase	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2928		VBIButVir287785_2928			3.2.1.52	Beta-N-acetylhexosaminidase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2928		VBIButVir287785_2928			3.2.1.52	Beta-N-acetylhexosaminidase	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2928		VBIButVir287785_2928			3.2.1.52	Beta-N-acetylhexosaminidase	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2928		VBIButVir287785_2928			3.2.1.52	Beta-N-acetylhexosaminidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2929		VBIButVir287785_2929			4.4.1.5	Lactoylglutathione lyase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2939		VBIButVir287785_2939			2.7.1.4	Fructokinase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2939		VBIButVir287785_2939			2.7.1.4	Fructokinase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2939		VBIButVir287785_2939			2.7.1.4	Fructokinase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2952		VBIButVir287785_2952			3.1.4.-	Phosphoric diester hydrolases	00565	Ether lipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2979		VBIButVir287785_2979			3.2.1.23	Beta-galactosidase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2979		VBIButVir287785_2979			3.2.1.23	Beta-galactosidase	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2979		VBIButVir287785_2979			3.2.1.23	Beta-galactosidase	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2979		VBIButVir287785_2979			3.2.1.23	Beta-galactosidase	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.2995		VBIButVir287785_2995			2.4.2.-	Pentosyltransferases	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3038		VBIButVir287785_3038		Beta-phosphoglucomutase (EC 5.4.2.6)	5.4.2.6	Beta-phosphoglucomutase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3069		VBIButVir287785_3069			4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3075		VBIButVir287785_3075			2.3.1.39	[Acyl-carrier-protein] S-malonyltransferase	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3076		VBIButVir287785_3076			3.5.4.16	GTP cyclohydrolase I	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3079		VBIButVir287785_3079			4.1.1.20	Diaminopimelate decarboxylase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3080		VBIButVir287785_3080			2.7.2.4	Aspartate kinase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3080		VBIButVir287785_3080			2.7.2.4	Aspartate kinase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3080		VBIButVir287785_3080			2.7.2.4	Aspartate kinase	00300	Lysine biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3085		VBIButVir287785_3085			2.7.1.11	6-phosphofructokinase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3085		VBIButVir287785_3085			2.7.1.11	6-phosphofructokinase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3085		VBIButVir287785_3085			2.7.1.11	6-phosphofructokinase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3085		VBIButVir287785_3085			2.7.1.11	6-phosphofructokinase	00052	Galactose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3085		VBIButVir287785_3085			2.7.1.11	6-phosphofructokinase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3092		VBIButVir287785_3092			2.2.1.2	Transaldolase	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3100		VBIButVir287785_3100			2.7.2.2	Carbamate kinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3100		VBIButVir287785_3100			2.7.2.2	Carbamate kinase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3100		VBIButVir287785_3100			2.7.2.2	Carbamate kinase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3101		VBIButVir287785_3101			2.1.3.3	Ornithine carbamoyltransferase	00330	Arginine and proline metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3103		VBIButVir287785_3103			2.1.2.10	Aminomethyltransferase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3103		VBIButVir287785_3103			2.1.2.10	Aminomethyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3103		VBIButVir287785_3103			2.1.2.10	Aminomethyltransferase	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3104		VBIButVir287785_3104			2.6.1.52	Phosphoserine transaminase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3104		VBIButVir287785_3104			2.6.1.52	Phosphoserine transaminase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3104		VBIButVir287785_3104			2.6.1.52	Phosphoserine transaminase	00750	Vitamin B6 metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3105		VBIButVir287785_3105			1.1.1.95	Phosphoglycerate dehydrogenase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3105		VBIButVir287785_3105			1.1.1.95	Phosphoglycerate dehydrogenase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.2	Acetyl-CoA carboxylase	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.2	Acetyl-CoA carboxylase	00253	Tetracycline biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.2	Acetyl-CoA carboxylase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.2	Acetyl-CoA carboxylase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.2	Acetyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.3	Propionyl-CoA carboxylase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.3	Propionyl-CoA carboxylase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.3	Propionyl-CoA carboxylase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3110		VBIButVir287785_3110			6.4.1.3	Propionyl-CoA carboxylase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3115		VBIButVir287785_3115			3.1.4.46	Glycerophosphodiester phosphodiesterase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3131		VBIButVir287785_3131			3.6.1.54	UDP-2,3-diacylglucosamine diphosphatase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3133		VBIButVir287785_3133			3.6.1.1	Inorganic diphosphatase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3134		VBIButVir287785_3134			5.3.1.28	D-sedoheptulose 7-phosphate isomerase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3142		VBIButVir287785_3142			4.2.1.11	Phosphopyruvate hydratase	00010	Glycolysis / Gluconeogenesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3142		VBIButVir287785_3142			4.2.1.11	Phosphopyruvate hydratase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3145		VBIButVir287785_3145			2.7.7.6	DNA-directed RNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3145		VBIButVir287785_3145			2.7.7.6	DNA-directed RNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3191		VBIButVir287785_3191			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3191		VBIButVir287785_3191			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3191		VBIButVir287785_3191			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3192		VBIButVir287785_3192			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3192		VBIButVir287785_3192			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3192		VBIButVir287785_3192			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3193		VBIButVir287785_3193			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3193		VBIButVir287785_3193			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3193		VBIButVir287785_3193			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3195		VBIButVir287785_3195			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3195		VBIButVir287785_3195			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3195		VBIButVir287785_3195			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3196		VBIButVir287785_3196			3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3196		VBIButVir287785_3196			3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3196		VBIButVir287785_3196			3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3197		VBIButVir287785_3197		V-type ATP synthase subunit C (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3197		VBIButVir287785_3197		V-type ATP synthase subunit C (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3197		VBIButVir287785_3197		V-type ATP synthase subunit C (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3198		VBIButVir287785_3198		V-type ATP synthase subunit E (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00190	Oxidative phosphorylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3198		VBIButVir287785_3198		V-type ATP synthase subunit E (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00195	Photosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3198		VBIButVir287785_3198		V-type ATP synthase subunit E (EC 3.6.3.14)	3.6.3.14	H(+)-transporting two-sector ATPase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3212		VBIButVir287785_3212			2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3258		VBIButVir287785_3258			2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine diphosphokinase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3260		VBIButVir287785_3260			2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3260		VBIButVir287785_3260			2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3264		VBIButVir287785_3264			2.7.1.130	Tetraacyldisaccharide 4'-kinase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3265		VBIButVir287785_3265			2.4.2.1	Purine-nucleoside phosphorylase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3265		VBIButVir287785_3265			2.4.2.1	Purine-nucleoside phosphorylase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3265		VBIButVir287785_3265			2.4.2.1	Purine-nucleoside phosphorylase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3276		VBIButVir287785_3276		Alkyl hydroperoxide reductase protein C (EC 1.11.1.15)	1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3279		VBIButVir287785_3279			1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3280		VBIButVir287785_3280			1.10.3.-	With oxygen as acceptor	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3281		VBIButVir287785_3281			2.4.2.14	Amidophosphoribosyltransferase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3281		VBIButVir287785_3281			2.4.2.14	Amidophosphoribosyltransferase	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3315		VBIButVir287785_3315			2.7.7.18	Nicotinate-nucleotide adenylyltransferase	00760	Nicotinate and nicotinamide metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3316		VBIButVir287785_3316			2.7.4.8	Guanylate kinase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3349		VBIButVir287785_3349			2.3.1.180	Beta-ketoacyl-[acyl-carrier-protein] synthase III	00061	Fatty acid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3352		VBIButVir287785_3352			3.4.11.2	Membrane alanyl aminopeptidase	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3353		VBIButVir287785_3353			2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3364		VBIButVir287785_3364			5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3366		VBIButVir287785_3366			6.3.5.4	Asparagine synthase (glutamine-hydrolyzing)	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3366		VBIButVir287785_3366			6.3.5.4	Asparagine synthase (glutamine-hydrolyzing)	00910	Nitrogen metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3370		VBIButVir287785_3370			2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-glucuronate N-acetyltransferase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3386		VBIButVir287785_3386			6.1.1.5	Isoleucine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3388		VBIButVir287785_3388			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3390		VBIButVir287785_3390			3.1.4.46	Glycerophosphodiester phosphodiesterase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3394		VBIButVir287785_3394			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3394		VBIButVir287785_3394			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3394		VBIButVir287785_3394			4.2.1.55	3-hydroxybutyryl-CoA dehydratase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3395		VBIButVir287785_3395			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00360	Phenylalanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3395		VBIButVir287785_3395			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3395		VBIButVir287785_3395			1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3403		VBIButVir287785_3403			1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3403		VBIButVir287785_3403			1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3403		VBIButVir287785_3403			1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3403		VBIButVir287785_3403			1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3404		VBIButVir287785_3404			5.1.3.12	UDP-glucuronate 5'-epimerase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00512	O-Glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00513	High-mannose type N-glycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00522	Biosynthesis of 12-, 14- and 16-membered macrolides
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00561	Glycerolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00563	Glycosylphosphatidylinositol(GPI)-anchor biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00600	Sphingolipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00601	Glycosphingolipid biosynthesis - lacto and neolacto series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00603	Glycosphingolipid biosynthesis - globo series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00604	Glycosphingolipid biosynthesis - ganglio series
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00906	Carotenoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00941	Flavonoid biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00942	Anthocyanin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00944	Flavone and flavonol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00945	Stilbenoid, diarylheptanoid and gingerol biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	00965	Betalain biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	01051	Biosynthesis of ansamycins
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3411		VBIButVir287785_3411			2.4.1.-	Hexosyltransferases	01057	Biosynthesis of type II polyketide products
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00062	Fatty acid elongation in mitochondria
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00281	Geraniol degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00592	alpha-Linolenic acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.16	Acetyl-CoA C-acyltransferase	00642	Ethylbenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00072	Synthesis and degradation of ketone bodies
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00280	Valine, leucine and isoleucine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00362	Benzoate degradation via hydroxylation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00380	Tryptophan metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00620	Pyruvate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00640	Propanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00650	Butanoate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00720	Reductive carboxylate cycle (CO2 fixation)
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3427		VBIButVir287785_3427			2.3.1.9	Acetyl-CoA C-acetyltransferase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3429		VBIButVir287785_3429			5.4.3.3	Beta-lysine 5,6-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3429		VBIButVir287785_3429			5.4.3.4	D-lysine 5,6-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3430		VBIButVir287785_3430			5.4.3.3	Beta-lysine 5,6-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3430		VBIButVir287785_3430			5.4.3.4	D-lysine 5,6-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3433		VBIButVir287785_3433			5.4.3.2	Lysine 2,3-aminomutase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3434		VBIButVir287785_3434			1.4.1.11	L-erythro-3,5-diaminohexanoate dehydrogenase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3435		VBIButVir287785_3435			1.4.1.11	L-erythro-3,5-diaminohexanoate dehydrogenase	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3459		VBIButVir287785_3459		2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)	3.1.3.6	3'-nucleotidase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3459		VBIButVir287785_3459		2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)	3.1.3.6	3'-nucleotidase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3459		VBIButVir287785_3459		2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)	3.1.4.16	2',3'-cyclic-nucleotide 2'-phosphodiesterase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3459		VBIButVir287785_3459		2',3'-cyclic-nucleotide 2'-phosphodiesterase (EC 3.1.4.16) / 3'-nucleotidase (EC 3.1.3.6)	3.1.4.16	2',3'-cyclic-nucleotide 2'-phosphodiesterase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3513		VBIButVir287785_3513			6.1.1.14	Glycine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3519		VBIButVir287785_3519			3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3519		VBIButVir287785_3519			3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3545		VBIButVir287785_3545		Dihydroneopterin aldolase (EC 4.1.2.25)	4.1.2.25	Dihydroneopterin aldolase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3580		VBIButVir287785_3580			3.1.5.1	dGTPase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3583		VBIButVir287785_3583			2.5.1.6	Methionine adenosyltransferase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3594		VBIButVir287785_3594		Glucosamine-6-phosphate deaminase (EC 3.5.99.6) / domain similar to N-acetylglucosaminyl-phosphatidylinositol de-N-acetylase	3.5.99.6	Glucosamine-6-phosphate deaminase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3603		VBIButVir287785_3603			1.1.1.44	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3603		VBIButVir287785_3603			1.1.1.44	Phosphogluconate dehydrogenase (NADP(+)-dependent, decarboxylating)	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3604		VBIButVir287785_3604			1.1.1.49	Glucose-6-phosphate dehydrogenase (NADP(+))	00030	Pentose phosphate pathway
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3604		VBIButVir287785_3604			1.1.1.49	Glucose-6-phosphate dehydrogenase (NADP(+))	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3608		VBIButVir287785_3608			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3608		VBIButVir287785_3608			2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase	00900	Terpenoid backbone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3667		VBIButVir287785_3667			6.1.1.6	Lysine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3668		VBIButVir287785_3668			1.1.1.94	Glycerol-3-phosphate dehydrogenase (NAD(P)(+))	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3674		VBIButVir287785_3674			3.1.3.18	Phosphoglycolate phosphatase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3682		VBIButVir287785_3682			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3682		VBIButVir287785_3682			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3683		VBIButVir287785_3683			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3683		VBIButVir287785_3683			6.3.5.5	Carbamoyl-phosphate synthase (glutamine-hydrolyzing)	00250	Alanine, aspartate and glutamate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3685		VBIButVir287785_3685			6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3685		VBIButVir287785_3685			6.3.2.1	Pantoate--beta-alanine ligase (AMP-forming)	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3686		VBIButVir287785_3686			4.1.1.11	Aspartate 1-decarboxylase	00410	beta-Alanine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3686		VBIButVir287785_3686			4.1.1.11	Aspartate 1-decarboxylase	00770	Pantothenate and CoA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3687		VBIButVir287785_3687		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.1.167	D-glycero-beta-D-manno-heptose-7-phosphate kinase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3687		VBIButVir287785_3687		D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase (EC 2.7.7.70) / D-glycero-beta-D-manno-heptose-7-phosphate kinase (EC 2.7.1.167)	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase	00540	Lipopolysaccharide biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3689		VBIButVir287785_3689			3.6.1.23	dUTP diphosphatase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3696		VBIButVir287785_3696			3.5.4.2	Adenine deaminase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3699		VBIButVir287785_3699			2.5.1.54	3-deoxy-7-phosphoheptulonate synthase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3699		VBIButVir287785_3699			5.4.99.5	Chorismate mutase	00400	Phenylalanine, tyrosine and tryptophan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3701		VBIButVir287785_3701			2.7.7.7	DNA-directed DNA polymerase	00230	Purine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3701		VBIButVir287785_3701			2.7.7.7	DNA-directed DNA polymerase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3703		VBIButVir287785_3703			4.2.1.75	Uroporphyrinogen-III synthase	00860	Porphyrin and chlorophyll metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3736		VBIButVir287785_3736			2.4.1.129	Peptidoglycan glycosyltransferase	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3736		VBIButVir287785_3736			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00310	Lysine degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3736		VBIButVir287785_3736			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00550	Peptidoglycan biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3736		VBIButVir287785_3736			3.4.-.-	Acting on peptide bonds (peptide hydrolases)	00780	Biotin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3737		VBIButVir287785_3737			2.1.2.9	Methionyl-tRNA formyltransferase	00670	One carbon pool by folate
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3737		VBIButVir287785_3737			2.1.2.9	Methionyl-tRNA formyltransferase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3763		VBIButVir287785_3763			2.7.4.16	Thiamine-phosphate kinase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3767		VBIButVir287785_3767			2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3782		VBIButVir287785_3782			6.3.4.2	CTP synthase (glutamine hydrolyzing)	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3789		VBIButVir287785_3789			2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3790		VBIButVir287785_3790			3.5.4.25	GTP cyclohydrolase II	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3790		VBIButVir287785_3790			4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3791		VBIButVir287785_3791			2.5.1.9	Riboflavin synthase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3792		VBIButVir287785_3792			1.1.1.193	5-amino-6-(5-phosphoribosylamino)uracil reductase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3792		VBIButVir287785_3792			3.5.4.26	Diaminohydroxyphosphoribosylaminopyrimidine deaminase	00740	Riboflavin metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3818		VBIButVir287785_3818			5.4.2.10	Phosphoglucosamine mutase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3818		VBIButVir287785_3818			5.4.2.8	Phosphomannomutase	00051	Fructose and mannose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3818		VBIButVir287785_3818			5.4.2.8	Phosphomannomutase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3833		VBIButVir287785_3833			4.1.99.1	Tryptophanase	00380	Tryptophan metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3834		VBIButVir287785_3834			1.11.1.15	Peroxiredoxin	00480	Glutathione metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3843		VBIButVir287785_3843			6.2.1.3	Long-chain-fatty-acid--CoA ligase	00071	Fatty acid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3859		VBIButVir287785_3859		Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00240	Pyrimidine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3859		VBIButVir287785_3859		Uridine kinase, type 2 (EC 2.7.1.48)	2.7.1.48	Uridine kinase	00983	Drug metabolism - other enzymes
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3860		VBIButVir287785_3860			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3860		VBIButVir287785_3860			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00130	Ubiquinone and other terpenoid-quinone biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3860		VBIButVir287785_3860			3.2.1.-	Glycosidases, i.e. enzymes hydrolyzing O- and S-glycosyl compounds	00531	Glycosaminoglycan degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3867		VBIButVir287785_3867			6.1.1.18	Glutamine--tRNA ligase	00970	Aminoacyl-tRNA biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3870		VBIButVir287785_3870			3.2.2.16	Methylthioadenosine nucleosidase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3870		VBIButVir287785_3870			3.2.2.9	Adenosylhomocysteine nucleosidase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3871		VBIButVir287785_3871			4.4.1.21	S-ribosylhomocysteine lyase	00270	Cysteine and methionine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3885		VBIButVir287785_3885			1.1.1.22	UDP-glucose 6-dehydrogenase	00040	Pentose and glucuronate interconversions
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3885		VBIButVir287785_3885			1.1.1.22	UDP-glucose 6-dehydrogenase	00053	Ascorbate and aldarate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3885		VBIButVir287785_3885			1.1.1.22	UDP-glucose 6-dehydrogenase	00500	Starch and sucrose metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3885		VBIButVir287785_3885			1.1.1.22	UDP-glucose 6-dehydrogenase	00520	Amino sugar and nucleotide sugar metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3889		VBIButVir287785_3889			3.1.3.1	Alkaline phosphatase	00627	1,4-Dichlorobenzene degradation
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3889		VBIButVir287785_3889			3.1.3.1	Alkaline phosphatase	00790	Folate biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3919		VBIButVir287785_3919			2.8.1.7	Cysteine desulfurase	00730	Thiamine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3920		VBIButVir287785_3920			2.3.1.29	Glycine C-acetyltransferase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3952		VBIButVir287785_3952			2.6.1.45	Serine--glyoxylate transaminase	00260	Glycine, serine and threonine metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3952		VBIButVir287785_3952			2.6.1.45	Serine--glyoxylate transaminase	00630	Glyoxylate and dicarboxylate metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3952		VBIButVir287785_3952			2.6.1.45	Serine--glyoxylate transaminase	00680	Methane metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3957		VBIButVir287785_3957			2.5.1.75	tRNA dimethylallyltransferase	00908	Zeatin biosynthesis
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3958		VBIButVir287785_3958			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3959		VBIButVir287785_3959			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
+1121130.3	Butyricimonas virosa DSM 23226	fig|1121130.3.peg.3960		VBIButVir287785_3960			1.1.5.3	Glycerol-3-phosphate dehydrogenase	00564	Glycerophospholipid metabolism
