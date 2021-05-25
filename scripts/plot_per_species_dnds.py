@@ -43,7 +43,8 @@ n_percentile_permutations = 10000
 sub_plot_labels = ['a','b','c']
 
 
-data_dir = config.data_directory
+#data_dir = config.data_directory
+data_dir = os.path.expanduser("~/GitHub/negative_selection_microbiome/data/")
 picles_dir = "%spickles/" % data_dir
 picles_dir = "%spickles/" % data_dir
 
@@ -271,7 +272,7 @@ for species in ordered_species_list:
 
 gs = gridspec.GridSpec(nrows=2, ncols=2)
 
-fig = plt.figure(figsize = (20, 20))
+fig = plt.figure(figsize = (22, 20))
 
 divergence_axis = fig.add_subplot(gs[0, :])
 kegg_axis = fig.add_subplot(gs[1, 0])
@@ -803,7 +804,7 @@ percentile_axis.set_xlabel('Nonsynonymous ratio, $d_N/d_S$', fontsize=26)
 
 percentile_axis.set_yticks(numpy.arange(len(labels)))
 percentile_axis.set_yticklabels(labels, rotation=30)
-percentile_axis.yaxis.set_tick_params(labelsize=7.5)
+percentile_axis.yaxis.set_tick_params(labelsize=9.5)
 
 
 percentile_axis.legend(loc='lower right',frameon=True,numpoints=1)
@@ -817,4 +818,7 @@ fig.subplots_adjust(hspace=0.18, wspace=0.24) #hspace=0.3, wspace=0.5
 # , dpi = 600
 #fig.savefig("%s/dnds_by_species_%s_high_res.pdf" % (config.analysis_directory, tp_cat), bbox_inches = "tight", pad_inches = 0.5, dpi = 600)
 
-fig.savefig("%s/dnds_by_species_%s.pdf" % (config.analysis_directory, tp_cat), bbox_inches = "tight", pad_inches = 0.5)
+
+analysis_directory = os.path.expanduser("~/GitHub/negative_selection_microbiome/analysis/")
+
+fig.savefig("%s/dnds_by_species_%s.pdf" % (analysis_directory, tp_cat), bbox_inches = "tight", pad_inches = 0.5)
